@@ -8200,7 +8200,7 @@
                 ],
                 "stations": [
                     "Unidad de Propósito",
-                    "Camilo Ortega"
+                    "Plazoleta Camilo Ortega"
                 ],
                 "times": [
                     [
@@ -8512,7 +8512,7 @@
                         "21:60"
                     ]
                 ],
-                "to": "Camilo Ortega"
+                "to": "Plazoleta Camilo Ortega"
             },
             {
                 "from": "Unidad de Propósito",
@@ -8521,7 +8521,7 @@
                 ],
                 "stations": [
                     "Unidad de Propósito",
-                    "Camilo Ortega"
+                    "Plazoleta Camilo Ortega"
                 ],
                 "times": [
                     [
@@ -8749,7 +8749,7 @@
                         "20:60"
                     ]
                 ],
-                "to": "Camilo Ortega"
+                "to": "Plazoleta Camilo Ortega"
             },
             {
                 "from": "Unidad de Propósito",
@@ -8758,7 +8758,7 @@
                 ],
                 "stations": [
                     "Unidad de Propósito",
-                    "Camilo Ortega"
+                    "Plazoleta Camilo Ortega"
                 ],
                 "times": [
                     [
@@ -9002,15 +9002,15 @@
                         "20:60"
                     ]
                 ],
-                "to": "Camilo Ortega"
+                "to": "Plazoleta Camilo Ortega"
             },
             {
-                "from": "Camilo Ortega",
+                "from": "Plazoleta Camilo Ortega",
                 "service": [
                     "Mo-Fr"
                 ],
                 "stations": [
-                    "Camilo Ortega",
+                    "Plazoleta Camilo Ortega",
                     "Unidad de Propósito"
                 ],
                 "times": [
@@ -9326,12 +9326,12 @@
                 "to": "Unidad de Propósito"
             },
             {
-                "from": "Camilo Ortega",
+                "from": "Plazoleta Camilo Ortega",
                 "service": [
                     "Sa"
                 ],
                 "stations": [
-                    "Camilo Ortega",
+                    "Plazoleta Camilo Ortega",
                     "Unidad de Propósito"
                 ],
                 "times": [
@@ -9563,12 +9563,12 @@
                 "to": "Unidad de Propósito"
             },
             {
-                "from": "Camilo Ortega",
+                "from": "Plazoleta Camilo Ortega",
                 "service": [
                     "Su"
                 ],
                 "stations": [
-                    "Camilo Ortega",
+                    "Plazoleta Camilo Ortega",
                     "Unidad de Propósito"
                 ],
                 "times": [
@@ -11386,13 +11386,13 @@
         ],
         "107": [
             {
-                "from": "Camilo Ortega",
+                "from": "Plazoleta Camilo Ortega",
                 "service": [
                     "Mo-Fr"
                 ],
                 "stations": [
-                    "Camilo Ortega",
-                    "Mercado Oriental"
+                    "Plazoleta Camilo Ortega",
+                    "El Panal"
                 ],
                 "times": [
                     [
@@ -11868,16 +11868,16 @@
                         "21:48"
                     ]
                 ],
-                "to": "Mercado Oriental"
+                "to": "El Panal"
             },
             {
-                "from": "Camilo Ortega",
+                "from": "Plazoleta Camilo Ortega",
                 "service": [
                     "Sa"
                 ],
                 "stations": [
-                    "Camilo Ortega",
-                    "Mercado Oriental"
+                    "Plazoleta Camilo Ortega",
+                    "El Panal"
                 ],
                 "times": [
                     [
@@ -12353,16 +12353,16 @@
                         "21:48"
                     ]
                 ],
-                "to": "Mercado Oriental"
+                "to": "El Panal"
             },
             {
-                "from": "Camilo Ortega",
+                "from": "Plazoleta Camilo Ortega",
                 "service": [
                     "Su"
                 ],
                 "stations": [
-                    "Camilo Ortega",
-                    "Mercado Oriental"
+                    "Plazoleta Camilo Ortega",
+                    "El Panal"
                 ],
                 "times": [
                     [
@@ -12838,16 +12838,16 @@
                         "21:48"
                     ]
                 ],
-                "to": "Mercado Oriental"
+                "to": "El Panal"
             },
             {
-                "from": "Mercado Oriental",
+                "from": "El Panal",
                 "service": [
                     "Mo-Fr"
                 ],
                 "stations": [
-                    "Mercado Oriental",
-                    "Camilo Ortega"
+                    "El Panal",
+                    "Plazoleta Camilo Ortega"
                 ],
                 "times": [
                     [
@@ -13323,16 +13323,16 @@
                         "21:48"
                     ]
                 ],
-                "to": "Camilo Ortega"
+                "to": "Plazoleta Camilo Ortega"
             },
             {
-                "from": "Mercado Oriental",
+                "from": "El Panal",
                 "service": [
                     "Sa"
                 ],
                 "stations": [
-                    "Mercado Oriental",
-                    "Camilo Ortega"
+                    "El Panal",
+                    "Plazoleta Camilo Ortega"
                 ],
                 "times": [
                     [
@@ -13808,16 +13808,16 @@
                         "21:48"
                     ]
                 ],
-                "to": "Camilo Ortega"
+                "to": "Plazoleta Camilo Ortega"
             },
             {
-                "from": "Mercado Oriental",
+                "from": "El Panal",
                 "service": [
                     "Su"
                 ],
                 "stations": [
-                    "Mercado Oriental",
-                    "Camilo Ortega"
+                    "El Panal",
+                    "Plazoleta Camilo Ortega"
                 ],
                 "times": [
                     [
@@ -14293,7 +14293,7 @@
                         "21:48"
                     ]
                 ],
-                "to": "Camilo Ortega"
+                "to": "Plazoleta Camilo Ortega"
             }
         ],
         "108": [
@@ -25752,7 +25752,7 @@
                 ],
                 "stations": [
                     "Ciudad Sandino (Trinidad)",
-                    "Mercado Oriental"
+                    "El Panal"
                 ],
                 "times": [
                     [
@@ -26264,7 +26264,7 @@
                         "19:63"
                     ]
                 ],
-                "to": "Mercado Oriental"
+                "to": "El Panal"
             },
             {
                 "from": "Ciudad Sandino (Trinidad)",
@@ -26273,7 +26273,7 @@
                 ],
                 "stations": [
                     "Ciudad Sandino (Trinidad)",
-                    "Mercado Oriental"
+                    "El Panal"
                 ],
                 "times": [
                     [
@@ -26777,7 +26777,7 @@
                         "19:63"
                     ]
                 ],
-                "to": "Mercado Oriental"
+                "to": "El Panal"
             },
             {
                 "from": "Ciudad Sandino (Trinidad)",
@@ -26786,7 +26786,7 @@
                 ],
                 "stations": [
                     "Ciudad Sandino (Trinidad)",
-                    "Mercado Oriental"
+                    "El Panal"
                 ],
                 "times": [
                     [
@@ -27290,15 +27290,15 @@
                         "19:63"
                     ]
                 ],
-                "to": "Mercado Oriental"
+                "to": "El Panal"
             },
             {
-                "from": "Mercado Oriental",
+                "from": "El Panal",
                 "service": [
                     "Mo-Fr"
                 ],
                 "stations": [
-                    "Mercado Oriental",
+                    "El Panal",
                     "Ciudad Sandino (Trinidad)"
                 ],
                 "times": [
@@ -27814,12 +27814,12 @@
                 "to": "Ciudad Sandino (Trinidad)"
             },
             {
-                "from": "Mercado Oriental",
+                "from": "El Panal",
                 "service": [
                     "Sa"
                 ],
                 "stations": [
-                    "Mercado Oriental",
+                    "El Panal",
                     "Ciudad Sandino (Trinidad)"
                 ],
                 "times": [
@@ -28327,12 +28327,12 @@
                 "to": "Ciudad Sandino (Trinidad)"
             },
             {
-                "from": "Mercado Oriental",
+                "from": "El Panal",
                 "service": [
                     "Su"
                 ],
                 "stations": [
-                    "Mercado Oriental",
+                    "El Panal",
                     "Ciudad Sandino (Trinidad)"
                 ],
                 "times": [
@@ -28842,12 +28842,12 @@
         ],
         "114": [
             {
-                "from": "Villa José Benito Escobar",
+                "from": "Terminal José Benito Escobar",
                 "service": [
                     "Mo-Fr"
                 ],
                 "stations": [
-                    "Villa José Benito Escobar",
+                    "Terminal José Benito Escobar",
                     "Cuesta el Plomo"
                 ],
                 "times": [
@@ -29435,12 +29435,12 @@
                 "to": "Cuesta el Plomo"
             },
             {
-                "from": "Villa José Benito Escobar",
+                "from": "Terminal José Benito Escobar",
                 "service": [
                     "Sa"
                 ],
                 "stations": [
-                    "Villa José Benito Escobar",
+                    "Terminal José Benito Escobar",
                     "Cuesta el Plomo"
                 ],
                 "times": [
@@ -29992,12 +29992,12 @@
                 "to": "Cuesta el Plomo"
             },
             {
-                "from": "Villa José Benito Escobar",
+                "from": "Terminal José Benito Escobar",
                 "service": [
                     "Su"
                 ],
                 "stations": [
-                    "Villa José Benito Escobar",
+                    "Terminal José Benito Escobar",
                     "Cuesta el Plomo"
                 ],
                 "times": [
@@ -30427,7 +30427,7 @@
                 ],
                 "stations": [
                     "Cuesta el Plomo",
-                    "Villa José Benito Escobar"
+                    "Terminal José Benito Escobar"
                 ],
                 "times": [
                     [
@@ -31011,7 +31011,7 @@
                         "21:40"
                     ]
                 ],
-                "to": "Villa José Benito Escobar"
+                "to": "Terminal José Benito Escobar"
             },
             {
                 "from": "Cuesta el Plomo",
@@ -31020,7 +31020,7 @@
                 ],
                 "stations": [
                     "Cuesta el Plomo",
-                    "Villa José Benito Escobar"
+                    "Terminal José Benito Escobar"
                 ],
                 "times": [
                     [
@@ -31568,7 +31568,7 @@
                         "21:45"
                     ]
                 ],
-                "to": "Villa José Benito Escobar"
+                "to": "Terminal José Benito Escobar"
             },
             {
                 "from": "Cuesta el Plomo",
@@ -31577,7 +31577,7 @@
                 ],
                 "stations": [
                     "Cuesta el Plomo",
-                    "Villa José Benito Escobar"
+                    "Terminal José Benito Escobar"
                 ],
                 "times": [
                     [
@@ -31997,7 +31997,7 @@
                         "21:45"
                     ]
                 ],
-                "to": "Villa José Benito Escobar"
+                "to": "Terminal José Benito Escobar"
             }
         ],
         "115": [
@@ -32008,7 +32008,7 @@
                 ],
                 "stations": [
                     "Ciudad Sandino (Zona 5)",
-                    "Mercado Oriental"
+                    "El Panal"
                 ],
                 "times": [
                     [
@@ -32192,7 +32192,7 @@
                         "21:40"
                     ]
                 ],
-                "to": "Mercado Oriental"
+                "to": "El Panal"
             },
             {
                 "from": "Ciudad Sandino (Zona 5)",
@@ -32201,7 +32201,7 @@
                 ],
                 "stations": [
                     "Ciudad Sandino (Zona 5)",
-                    "Mercado Oriental"
+                    "El Panal"
                 ],
                 "times": [
                     [
@@ -32373,7 +32373,7 @@
                         "20:40"
                     ]
                 ],
-                "to": "Mercado Oriental"
+                "to": "El Panal"
             },
             {
                 "from": "Ciudad Sandino (Zona 5)",
@@ -32382,7 +32382,7 @@
                 ],
                 "stations": [
                     "Ciudad Sandino (Zona 5)",
-                    "Mercado Oriental"
+                    "El Panal"
                 ],
                 "times": [
                     [
@@ -32546,15 +32546,15 @@
                         "20:15"
                     ]
                 ],
-                "to": "Mercado Oriental"
+                "to": "El Panal"
             },
             {
-                "from": "Mercado Oriental",
+                "from": "El Panal",
                 "service": [
                     "Mo-Fr"
                 ],
                 "stations": [
-                    "Mercado Oriental",
+                    "El Panal",
                     "Ciudad Sandino (Zona 5)"
                 ],
                 "times": [
@@ -32742,12 +32742,12 @@
                 "to": "Ciudad Sandino (Zona 5)"
             },
             {
-                "from": "Mercado Oriental",
+                "from": "El Panal",
                 "service": [
                     "Sa"
                 ],
                 "stations": [
-                    "Mercado Oriental",
+                    "El Panal",
                     "Ciudad Sandino (Zona 5)"
                 ],
                 "times": [
@@ -32923,12 +32923,12 @@
                 "to": "Ciudad Sandino (Zona 5)"
             },
             {
-                "from": "Mercado Oriental",
+                "from": "El Panal",
                 "service": [
                     "Su"
                 ],
                 "stations": [
-                    "Mercado Oriental",
+                    "El Panal",
                     "Ciudad Sandino (Zona 5)"
                 ],
                 "times": [
@@ -35098,12 +35098,12 @@
         ],
         "117": [
             {
-                "from": "Villa José Benito Escobar",
+                "from": "Terminal José Benito Escobar",
                 "service": [
                     "Mo-Fr"
                 ],
                 "stations": [
-                    "Villa José Benito Escobar",
+                    "Terminal José Benito Escobar",
                     "UCA"
                 ],
                 "times": [
@@ -35411,12 +35411,12 @@
                 "to": "UCA"
             },
             {
-                "from": "Villa José Benito Escobar",
+                "from": "Terminal José Benito Escobar",
                 "service": [
                     "Sa"
                 ],
                 "stations": [
-                    "Villa José Benito Escobar",
+                    "Terminal José Benito Escobar",
                     "UCA"
                 ],
                 "times": [
@@ -35728,12 +35728,12 @@
                 "to": "UCA"
             },
             {
-                "from": "Villa José Benito Escobar",
+                "from": "Terminal José Benito Escobar",
                 "service": [
                     "Su"
                 ],
                 "stations": [
-                    "Villa José Benito Escobar",
+                    "Terminal José Benito Escobar",
                     "UCA"
                 ],
                 "times": [
@@ -36003,7 +36003,7 @@
                 ],
                 "stations": [
                     "UCA",
-                    "Villa José Benito Escobar"
+                    "Terminal José Benito Escobar"
                 ],
                 "times": [
                     [
@@ -36307,7 +36307,7 @@
                         "21:75"
                     ]
                 ],
-                "to": "Villa José Benito Escobar"
+                "to": "Terminal José Benito Escobar"
             },
             {
                 "from": "UCA",
@@ -36316,7 +36316,7 @@
                 ],
                 "stations": [
                     "UCA",
-                    "Villa José Benito Escobar"
+                    "Terminal José Benito Escobar"
                 ],
                 "times": [
                     [
@@ -36624,7 +36624,7 @@
                         "21:70"
                     ]
                 ],
-                "to": "Villa José Benito Escobar"
+                "to": "Terminal José Benito Escobar"
             },
             {
                 "from": "UCA",
@@ -36633,7 +36633,7 @@
                 ],
                 "stations": [
                     "UCA",
-                    "Villa José Benito Escobar"
+                    "Terminal José Benito Escobar"
                 ],
                 "times": [
                     [
@@ -36893,7 +36893,7 @@
                         "20:70"
                     ]
                 ],
-                "to": "Villa José Benito Escobar"
+                "to": "Terminal José Benito Escobar"
             }
         ],
         "118": [
@@ -45264,7 +45264,7 @@
                 ],
                 "stations": [
                     "Ciudad Sandino (Bello Amanecer)",
-                    "Mercado Oriental"
+                    "El Panal"
                 ],
                 "times": [
                     [
@@ -45472,7 +45472,7 @@
                         "19:60"
                     ]
                 ],
-                "to": "Mercado Oriental"
+                "to": "El Panal"
             },
             {
                 "from": "Ciudad Sandino (Bello Amanecer)",
@@ -45481,7 +45481,7 @@
                 ],
                 "stations": [
                     "Ciudad Sandino (Bello Amanecer)",
-                    "Mercado Oriental"
+                    "El Panal"
                 ],
                 "times": [
                     [
@@ -45689,7 +45689,7 @@
                         "19:60"
                     ]
                 ],
-                "to": "Mercado Oriental"
+                "to": "El Panal"
             },
             {
                 "from": "Ciudad Sandino (Bello Amanecer)",
@@ -45698,7 +45698,7 @@
                 ],
                 "stations": [
                     "Ciudad Sandino (Bello Amanecer)",
-                    "Mercado Oriental"
+                    "El Panal"
                 ],
                 "times": [
                     [
@@ -45906,15 +45906,15 @@
                         "19:60"
                     ]
                 ],
-                "to": "Mercado Oriental"
+                "to": "El Panal"
             },
             {
-                "from": "Mercado Oriental",
+                "from": "El Panal",
                 "service": [
                     "Mo-Fr"
                 ],
                 "stations": [
-                    "Mercado Oriental",
+                    "El Panal",
                     "Ciudad Sandino (Bello Amanecer)"
                 ],
                 "times": [
@@ -46126,12 +46126,12 @@
                 "to": "Ciudad Sandino (Bello Amanecer)"
             },
             {
-                "from": "Mercado Oriental",
+                "from": "El Panal",
                 "service": [
                     "Sa"
                 ],
                 "stations": [
-                    "Mercado Oriental",
+                    "El Panal",
                     "Ciudad Sandino (Bello Amanecer)"
                 ],
                 "times": [
@@ -46343,12 +46343,12 @@
                 "to": "Ciudad Sandino (Bello Amanecer)"
             },
             {
-                "from": "Mercado Oriental",
+                "from": "El Panal",
                 "service": [
                     "Su"
                 ],
                 "stations": [
-                    "Mercado Oriental",
+                    "El Panal",
                     "Ciudad Sandino (Bello Amanecer)"
                 ],
                 "times": [
@@ -47960,7 +47960,7 @@
                 ],
                 "stations": [
                     "Ciudad Sandino (Zona 6)",
-                    "Mercado Oriental"
+                    "El Panal"
                 ],
                 "times": [
                     [
@@ -48180,7 +48180,7 @@
                         "20:60"
                     ]
                 ],
-                "to": "Mercado Oriental"
+                "to": "El Panal"
             },
             {
                 "from": "Ciudad Sandino (Zona 6)",
@@ -48189,7 +48189,7 @@
                 ],
                 "stations": [
                     "Ciudad Sandino (Zona 6)",
-                    "Mercado Oriental"
+                    "El Panal"
                 ],
                 "times": [
                     [
@@ -48409,7 +48409,7 @@
                         "20:60"
                     ]
                 ],
-                "to": "Mercado Oriental"
+                "to": "El Panal"
             },
             {
                 "from": "Ciudad Sandino (Zona 6)",
@@ -48418,7 +48418,7 @@
                 ],
                 "stations": [
                     "Ciudad Sandino (Zona 6)",
-                    "Mercado Oriental"
+                    "El Panal"
                 ],
                 "times": [
                     [
@@ -48638,15 +48638,15 @@
                         "20:60"
                     ]
                 ],
-                "to": "Mercado Oriental"
+                "to": "El Panal"
             },
             {
-                "from": "Mercado Oriental",
+                "from": "El Panal",
                 "service": [
                     "Mo-Fr"
                 ],
                 "stations": [
-                    "Mercado Oriental",
+                    "El Panal",
                     "Ciudad Sandino (Zona 6)"
                 ],
                 "times": [
@@ -48870,12 +48870,12 @@
                 "to": "Ciudad Sandino (Zona 6)"
             },
             {
-                "from": "Mercado Oriental",
+                "from": "El Panal",
                 "service": [
                     "Sa"
                 ],
                 "stations": [
-                    "Mercado Oriental",
+                    "El Panal",
                     "Ciudad Sandino (Zona 6)"
                 ],
                 "times": [
@@ -49099,12 +49099,12 @@
                 "to": "Ciudad Sandino (Zona 6)"
             },
             {
-                "from": "Mercado Oriental",
+                "from": "El Panal",
                 "service": [
                     "Su"
                 ],
                 "stations": [
-                    "Mercado Oriental",
+                    "El Panal",
                     "Ciudad Sandino (Zona 6)"
                 ],
                 "times": [
@@ -49330,12 +49330,12 @@
         ],
         "154": [
             {
-                "from": "Camilo Ortega",
+                "from": "Plazoleta Camilo Ortega",
                 "service": [
                     "Mo-Fr"
                 ],
                 "stations": [
-                    "Camilo Ortega",
+                    "Plazoleta Camilo Ortega",
                     "Mercado Iván Montenegro"
                 ],
                 "times": [
@@ -49559,12 +49559,12 @@
                 "to": "Mercado Iván Montenegro"
             },
             {
-                "from": "Camilo Ortega",
+                "from": "Plazoleta Camilo Ortega",
                 "service": [
                     "Sa"
                 ],
                 "stations": [
-                    "Camilo Ortega",
+                    "Plazoleta Camilo Ortega",
                     "Mercado Iván Montenegro"
                 ],
                 "times": [
@@ -49788,12 +49788,12 @@
                 "to": "Mercado Iván Montenegro"
             },
             {
-                "from": "Camilo Ortega",
+                "from": "Plazoleta Camilo Ortega",
                 "service": [
                     "Su"
                 ],
                 "stations": [
-                    "Camilo Ortega",
+                    "Plazoleta Camilo Ortega",
                     "Mercado Iván Montenegro"
                 ],
                 "times": [
@@ -50023,7 +50023,7 @@
                 ],
                 "stations": [
                     "Mercado Iván Montenegro",
-                    "Camilo Ortega"
+                    "Plazoleta Camilo Ortega"
                 ],
                 "times": [
                     [
@@ -50243,7 +50243,7 @@
                         "20:45"
                     ]
                 ],
-                "to": "Camilo Ortega"
+                "to": "Plazoleta Camilo Ortega"
             },
             {
                 "from": "Mercado Iván Montenegro",
@@ -50252,7 +50252,7 @@
                 ],
                 "stations": [
                     "Mercado Iván Montenegro",
-                    "Camilo Ortega"
+                    "Plazoleta Camilo Ortega"
                 ],
                 "times": [
                     [
@@ -50472,7 +50472,7 @@
                         "20:45"
                     ]
                 ],
-                "to": "Camilo Ortega"
+                "to": "Plazoleta Camilo Ortega"
             },
             {
                 "from": "Mercado Iván Montenegro",
@@ -50481,7 +50481,7 @@
                 ],
                 "stations": [
                     "Mercado Iván Montenegro",
-                    "Camilo Ortega"
+                    "Plazoleta Camilo Ortega"
                 ],
                 "times": [
                     [
@@ -50701,18 +50701,18 @@
                         "20:45"
                     ]
                 ],
-                "to": "Camilo Ortega"
+                "to": "Plazoleta Camilo Ortega"
             }
         ],
         "158": [
             {
-                "from": "Camilo Ortega",
+                "from": "Plazoleta Camilo Ortega",
                 "service": [
                     "Mo-Fr"
                 ],
                 "stations": [
-                    "Camilo Ortega",
-                    "Mercado Oriental"
+                    "Plazoleta Camilo Ortega",
+                    "El Panal"
                 ],
                 "times": [
                     [
@@ -51052,16 +51052,16 @@
                         "20:45"
                     ]
                 ],
-                "to": "Mercado Oriental"
+                "to": "El Panal"
             },
             {
-                "from": "Camilo Ortega",
+                "from": "Plazoleta Camilo Ortega",
                 "service": [
                     "Sa"
                 ],
                 "stations": [
-                    "Camilo Ortega",
-                    "Mercado Oriental"
+                    "Plazoleta Camilo Ortega",
+                    "El Panal"
                 ],
                 "times": [
                     [
@@ -51385,16 +51385,16 @@
                         "20:15"
                     ]
                 ],
-                "to": "Mercado Oriental"
+                "to": "El Panal"
             },
             {
-                "from": "Camilo Ortega",
+                "from": "Plazoleta Camilo Ortega",
                 "service": [
                     "Su"
                 ],
                 "stations": [
-                    "Camilo Ortega",
-                    "Mercado Oriental"
+                    "Plazoleta Camilo Ortega",
+                    "El Panal"
                 ],
                 "times": [
                     [
@@ -51718,16 +51718,16 @@
                         "20:15"
                     ]
                 ],
-                "to": "Mercado Oriental"
+                "to": "El Panal"
             },
             {
-                "from": "Mercado Oriental",
+                "from": "El Panal",
                 "service": [
                     "Mo-Fr"
                 ],
                 "stations": [
-                    "Mercado Oriental",
-                    "Camilo Ortega"
+                    "El Panal",
+                    "Plazoleta Camilo Ortega"
                 ],
                 "times": [
                     [
@@ -52067,16 +52067,16 @@
                         "20:45"
                     ]
                 ],
-                "to": "Camilo Ortega"
+                "to": "Plazoleta Camilo Ortega"
             },
             {
-                "from": "Mercado Oriental",
+                "from": "El Panal",
                 "service": [
                     "Sa"
                 ],
                 "stations": [
-                    "Mercado Oriental",
-                    "Camilo Ortega"
+                    "El Panal",
+                    "Plazoleta Camilo Ortega"
                 ],
                 "times": [
                     [
@@ -52400,16 +52400,16 @@
                         "20:15"
                     ]
                 ],
-                "to": "Camilo Ortega"
+                "to": "Plazoleta Camilo Ortega"
             },
             {
-                "from": "Mercado Oriental",
+                "from": "El Panal",
                 "service": [
                     "Su"
                 ],
                 "stations": [
-                    "Mercado Oriental",
-                    "Camilo Ortega"
+                    "El Panal",
+                    "Plazoleta Camilo Ortega"
                 ],
                 "times": [
                     [
@@ -52733,7 +52733,7 @@
                         "20:15"
                     ]
                 ],
-                "to": "Camilo Ortega"
+                "to": "Plazoleta Camilo Ortega"
             }
         ],
         "159": [
@@ -54872,7 +54872,7 @@
                 ],
                 "stations": [
                     "Sabana Grande",
-                    "Mercado Oriental"
+                    "El Panal"
                 ],
                 "times": [
                     [
@@ -55152,7 +55152,7 @@
                         "20:70"
                     ]
                 ],
-                "to": "Mercado Oriental"
+                "to": "El Panal"
             },
             {
                 "from": "Sabana Grande",
@@ -55161,7 +55161,7 @@
                 ],
                 "stations": [
                     "Sabana Grande",
-                    "Mercado Oriental"
+                    "El Panal"
                 ],
                 "times": [
                     [
@@ -55441,7 +55441,7 @@
                         "20:70"
                     ]
                 ],
-                "to": "Mercado Oriental"
+                "to": "El Panal"
             },
             {
                 "from": "Sabana Grande",
@@ -55450,7 +55450,7 @@
                 ],
                 "stations": [
                     "Sabana Grande",
-                    "Mercado Oriental"
+                    "El Panal"
                 ],
                 "times": [
                     [
@@ -55718,15 +55718,15 @@
                         "19:70"
                     ]
                 ],
-                "to": "Mercado Oriental"
+                "to": "El Panal"
             },
             {
-                "from": "Mercado Oriental",
+                "from": "El Panal",
                 "service": [
                     "Mo-Fr"
                 ],
                 "stations": [
-                    "Mercado Oriental",
+                    "El Panal",
                     "Sabana Grande"
                 ],
                 "times": [
@@ -56010,12 +56010,12 @@
                 "to": "Sabana Grande"
             },
             {
-                "from": "Mercado Oriental",
+                "from": "El Panal",
                 "service": [
                     "Sa"
                 ],
                 "stations": [
-                    "Mercado Oriental",
+                    "El Panal",
                     "Sabana Grande"
                 ],
                 "times": [
@@ -56299,12 +56299,12 @@
                 "to": "Sabana Grande"
             },
             {
-                "from": "Mercado Oriental",
+                "from": "El Panal",
                 "service": [
                     "Su"
                 ],
                 "stations": [
-                    "Mercado Oriental",
+                    "El Panal",
                     "Sabana Grande"
                 ],
                 "times": [
@@ -56578,13 +56578,13 @@
         ],
         "164": [
             {
-                "from": "Villa Cuba",
+                "from": "Terminal 164",
                 "service": [
                     "Mo-Fr"
                 ],
                 "stations": [
-                    "Villa Cuba",
-                    "Estadio Nacional Denis Martínez"
+                    "Terminal 164",
+                    "El Boer"
                 ],
                 "times": [
                     [
@@ -57056,16 +57056,16 @@
                         "21:45"
                     ]
                 ],
-                "to": "Estadio Nacional Denis Martínez"
+                "to": "El Boer"
             },
             {
-                "from": "Villa Cuba",
+                "from": "Terminal 164",
                 "service": [
                     "Sa"
                 ],
                 "stations": [
-                    "Villa Cuba",
-                    "Estadio Nacional Denis Martínez"
+                    "Terminal 164",
+                    "El Boer"
                 ],
                 "times": [
                     [
@@ -57425,16 +57425,16 @@
                         "21:45"
                     ]
                 ],
-                "to": "Estadio Nacional Denis Martínez"
+                "to": "El Boer"
             },
             {
-                "from": "Villa Cuba",
+                "from": "Terminal 164",
                 "service": [
                     "Su"
                 ],
                 "stations": [
-                    "Villa Cuba",
-                    "Estadio Nacional Denis Martínez"
+                    "Terminal 164",
+                    "El Boer"
                 ],
                 "times": [
                     [
@@ -57802,16 +57802,16 @@
                         "20:75"
                     ]
                 ],
-                "to": "Estadio Nacional Denis Martínez"
+                "to": "El Boer"
             },
             {
-                "from": "Estadio Nacional Denis Martínez",
+                "from": "El Boer",
                 "service": [
                     "Mo-Fr"
                 ],
                 "stations": [
-                    "Estadio Nacional Denis Martínez",
-                    "Villa Cuba"
+                    "El Boer",
+                    "Terminal 164"
                 ],
                 "times": [
                     [
@@ -58283,16 +58283,16 @@
                         "21:45"
                     ]
                 ],
-                "to": "Villa Cuba"
+                "to": "Terminal 164"
             },
             {
-                "from": "Estadio Nacional Denis Martínez",
+                "from": "El Boer",
                 "service": [
                     "Sa"
                 ],
                 "stations": [
-                    "Estadio Nacional Denis Martínez",
-                    "Villa Cuba"
+                    "El Boer",
+                    "Terminal 164"
                 ],
                 "times": [
                     [
@@ -58652,16 +58652,16 @@
                         "21:45"
                     ]
                 ],
-                "to": "Villa Cuba"
+                "to": "Terminal 164"
             },
             {
-                "from": "Estadio Nacional Denis Martínez",
+                "from": "El Boer",
                 "service": [
                     "Su"
                 ],
                 "stations": [
-                    "Estadio Nacional Denis Martínez",
-                    "Villa Cuba"
+                    "El Boer",
+                    "Terminal 164"
                 ],
                 "times": [
                     [
@@ -59029,7 +59029,7 @@
                         "20:75"
                     ]
                 ],
-                "to": "Villa Cuba"
+                "to": "Terminal 164"
             }
         ],
         "165": [
@@ -66192,7 +66192,7 @@
                 ],
                 "stations": [
                     "Villa Jośe Benito Escobar",
-                    "Mercado Oriental"
+                    "El Panal"
                 ],
                 "times": [
                     [
@@ -66720,7 +66720,7 @@
                         "20:15"
                     ]
                 ],
-                "to": "Mercado Oriental"
+                "to": "El Panal"
             },
             {
                 "from": "Villa Jośe Benito Escobar",
@@ -66729,7 +66729,7 @@
                 ],
                 "stations": [
                     "Villa Jośe Benito Escobar",
-                    "Mercado Oriental"
+                    "El Panal"
                 ],
                 "times": [
                     [
@@ -67253,7 +67253,7 @@
                         "19:45"
                     ]
                 ],
-                "to": "Mercado Oriental"
+                "to": "El Panal"
             },
             {
                 "from": "Villa Jośe Benito Escobar",
@@ -67262,7 +67262,7 @@
                 ],
                 "stations": [
                     "Villa Jośe Benito Escobar",
-                    "Mercado Oriental"
+                    "El Panal"
                 ],
                 "times": [
                     [
@@ -67786,15 +67786,15 @@
                         "19:45"
                     ]
                 ],
-                "to": "Mercado Oriental"
+                "to": "El Panal"
             },
             {
-                "from": "Mercado Oriental",
+                "from": "El Panal",
                 "service": [
                     "Mo-Fr"
                 ],
                 "stations": [
-                    "Mercado Oriental",
+                    "El Panal",
                     "Villa Jośe Benito Escobar"
                 ],
                 "times": [
@@ -68326,12 +68326,12 @@
                 "to": "Villa Jośe Benito Escobar"
             },
             {
-                "from": "Mercado Oriental",
+                "from": "El Panal",
                 "service": [
                     "Sa"
                 ],
                 "stations": [
-                    "Mercado Oriental",
+                    "El Panal",
                     "Villa Jośe Benito Escobar"
                 ],
                 "times": [
@@ -68859,12 +68859,12 @@
                 "to": "Villa Jośe Benito Escobar"
             },
             {
-                "from": "Mercado Oriental",
+                "from": "El Panal",
                 "service": [
                     "Su"
                 ],
                 "stations": [
-                    "Mercado Oriental",
+                    "El Panal",
                     "Villa Jośe Benito Escobar"
                 ],
                 "times": [
@@ -69400,7 +69400,7 @@
                 ],
                 "stations": [
                     "Cuidad Sandino (Los Brasiles)",
-                    "Mercado Oriental"
+                    "El Panal"
                 ],
                 "times": [
                     [
@@ -69760,7 +69760,7 @@
                         "19:85"
                     ]
                 ],
-                "to": "Mercado Oriental"
+                "to": "El Panal"
             },
             {
                 "from": "Cuidad Sandino (Los Brasiles)",
@@ -69769,7 +69769,7 @@
                 ],
                 "stations": [
                     "Cuidad Sandino (Los Brasiles)",
-                    "Mercado Oriental"
+                    "El Panal"
                 ],
                 "times": [
                     [
@@ -70129,7 +70129,7 @@
                         "19:85"
                     ]
                 ],
-                "to": "Mercado Oriental"
+                "to": "El Panal"
             },
             {
                 "from": "Cuidad Sandino (Los Brasiles)",
@@ -70138,7 +70138,7 @@
                 ],
                 "stations": [
                     "Cuidad Sandino (Los Brasiles)",
-                    "Mercado Oriental"
+                    "El Panal"
                 ],
                 "times": [
                     [
@@ -70498,15 +70498,15 @@
                         "19:85"
                     ]
                 ],
-                "to": "Mercado Oriental"
+                "to": "El Panal"
             },
             {
-                "from": "Mercado Oriental",
+                "from": "El Panal",
                 "service": [
                     "Mo-Fr"
                 ],
                 "stations": [
-                    "Mercado Oriental",
+                    "El Panal",
                     "Cuidad Sandino (Los Brasiles)"
                 ],
                 "times": [
@@ -70870,12 +70870,12 @@
                 "to": "Cuidad Sandino (Los Brasiles)"
             },
             {
-                "from": "Mercado Oriental",
+                "from": "El Panal",
                 "service": [
                     "Sa"
                 ],
                 "stations": [
-                    "Mercado Oriental",
+                    "El Panal",
                     "Cuidad Sandino (Los Brasiles)"
                 ],
                 "times": [
@@ -71239,12 +71239,12 @@
                 "to": "Cuidad Sandino (Los Brasiles)"
             },
             {
-                "from": "Mercado Oriental",
+                "from": "El Panal",
                 "service": [
                     "Su"
                 ],
                 "stations": [
-                    "Mercado Oriental",
+                    "El Panal",
                     "Cuidad Sandino (Los Brasiles)"
                 ],
                 "times": [
@@ -74450,12 +74450,12 @@
         ],
         "210": [
             {
-                "from": "Ciudad Sandino (Villa Soberana)",
+                "from": "Villa Nueva",
                 "service": [
                     "Mo-Fr"
                 ],
                 "stations": [
-                    "Ciudad Sandino (Villa Soberana)",
+                    "Villa Nueva",
                     "Catedral"
                 ],
                 "times": [
@@ -74931,12 +74931,12 @@
                 "to": "Catedral"
             },
             {
-                "from": "Ciudad Sandino (Villa Soberana)",
+                "from": "Villa Nueva",
                 "service": [
                     "Sa"
                 ],
                 "stations": [
-                    "Ciudad Sandino (Villa Soberana)",
+                    "Villa Nueva",
                     "Catedral"
                 ],
                 "times": [
@@ -75300,12 +75300,12 @@
                 "to": "Catedral"
             },
             {
-                "from": "Ciudad Sandino (Villa Soberana)",
+                "from": "Villa Nueva",
                 "service": [
                     "Su"
                 ],
                 "stations": [
-                    "Ciudad Sandino (Villa Soberana)",
+                    "Villa Nueva",
                     "Catedral"
                 ],
                 "times": [
@@ -75595,7 +75595,7 @@
                 ],
                 "stations": [
                     "Catedral",
-                    "Ciudad Sandino (Villa Soberana)"
+                    "Villa Nueva"
                 ],
                 "times": [
                     [
@@ -76067,7 +76067,7 @@
                         "21:60"
                     ]
                 ],
-                "to": "Ciudad Sandino (Villa Soberana)"
+                "to": "Villa Nueva"
             },
             {
                 "from": "Catedral",
@@ -76076,7 +76076,7 @@
                 ],
                 "stations": [
                     "Catedral",
-                    "Ciudad Sandino (Villa Soberana)"
+                    "Villa Nueva"
                 ],
                 "times": [
                     [
@@ -76436,7 +76436,7 @@
                         "21:30"
                     ]
                 ],
-                "to": "Ciudad Sandino (Villa Soberana)"
+                "to": "Villa Nueva"
             },
             {
                 "from": "Catedral",
@@ -76445,7 +76445,7 @@
                 ],
                 "stations": [
                     "Catedral",
-                    "Ciudad Sandino (Villa Soberana)"
+                    "Villa Nueva"
                 ],
                 "times": [
                     [
@@ -76725,7 +76725,7 @@
                         "21:30"
                     ]
                 ],
-                "to": "Ciudad Sandino (Villa Soberana)"
+                "to": "Villa Nueva"
             }
         ],
         "262": [
@@ -77976,7 +77976,7 @@
                 ],
                 "stations": [
                     "Las Mercedes",
-                    "Mercado Oriental"
+                    "El Panal"
                 ],
                 "times": [
                     [
@@ -78676,7 +78676,7 @@
                         "21:00"
                     ]
                 ],
-                "to": "Mercado Oriental"
+                "to": "El Panal"
             },
             {
                 "from": "Las Mercedes",
@@ -78685,7 +78685,7 @@
                 ],
                 "stations": [
                     "Las Mercedes",
-                    "Mercado Oriental"
+                    "El Panal"
                 ],
                 "times": [
                     [
@@ -79369,7 +79369,7 @@
                         "20:25"
                     ]
                 ],
-                "to": "Mercado Oriental"
+                "to": "El Panal"
             },
             {
                 "from": "Las Mercedes",
@@ -79378,7 +79378,7 @@
                 ],
                 "stations": [
                     "Las Mercedes",
-                    "Mercado Oriental"
+                    "El Panal"
                 ],
                 "times": [
                     [
@@ -80078,15 +80078,15 @@
                         "21:00"
                     ]
                 ],
-                "to": "Mercado Oriental"
+                "to": "El Panal"
             },
             {
-                "from": "Mercado Oriental",
+                "from": "El Panal",
                 "service": [
                     "Mo-Fr"
                 ],
                 "stations": [
-                    "Mercado Oriental",
+                    "El Panal",
                     "Las Mercedes"
                 ],
                 "times": [
@@ -80790,12 +80790,12 @@
                 "to": "Las Mercedes"
             },
             {
-                "from": "Mercado Oriental",
+                "from": "El Panal",
                 "service": [
                     "Sa"
                 ],
                 "stations": [
-                    "Mercado Oriental",
+                    "El Panal",
                     "Las Mercedes"
                 ],
                 "times": [
@@ -81483,12 +81483,12 @@
                 "to": "Las Mercedes"
             },
             {
-                "from": "Mercado Oriental",
+                "from": "El Panal",
                 "service": [
                     "Su"
                 ],
                 "stations": [
-                    "Mercado Oriental",
+                    "El Panal",
                     "Las Mercedes"
                 ],
                 "times": [
@@ -86026,13 +86026,13 @@
         ],
         "SIS": [
             {
-                "from": "San Isidro de la Cruz Verde",
+                "from": "Terminal San Isidro",
                 "service": [
                     "Mo-Fr"
                 ],
                 "stations": [
-                    "San Isidro de la Cruz Verde",
-                    "Mercado Oriental"
+                    "Terminal San Isidro",
+                    "El Panal"
                 ],
                 "times": [
                     [
@@ -86084,16 +86084,16 @@
                         "18:15"
                     ]
                 ],
-                "to": "Mercado Oriental"
+                "to": "El Panal"
             },
             {
-                "from": "San Isidro de la Cruz Verde",
+                "from": "Terminal San Isidro",
                 "service": [
                     "Sa"
                 ],
                 "stations": [
-                    "San Isidro de la Cruz Verde",
-                    "Mercado Oriental"
+                    "Terminal San Isidro",
+                    "El Panal"
                 ],
                 "times": [
                     [
@@ -86149,16 +86149,16 @@
                         "19:15"
                     ]
                 ],
-                "to": "Mercado Oriental"
+                "to": "El Panal"
             },
             {
-                "from": "San Isidro de la Cruz Verde",
+                "from": "Terminal San Isidro",
                 "service": [
                     "Su"
                 ],
                 "stations": [
-                    "San Isidro de la Cruz Verde",
-                    "Mercado Oriental"
+                    "Terminal San Isidro",
+                    "El Panal"
                 ],
                 "times": [
                     [
@@ -86202,16 +86202,16 @@
                         "16:15"
                     ]
                 ],
-                "to": "Mercado Oriental"
+                "to": "El Panal"
             },
             {
-                "from": "Mercado Oriental",
+                "from": "El Panal",
                 "service": [
                     "Mo-Fr"
                 ],
                 "stations": [
-                    "Mercado Oriental",
-                    "San Isidro de la Cruz Verde"
+                    "El Panal",
+                    "Terminal San Isidro"
                 ],
                 "times": [
                     [
@@ -86263,16 +86263,16 @@
                         "18:15"
                     ]
                 ],
-                "to": "San Isidro de la Cruz Verde"
+                "to": "Terminal San Isidro"
             },
             {
-                "from": "Mercado Oriental",
+                "from": "El Panal",
                 "service": [
                     "Sa"
                 ],
                 "stations": [
-                    "Mercado Oriental",
-                    "San Isidro de la Cruz Verde"
+                    "El Panal",
+                    "Terminal San Isidro"
                 ],
                 "times": [
                     [
@@ -86328,16 +86328,16 @@
                         "19:15"
                     ]
                 ],
-                "to": "San Isidro de la Cruz Verde"
+                "to": "Terminal San Isidro"
             },
             {
-                "from": "Mercado Oriental",
+                "from": "El Panal",
                 "service": [
                     "Su"
                 ],
                 "stations": [
-                    "Mercado Oriental",
-                    "San Isidro de la Cruz Verde"
+                    "El Panal",
+                    "Terminal San Isidro"
                 ],
                 "times": [
                     [
@@ -86381,7 +86381,7 @@
                         "16:15"
                     ]
                 ],
-                "to": "San Isidro de la Cruz Verde"
+                "to": "Terminal San Isidro"
             }
         ],
         "VAN": [
@@ -86392,7 +86392,7 @@
                 ],
                 "stations": [
                     "Comarca los Vanegas",
-                    "Mercado Oriental"
+                    "El Panal"
                 ],
                 "times": [
                     [
@@ -86500,7 +86500,7 @@
                         "19:55"
                     ]
                 ],
-                "to": "Mercado Oriental"
+                "to": "El Panal"
             },
             {
                 "from": "Comarca los Vanegas",
@@ -86509,7 +86509,7 @@
                 ],
                 "stations": [
                     "Comarca los Vanegas",
-                    "Mercado Oriental"
+                    "El Panal"
                 ],
                 "times": [
                     [
@@ -86617,7 +86617,7 @@
                         "19:55"
                     ]
                 ],
-                "to": "Mercado Oriental"
+                "to": "El Panal"
             },
             {
                 "from": "Comarca los Vanegas",
@@ -86626,7 +86626,7 @@
                 ],
                 "stations": [
                     "Comarca los Vanegas",
-                    "Mercado Oriental"
+                    "El Panal"
                 ],
                 "times": [
                     [
@@ -86734,15 +86734,15 @@
                         "19:55"
                     ]
                 ],
-                "to": "Mercado Oriental"
+                "to": "El Panal"
             },
             {
-                "from": "Mercado Oriental",
+                "from": "El Panal",
                 "service": [
                     "Mo-Fr"
                 ],
                 "stations": [
-                    "Mercado Oriental",
+                    "El Panal",
                     "Comarca los Vanegas"
                 ],
                 "times": [
@@ -86854,12 +86854,12 @@
                 "to": "Comarca los Vanegas"
             },
             {
-                "from": "Mercado Oriental",
+                "from": "El Panal",
                 "service": [
                     "Sa"
                 ],
                 "stations": [
-                    "Mercado Oriental",
+                    "El Panal",
                     "Comarca los Vanegas"
                 ],
                 "times": [
@@ -86971,12 +86971,12 @@
                 "to": "Comarca los Vanegas"
             },
             {
-                "from": "Mercado Oriental",
+                "from": "El Panal",
                 "service": [
                     "Su"
                 ],
                 "stations": [
-                    "Mercado Oriental",
+                    "El Panal",
                     "Comarca los Vanegas"
                 ],
                 "times": [
