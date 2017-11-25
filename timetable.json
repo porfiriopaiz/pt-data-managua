@@ -3,7 +3,7 @@
         "101": [
             {
                 "from": "Mercado Mayoreo",
-                "service": [
+                "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
@@ -320,7 +320,7 @@
             },
             {
                 "from": "Mercado Mayoreo",
-                "service": [
+                "services": [
                     "Sa"
                 ],
                 "stations": [
@@ -637,7 +637,7 @@
             },
             {
                 "from": "Mercado Mayoreo",
-                "service": [
+                "services": [
                     "Su"
                 ],
                 "stations": [
@@ -954,7 +954,7 @@
             },
             {
                 "from": "Las Brisas",
-                "service": [
+                "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
@@ -1271,7 +1271,7 @@
             },
             {
                 "from": "Las Brisas",
-                "service": [
+                "services": [
                     "Sa"
                 ],
                 "stations": [
@@ -1588,7 +1588,7 @@
             },
             {
                 "from": "Las Brisas",
-                "service": [
+                "services": [
                     "Su"
                 ],
                 "stations": [
@@ -1907,7 +1907,7 @@
         "102": [
             {
                 "from": "Mercado Mayoreo",
-                "service": [
+                "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
@@ -2332,7 +2332,7 @@
             },
             {
                 "from": "Mercado Mayoreo",
-                "service": [
+                "services": [
                     "Sa"
                 ],
                 "stations": [
@@ -2733,7 +2733,7 @@
             },
             {
                 "from": "Mercado Mayoreo",
-                "service": [
+                "services": [
                     "Su"
                 ],
                 "stations": [
@@ -3066,7 +3066,7 @@
             },
             {
                 "from": "Acahualinca",
-                "service": [
+                "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
@@ -3491,7 +3491,7 @@
             },
             {
                 "from": "Acahualinca",
-                "service": [
+                "services": [
                     "Sa"
                 ],
                 "stations": [
@@ -3892,7 +3892,7 @@
             },
             {
                 "from": "Acahualinca",
-                "service": [
+                "services": [
                     "Su"
                 ],
                 "stations": [
@@ -4227,7 +4227,7 @@
         "103": [
             {
                 "from": "Laureles Sur",
-                "service": [
+                "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
@@ -4476,7 +4476,7 @@
             },
             {
                 "from": "Laureles Sur",
-                "service": [
+                "services": [
                     "Sa"
                 ],
                 "stations": [
@@ -4757,7 +4757,7 @@
             },
             {
                 "from": "Laureles Sur",
-                "service": [
+                "services": [
                     "Su"
                 ],
                 "stations": [
@@ -5038,7 +5038,7 @@
             },
             {
                 "from": "Hospital Lenín Fonseca",
-                "service": [
+                "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
@@ -5287,7 +5287,7 @@
             },
             {
                 "from": "Hospital Lenín Fonseca",
-                "service": [
+                "services": [
                     "Sa"
                 ],
                 "stations": [
@@ -5568,7 +5568,7 @@
             },
             {
                 "from": "Hospital Lenín Fonseca",
-                "service": [
+                "services": [
                     "Su"
                 ],
                 "stations": [
@@ -5851,7 +5851,7 @@
         "104": [
             {
                 "from": "Hialeah",
-                "service": [
+                "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
@@ -6252,7 +6252,7 @@
             },
             {
                 "from": "Hialeah",
-                "service": [
+                "services": [
                     "Sa"
                 ],
                 "stations": [
@@ -6681,7 +6681,7 @@
             },
             {
                 "from": "Hialeah",
-                "service": [
+                "services": [
                     "Su"
                 ],
                 "stations": [
@@ -7022,7 +7022,7 @@
             },
             {
                 "from": "Mercado Mayoreo",
-                "service": [
+                "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
@@ -7423,7 +7423,7 @@
             },
             {
                 "from": "Mercado Mayoreo",
-                "service": [
+                "services": [
                     "Sa"
                 ],
                 "stations": [
@@ -7852,7 +7852,7 @@
             },
             {
                 "from": "Mercado Mayoreo",
-                "service": [
+                "services": [
                     "Su"
                 ],
                 "stations": [
@@ -8195,7 +8195,7 @@
         "105": [
             {
                 "from": "Unidad de Propósito",
-                "service": [
+                "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
@@ -8516,7 +8516,7 @@
             },
             {
                 "from": "Unidad de Propósito",
-                "service": [
+                "services": [
                     "Sa"
                 ],
                 "stations": [
@@ -8753,7 +8753,7 @@
             },
             {
                 "from": "Unidad de Propósito",
-                "service": [
+                "services": [
                     "Su"
                 ],
                 "stations": [
@@ -9006,7 +9006,7 @@
             },
             {
                 "from": "Plazoleta Camilo Ortega",
-                "service": [
+                "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
@@ -9327,7 +9327,7 @@
             },
             {
                 "from": "Plazoleta Camilo Ortega",
-                "service": [
+                "services": [
                     "Sa"
                 ],
                 "stations": [
@@ -9564,7 +9564,7 @@
             },
             {
                 "from": "Plazoleta Camilo Ortega",
-                "service": [
+                "services": [
                     "Su"
                 ],
                 "stations": [
@@ -9819,7 +9819,7 @@
         "106": [
             {
                 "from": "Barrio Berta Díaz",
-                "service": [
+                "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
@@ -10184,7 +10184,7 @@
             },
             {
                 "from": "Barrio Berta Díaz",
-                "service": [
+                "services": [
                     "Sa"
                 ],
                 "stations": [
@@ -10421,7 +10421,7 @@
             },
             {
                 "from": "Barrio Berta Díaz",
-                "service": [
+                "services": [
                     "Su"
                 ],
                 "stations": [
@@ -10602,7 +10602,7 @@
             },
             {
                 "from": "El Seminario",
-                "service": [
+                "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
@@ -10967,7 +10967,7 @@
             },
             {
                 "from": "El Seminario",
-                "service": [
+                "services": [
                     "Sa"
                 ],
                 "stations": [
@@ -11204,7 +11204,7 @@
             },
             {
                 "from": "El Seminario",
-                "service": [
+                "services": [
                     "Su"
                 ],
                 "stations": [
@@ -11387,7 +11387,7 @@
         "107": [
             {
                 "from": "Plazoleta Camilo Ortega",
-                "service": [
+                "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
@@ -11872,7 +11872,7 @@
             },
             {
                 "from": "Plazoleta Camilo Ortega",
-                "service": [
+                "services": [
                     "Sa"
                 ],
                 "stations": [
@@ -12357,7 +12357,7 @@
             },
             {
                 "from": "Plazoleta Camilo Ortega",
-                "service": [
+                "services": [
                     "Su"
                 ],
                 "stations": [
@@ -12842,7 +12842,7 @@
             },
             {
                 "from": "El Panal",
-                "service": [
+                "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
@@ -13327,7 +13327,7 @@
             },
             {
                 "from": "El Panal",
-                "service": [
+                "services": [
                     "Sa"
                 ],
                 "stations": [
@@ -13812,7 +13812,7 @@
             },
             {
                 "from": "El Panal",
-                "service": [
+                "services": [
                     "Su"
                 ],
                 "stations": [
@@ -14299,7 +14299,7 @@
         "108": [
             {
                 "from": "Reparto Schick",
-                "service": [
+                "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
@@ -14520,7 +14520,7 @@
             },
             {
                 "from": "Reparto Schick",
-                "service": [
+                "services": [
                     "Sa"
                 ],
                 "stations": [
@@ -14741,7 +14741,7 @@
             },
             {
                 "from": "Reparto Schick",
-                "service": [
+                "services": [
                     "Su"
                 ],
                 "stations": [
@@ -14914,7 +14914,7 @@
             },
             {
                 "from": "Barrio Jose Dolores Estrada",
-                "service": [
+                "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
@@ -15135,7 +15135,7 @@
             },
             {
                 "from": "Barrio Jose Dolores Estrada",
-                "service": [
+                "services": [
                     "Sa"
                 ],
                 "stations": [
@@ -15356,7 +15356,7 @@
             },
             {
                 "from": "Barrio Jose Dolores Estrada",
-                "service": [
+                "services": [
                     "Su"
                 ],
                 "stations": [
@@ -15531,7 +15531,7 @@
         "109": [
             {
                 "from": "Reparto Schick",
-                "service": [
+                "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
@@ -15752,7 +15752,7 @@
             },
             {
                 "from": "Reparto Schick",
-                "service": [
+                "services": [
                     "Sa"
                 ],
                 "stations": [
@@ -15973,7 +15973,7 @@
             },
             {
                 "from": "Reparto Schick",
-                "service": [
+                "services": [
                     "Su"
                 ],
                 "stations": [
@@ -16150,7 +16150,7 @@
             },
             {
                 "from": "Las Brisas",
-                "service": [
+                "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
@@ -16371,7 +16371,7 @@
             },
             {
                 "from": "Las Brisas",
-                "service": [
+                "services": [
                     "Sa"
                 ],
                 "stations": [
@@ -16592,7 +16592,7 @@
             },
             {
                 "from": "Las Brisas",
-                "service": [
+                "services": [
                     "Su"
                 ],
                 "stations": [
@@ -16771,7 +16771,7 @@
         "110": [
             {
                 "from": "Mercado Mayoreo",
-                "service": [
+                "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
@@ -17404,7 +17404,7 @@
             },
             {
                 "from": "Mercado Mayoreo",
-                "service": [
+                "services": [
                     "Sa"
                 ],
                 "stations": [
@@ -18001,7 +18001,7 @@
             },
             {
                 "from": "Mercado Mayoreo",
-                "service": [
+                "services": [
                     "Su"
                 ],
                 "stations": [
@@ -18390,7 +18390,7 @@
             },
             {
                 "from": "El Seminario",
-                "service": [
+                "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
@@ -19023,7 +19023,7 @@
             },
             {
                 "from": "El Seminario",
-                "service": [
+                "services": [
                     "Sa"
                 ],
                 "stations": [
@@ -19620,7 +19620,7 @@
             },
             {
                 "from": "El Seminario",
-                "service": [
+                "services": [
                     "Su"
                 ],
                 "stations": [
@@ -20011,7 +20011,7 @@
         "111": [
             {
                 "from": "Los Laureles Norte",
-                "service": [
+                "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
@@ -20404,7 +20404,7 @@
             },
             {
                 "from": "Los Laureles Norte",
-                "service": [
+                "services": [
                     "Sa"
                 ],
                 "stations": [
@@ -20797,7 +20797,7 @@
             },
             {
                 "from": "Los Laureles Norte",
-                "service": [
+                "services": [
                     "Su"
                 ],
                 "stations": [
@@ -21186,7 +21186,7 @@
             },
             {
                 "from": "Colonia Miguel Bonilla",
-                "service": [
+                "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
@@ -21579,7 +21579,7 @@
             },
             {
                 "from": "Colonia Miguel Bonilla",
-                "service": [
+                "services": [
                     "Sa"
                 ],
                 "stations": [
@@ -21972,7 +21972,7 @@
             },
             {
                 "from": "Colonia Miguel Bonilla",
-                "service": [
+                "services": [
                     "Su"
                 ],
                 "stations": [
@@ -22363,7 +22363,7 @@
         "112": [
             {
                 "from": "Villa Libertad",
-                "service": [
+                "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
@@ -22932,7 +22932,7 @@
             },
             {
                 "from": "Villa Libertad",
-                "service": [
+                "services": [
                     "Sa"
                 ],
                 "stations": [
@@ -23493,7 +23493,7 @@
             },
             {
                 "from": "Villa Libertad",
-                "service": [
+                "services": [
                     "Su"
                 ],
                 "stations": [
@@ -24054,7 +24054,7 @@
             },
             {
                 "from": "Colonia Independencia",
-                "service": [
+                "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
@@ -24623,7 +24623,7 @@
             },
             {
                 "from": "Colonia Independencia",
-                "service": [
+                "services": [
                     "Sa"
                 ],
                 "stations": [
@@ -25184,7 +25184,7 @@
             },
             {
                 "from": "Colonia Independencia",
-                "service": [
+                "services": [
                     "Su"
                 ],
                 "stations": [
@@ -25747,7 +25747,7 @@
         "113": [
             {
                 "from": "Ciudad Sandino (Trinidad)",
-                "service": [
+                "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
@@ -26268,7 +26268,7 @@
             },
             {
                 "from": "Ciudad Sandino (Trinidad)",
-                "service": [
+                "services": [
                     "Sa"
                 ],
                 "stations": [
@@ -26781,7 +26781,7 @@
             },
             {
                 "from": "Ciudad Sandino (Trinidad)",
-                "service": [
+                "services": [
                     "Su"
                 ],
                 "stations": [
@@ -27294,7 +27294,7 @@
             },
             {
                 "from": "El Panal",
-                "service": [
+                "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
@@ -27815,7 +27815,7 @@
             },
             {
                 "from": "El Panal",
-                "service": [
+                "services": [
                     "Sa"
                 ],
                 "stations": [
@@ -28328,7 +28328,7 @@
             },
             {
                 "from": "El Panal",
-                "service": [
+                "services": [
                     "Su"
                 ],
                 "stations": [
@@ -28843,7 +28843,7 @@
         "114": [
             {
                 "from": "Terminal José Benito Escobar",
-                "service": [
+                "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
@@ -29436,7 +29436,7 @@
             },
             {
                 "from": "Terminal José Benito Escobar",
-                "service": [
+                "services": [
                     "Sa"
                 ],
                 "stations": [
@@ -29993,7 +29993,7 @@
             },
             {
                 "from": "Terminal José Benito Escobar",
-                "service": [
+                "services": [
                     "Su"
                 ],
                 "stations": [
@@ -30422,7 +30422,7 @@
             },
             {
                 "from": "Cuesta el Plomo",
-                "service": [
+                "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
@@ -31015,7 +31015,7 @@
             },
             {
                 "from": "Cuesta el Plomo",
-                "service": [
+                "services": [
                     "Sa"
                 ],
                 "stations": [
@@ -31572,7 +31572,7 @@
             },
             {
                 "from": "Cuesta el Plomo",
-                "service": [
+                "services": [
                     "Su"
                 ],
                 "stations": [
@@ -32003,7 +32003,7 @@
         "115": [
             {
                 "from": "Ciudad Sandino (Zona 5)",
-                "service": [
+                "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
@@ -32196,7 +32196,7 @@
             },
             {
                 "from": "Ciudad Sandino (Zona 5)",
-                "service": [
+                "services": [
                     "Sa"
                 ],
                 "stations": [
@@ -32377,7 +32377,7 @@
             },
             {
                 "from": "Ciudad Sandino (Zona 5)",
-                "service": [
+                "services": [
                     "Su"
                 ],
                 "stations": [
@@ -32550,7 +32550,7 @@
             },
             {
                 "from": "El Panal",
-                "service": [
+                "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
@@ -32743,7 +32743,7 @@
             },
             {
                 "from": "El Panal",
-                "service": [
+                "services": [
                     "Sa"
                 ],
                 "stations": [
@@ -32924,7 +32924,7 @@
             },
             {
                 "from": "El Panal",
-                "service": [
+                "services": [
                     "Su"
                 ],
                 "stations": [
@@ -33099,7 +33099,7 @@
         "116": [
             {
                 "from": "Villa Libertad",
-                "service": [
+                "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
@@ -33444,7 +33444,7 @@
             },
             {
                 "from": "Villa Libertad",
-                "service": [
+                "services": [
                     "Sa"
                 ],
                 "stations": [
@@ -33773,7 +33773,7 @@
             },
             {
                 "from": "Villa Libertad",
-                "service": [
+                "services": [
                     "Su"
                 ],
                 "stations": [
@@ -34098,7 +34098,7 @@
             },
             {
                 "from": "El Seminario",
-                "service": [
+                "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
@@ -34443,7 +34443,7 @@
             },
             {
                 "from": "El Seminario",
-                "service": [
+                "services": [
                     "Sa"
                 ],
                 "stations": [
@@ -34772,7 +34772,7 @@
             },
             {
                 "from": "El Seminario",
-                "service": [
+                "services": [
                     "Su"
                 ],
                 "stations": [
@@ -35099,7 +35099,7 @@
         "117": [
             {
                 "from": "Terminal José Benito Escobar",
-                "service": [
+                "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
@@ -35412,7 +35412,7 @@
             },
             {
                 "from": "Terminal José Benito Escobar",
-                "service": [
+                "services": [
                     "Sa"
                 ],
                 "stations": [
@@ -35729,7 +35729,7 @@
             },
             {
                 "from": "Terminal José Benito Escobar",
-                "service": [
+                "services": [
                     "Su"
                 ],
                 "stations": [
@@ -35998,7 +35998,7 @@
             },
             {
                 "from": "UCA",
-                "service": [
+                "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
@@ -36311,7 +36311,7 @@
             },
             {
                 "from": "UCA",
-                "service": [
+                "services": [
                     "Sa"
                 ],
                 "stations": [
@@ -36628,7 +36628,7 @@
             },
             {
                 "from": "UCA",
-                "service": [
+                "services": [
                     "Su"
                 ],
                 "stations": [
@@ -36899,7 +36899,7 @@
         "118": [
             {
                 "from": "Villa Libertad",
-                "service": [
+                "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
@@ -37184,7 +37184,7 @@
             },
             {
                 "from": "Villa Libertad",
-                "service": [
+                "services": [
                     "Sa"
                 ],
                 "stations": [
@@ -37469,7 +37469,7 @@
             },
             {
                 "from": "Villa Libertad",
-                "service": [
+                "services": [
                     "Su"
                 ],
                 "stations": [
@@ -37754,7 +37754,7 @@
             },
             {
                 "from": "Las Brisas",
-                "service": [
+                "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
@@ -38039,7 +38039,7 @@
             },
             {
                 "from": "Las Brisas",
-                "service": [
+                "services": [
                     "Sa"
                 ],
                 "stations": [
@@ -38324,7 +38324,7 @@
             },
             {
                 "from": "Las Brisas",
-                "service": [
+                "services": [
                     "Su"
                 ],
                 "stations": [
@@ -38611,7 +38611,7 @@
         "119": [
             {
                 "from": "Villa Fraternidad",
-                "service": [
+                "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
@@ -39036,7 +39036,7 @@
             },
             {
                 "from": "Villa Fraternidad",
-                "service": [
+                "services": [
                     "Sa"
                 ],
                 "stations": [
@@ -39357,7 +39357,7 @@
             },
             {
                 "from": "Villa Fraternidad",
-                "service": [
+                "services": [
                     "Su"
                 ],
                 "stations": [
@@ -39638,7 +39638,7 @@
             },
             {
                 "from": "Cuesta el Plomo",
-                "service": [
+                "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
@@ -40063,7 +40063,7 @@
             },
             {
                 "from": "Cuesta el Plomo",
-                "service": [
+                "services": [
                     "Sa"
                 ],
                 "stations": [
@@ -40384,7 +40384,7 @@
             },
             {
                 "from": "Cuesta el Plomo",
-                "service": [
+                "services": [
                     "Su"
                 ],
                 "stations": [
@@ -40667,7 +40667,7 @@
         "120": [
             {
                 "from": "Mercado Mayoreo",
-                "service": [
+                "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
@@ -41300,7 +41300,7 @@
             },
             {
                 "from": "Mercado Mayoreo",
-                "service": [
+                "services": [
                     "Sa"
                 ],
                 "stations": [
@@ -41741,7 +41741,7 @@
             },
             {
                 "from": "Mercado Mayoreo",
-                "service": [
+                "services": [
                     "Su"
                 ],
                 "stations": [
@@ -42146,7 +42146,7 @@
             },
             {
                 "from": "El Seminario",
-                "service": [
+                "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
@@ -42779,7 +42779,7 @@
             },
             {
                 "from": "El Seminario",
-                "service": [
+                "services": [
                     "Sa"
                 ],
                 "stations": [
@@ -43220,7 +43220,7 @@
             },
             {
                 "from": "El Seminario",
-                "service": [
+                "services": [
                     "Su"
                 ],
                 "stations": [
@@ -43627,7 +43627,7 @@
         "123": [
             {
                 "from": "San Judas",
-                "service": [
+                "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
@@ -43928,7 +43928,7 @@
             },
             {
                 "from": "San Judas",
-                "service": [
+                "services": [
                     "Sa"
                 ],
                 "stations": [
@@ -44185,7 +44185,7 @@
             },
             {
                 "from": "San Judas",
-                "service": [
+                "services": [
                     "Su"
                 ],
                 "stations": [
@@ -44442,7 +44442,7 @@
             },
             {
                 "from": "Mercado Roberto Huembes",
-                "service": [
+                "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
@@ -44743,7 +44743,7 @@
             },
             {
                 "from": "Mercado Roberto Huembes",
-                "service": [
+                "services": [
                     "Sa"
                 ],
                 "stations": [
@@ -45000,7 +45000,7 @@
             },
             {
                 "from": "Mercado Roberto Huembes",
-                "service": [
+                "services": [
                     "Su"
                 ],
                 "stations": [
@@ -45259,7 +45259,7 @@
         "125": [
             {
                 "from": "Ciudad Sandino (Bello Amanecer)",
-                "service": [
+                "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
@@ -45476,7 +45476,7 @@
             },
             {
                 "from": "Ciudad Sandino (Bello Amanecer)",
-                "service": [
+                "services": [
                     "Sa"
                 ],
                 "stations": [
@@ -45693,7 +45693,7 @@
             },
             {
                 "from": "Ciudad Sandino (Bello Amanecer)",
-                "service": [
+                "services": [
                     "Su"
                 ],
                 "stations": [
@@ -45910,7 +45910,7 @@
             },
             {
                 "from": "El Panal",
-                "service": [
+                "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
@@ -46127,7 +46127,7 @@
             },
             {
                 "from": "El Panal",
-                "service": [
+                "services": [
                     "Sa"
                 ],
                 "stations": [
@@ -46344,7 +46344,7 @@
             },
             {
                 "from": "El Panal",
-                "service": [
+                "services": [
                     "Su"
                 ],
                 "stations": [
@@ -46563,7 +46563,7 @@
         "125CS": [
             {
                 "from": "Mercadito (Ciudad Sandino)",
-                "service": [
+                "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
@@ -46800,7 +46800,7 @@
             },
             {
                 "from": "Mercadito (Ciudad Sandino)",
-                "service": [
+                "services": [
                     "Sa"
                 ],
                 "stations": [
@@ -47029,7 +47029,7 @@
             },
             {
                 "from": "Mercadito (Ciudad Sandino)",
-                "service": [
+                "services": [
                     "Su"
                 ],
                 "stations": [
@@ -47258,7 +47258,7 @@
             },
             {
                 "from": "Altos de Motastepe",
-                "service": [
+                "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
@@ -47495,7 +47495,7 @@
             },
             {
                 "from": "Altos de Motastepe",
-                "service": [
+                "services": [
                     "Sa"
                 ],
                 "stations": [
@@ -47724,7 +47724,7 @@
             },
             {
                 "from": "Altos de Motastepe",
-                "service": [
+                "services": [
                     "Su"
                 ],
                 "stations": [
@@ -47955,7 +47955,7 @@
         "133": [
             {
                 "from": "Ciudad Sandino (Zona 6)",
-                "service": [
+                "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
@@ -48184,7 +48184,7 @@
             },
             {
                 "from": "Ciudad Sandino (Zona 6)",
-                "service": [
+                "services": [
                     "Sa"
                 ],
                 "stations": [
@@ -48413,7 +48413,7 @@
             },
             {
                 "from": "Ciudad Sandino (Zona 6)",
-                "service": [
+                "services": [
                     "Su"
                 ],
                 "stations": [
@@ -48642,7 +48642,7 @@
             },
             {
                 "from": "El Panal",
-                "service": [
+                "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
@@ -48871,7 +48871,7 @@
             },
             {
                 "from": "El Panal",
-                "service": [
+                "services": [
                     "Sa"
                 ],
                 "stations": [
@@ -49100,7 +49100,7 @@
             },
             {
                 "from": "El Panal",
-                "service": [
+                "services": [
                     "Su"
                 ],
                 "stations": [
@@ -49331,7 +49331,7 @@
         "154": [
             {
                 "from": "Plazoleta Camilo Ortega",
-                "service": [
+                "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
@@ -49560,7 +49560,7 @@
             },
             {
                 "from": "Plazoleta Camilo Ortega",
-                "service": [
+                "services": [
                     "Sa"
                 ],
                 "stations": [
@@ -49789,7 +49789,7 @@
             },
             {
                 "from": "Plazoleta Camilo Ortega",
-                "service": [
+                "services": [
                     "Su"
                 ],
                 "stations": [
@@ -50018,7 +50018,7 @@
             },
             {
                 "from": "Mercado Iván Montenegro",
-                "service": [
+                "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
@@ -50247,7 +50247,7 @@
             },
             {
                 "from": "Mercado Iván Montenegro",
-                "service": [
+                "services": [
                     "Sa"
                 ],
                 "stations": [
@@ -50476,7 +50476,7 @@
             },
             {
                 "from": "Mercado Iván Montenegro",
-                "service": [
+                "services": [
                     "Su"
                 ],
                 "stations": [
@@ -50707,7 +50707,7 @@
         "158": [
             {
                 "from": "Plazoleta Camilo Ortega",
-                "service": [
+                "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
@@ -51056,7 +51056,7 @@
             },
             {
                 "from": "Plazoleta Camilo Ortega",
-                "service": [
+                "services": [
                     "Sa"
                 ],
                 "stations": [
@@ -51389,7 +51389,7 @@
             },
             {
                 "from": "Plazoleta Camilo Ortega",
-                "service": [
+                "services": [
                     "Su"
                 ],
                 "stations": [
@@ -51722,7 +51722,7 @@
             },
             {
                 "from": "El Panal",
-                "service": [
+                "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
@@ -52071,7 +52071,7 @@
             },
             {
                 "from": "El Panal",
-                "service": [
+                "services": [
                     "Sa"
                 ],
                 "stations": [
@@ -52404,7 +52404,7 @@
             },
             {
                 "from": "El Panal",
-                "service": [
+                "services": [
                     "Su"
                 ],
                 "stations": [
@@ -52739,7 +52739,7 @@
         "159": [
             {
                 "from": "Mercado Mayoreo",
-                "service": [
+                "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
@@ -53128,7 +53128,7 @@
             },
             {
                 "from": "Mercado Mayoreo",
-                "service": [
+                "services": [
                     "Sa"
                 ],
                 "stations": [
@@ -53517,7 +53517,7 @@
             },
             {
                 "from": "Mercado Mayoreo",
-                "service": [
+                "services": [
                     "Su"
                 ],
                 "stations": [
@@ -53802,7 +53802,7 @@
             },
             {
                 "from": "Acahualinca",
-                "service": [
+                "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
@@ -54191,7 +54191,7 @@
             },
             {
                 "from": "Acahualinca",
-                "service": [
+                "services": [
                     "Sa"
                 ],
                 "stations": [
@@ -54580,7 +54580,7 @@
             },
             {
                 "from": "Acahualinca",
-                "service": [
+                "services": [
                     "Su"
                 ],
                 "stations": [
@@ -54867,7 +54867,7 @@
         "163": [
             {
                 "from": "Sabana Grande",
-                "service": [
+                "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
@@ -55156,7 +55156,7 @@
             },
             {
                 "from": "Sabana Grande",
-                "service": [
+                "services": [
                     "Sa"
                 ],
                 "stations": [
@@ -55445,7 +55445,7 @@
             },
             {
                 "from": "Sabana Grande",
-                "service": [
+                "services": [
                     "Su"
                 ],
                 "stations": [
@@ -55722,7 +55722,7 @@
             },
             {
                 "from": "El Panal",
-                "service": [
+                "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
@@ -56011,7 +56011,7 @@
             },
             {
                 "from": "El Panal",
-                "service": [
+                "services": [
                     "Sa"
                 ],
                 "stations": [
@@ -56300,7 +56300,7 @@
             },
             {
                 "from": "El Panal",
-                "service": [
+                "services": [
                     "Su"
                 ],
                 "stations": [
@@ -56579,7 +56579,7 @@
         "164": [
             {
                 "from": "Terminal 164",
-                "service": [
+                "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
@@ -57060,7 +57060,7 @@
             },
             {
                 "from": "Terminal 164",
-                "service": [
+                "services": [
                     "Sa"
                 ],
                 "stations": [
@@ -57429,7 +57429,7 @@
             },
             {
                 "from": "Terminal 164",
-                "service": [
+                "services": [
                     "Su"
                 ],
                 "stations": [
@@ -57806,7 +57806,7 @@
             },
             {
                 "from": "El Boer",
-                "service": [
+                "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
@@ -58287,7 +58287,7 @@
             },
             {
                 "from": "El Boer",
-                "service": [
+                "services": [
                     "Sa"
                 ],
                 "stations": [
@@ -58656,7 +58656,7 @@
             },
             {
                 "from": "El Boer",
-                "service": [
+                "services": [
                     "Su"
                 ],
                 "stations": [
@@ -59035,7 +59035,7 @@
         "165": [
             {
                 "from": "Barrio Naciones Unidas",
-                "service": [
+                "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
@@ -59320,7 +59320,7 @@
             },
             {
                 "from": "Barrio Naciones Unidas",
-                "service": [
+                "services": [
                     "Sa"
                 ],
                 "stations": [
@@ -59617,7 +59617,7 @@
             },
             {
                 "from": "Barrio Naciones Unidas",
-                "service": [
+                "services": [
                     "Su"
                 ],
                 "stations": [
@@ -59870,7 +59870,7 @@
             },
             {
                 "from": "San Luis Norte",
-                "service": [
+                "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
@@ -60155,7 +60155,7 @@
             },
             {
                 "from": "San Luis Norte",
-                "service": [
+                "services": [
                     "Sa"
                 ],
                 "stations": [
@@ -60452,7 +60452,7 @@
             },
             {
                 "from": "San Luis Norte",
-                "service": [
+                "services": [
                     "Su"
                 ],
                 "stations": [
@@ -60707,7 +60707,7 @@
         "167": [
             {
                 "from": "Barrio Arnoldo Alemán",
-                "service": [
+                "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
@@ -60956,7 +60956,7 @@
             },
             {
                 "from": "Barrio Arnoldo Alemán",
-                "service": [
+                "services": [
                     "Sa"
                 ],
                 "stations": [
@@ -61189,7 +61189,7 @@
             },
             {
                 "from": "Barrio Arnoldo Alemán",
-                "service": [
+                "services": [
                     "Su"
                 ],
                 "stations": [
@@ -61422,7 +61422,7 @@
             },
             {
                 "from": "Mercado Isreal Lewites",
-                "service": [
+                "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
@@ -61671,7 +61671,7 @@
             },
             {
                 "from": "Mercado Isreal Lewites",
-                "service": [
+                "services": [
                     "Sa"
                 ],
                 "stations": [
@@ -61904,7 +61904,7 @@
             },
             {
                 "from": "Mercado Isreal Lewites",
-                "service": [
+                "services": [
                     "Su"
                 ],
                 "stations": [
@@ -62139,7 +62139,7 @@
         "168": [
             {
                 "from": "Lomas de Guadalupe",
-                "service": [
+                "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
@@ -62564,7 +62564,7 @@
             },
             {
                 "from": "Lomas de Guadalupe",
-                "service": [
+                "services": [
                     "Sa"
                 ],
                 "stations": [
@@ -62917,7 +62917,7 @@
             },
             {
                 "from": "Lomas de Guadalupe",
-                "service": [
+                "services": [
                     "Su"
                 ],
                 "stations": [
@@ -63218,7 +63218,7 @@
             },
             {
                 "from": "Colonia Miguel Bonilla",
-                "service": [
+                "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
@@ -63643,7 +63643,7 @@
             },
             {
                 "from": "Colonia Miguel Bonilla",
-                "service": [
+                "services": [
                     "Sa"
                 ],
                 "stations": [
@@ -63996,7 +63996,7 @@
             },
             {
                 "from": "Colonia Miguel Bonilla",
-                "service": [
+                "services": [
                     "Su"
                 ],
                 "stations": [
@@ -64299,7 +64299,7 @@
         "169": [
             {
                 "from": "Barrio Francisco Salazar",
-                "service": [
+                "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
@@ -64616,7 +64616,7 @@
             },
             {
                 "from": "Barrio Francisco Salazar",
-                "service": [
+                "services": [
                     "Sa"
                 ],
                 "stations": [
@@ -64925,7 +64925,7 @@
             },
             {
                 "from": "Barrio Francisco Salazar",
-                "service": [
+                "services": [
                     "Su"
                 ],
                 "stations": [
@@ -65242,7 +65242,7 @@
             },
             {
                 "from": "Las Mercedes",
-                "service": [
+                "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
@@ -65559,7 +65559,7 @@
             },
             {
                 "from": "Las Mercedes",
-                "service": [
+                "services": [
                     "Sa"
                 ],
                 "stations": [
@@ -65868,7 +65868,7 @@
             },
             {
                 "from": "Las Mercedes",
-                "service": [
+                "services": [
                     "Su"
                 ],
                 "stations": [
@@ -66187,7 +66187,7 @@
         "170": [
             {
                 "from": "Villa Jośe Benito Escobar",
-                "service": [
+                "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
@@ -66724,7 +66724,7 @@
             },
             {
                 "from": "Villa Jośe Benito Escobar",
-                "service": [
+                "services": [
                     "Sa"
                 ],
                 "stations": [
@@ -67257,7 +67257,7 @@
             },
             {
                 "from": "Villa Jośe Benito Escobar",
-                "service": [
+                "services": [
                     "Su"
                 ],
                 "stations": [
@@ -67790,7 +67790,7 @@
             },
             {
                 "from": "El Panal",
-                "service": [
+                "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
@@ -68327,7 +68327,7 @@
             },
             {
                 "from": "El Panal",
-                "service": [
+                "services": [
                     "Sa"
                 ],
                 "stations": [
@@ -68860,7 +68860,7 @@
             },
             {
                 "from": "El Panal",
-                "service": [
+                "services": [
                     "Su"
                 ],
                 "stations": [
@@ -69395,7 +69395,7 @@
         "172": [
             {
                 "from": "Cuidad Sandino (Los Brasiles)",
-                "service": [
+                "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
@@ -69764,7 +69764,7 @@
             },
             {
                 "from": "Cuidad Sandino (Los Brasiles)",
-                "service": [
+                "services": [
                     "Sa"
                 ],
                 "stations": [
@@ -70133,7 +70133,7 @@
             },
             {
                 "from": "Cuidad Sandino (Los Brasiles)",
-                "service": [
+                "services": [
                     "Su"
                 ],
                 "stations": [
@@ -70502,7 +70502,7 @@
             },
             {
                 "from": "El Panal",
-                "service": [
+                "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
@@ -70871,7 +70871,7 @@
             },
             {
                 "from": "El Panal",
-                "service": [
+                "services": [
                     "Sa"
                 ],
                 "stations": [
@@ -71240,7 +71240,7 @@
             },
             {
                 "from": "El Panal",
-                "service": [
+                "services": [
                     "Su"
                 ],
                 "stations": [
@@ -71611,7 +71611,7 @@
         "175": [
             {
                 "from": "Memorial Sandino",
-                "service": [
+                "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
@@ -71812,7 +71812,7 @@
             },
             {
                 "from": "Memorial Sandino",
-                "service": [
+                "services": [
                     "Sa"
                 ],
                 "stations": [
@@ -72013,7 +72013,7 @@
             },
             {
                 "from": "Memorial Sandino",
-                "service": [
+                "services": [
                     "Su"
                 ],
                 "stations": [
@@ -72214,7 +72214,7 @@
             },
             {
                 "from": "Laureles Norte",
-                "service": [
+                "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
@@ -72415,7 +72415,7 @@
             },
             {
                 "from": "Laureles Norte",
-                "service": [
+                "services": [
                     "Sa"
                 ],
                 "stations": [
@@ -72616,7 +72616,7 @@
             },
             {
                 "from": "Laureles Norte",
-                "service": [
+                "services": [
                     "Su"
                 ],
                 "stations": [
@@ -72819,7 +72819,7 @@
         "195": [
             {
                 "from": "Barrio Milagro de Dios",
-                "service": [
+                "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
@@ -73148,7 +73148,7 @@
             },
             {
                 "from": "Barrio Milagro de Dios",
-                "service": [
+                "services": [
                     "Sa"
                 ],
                 "stations": [
@@ -73397,7 +73397,7 @@
             },
             {
                 "from": "Barrio Milagro de Dios",
-                "service": [
+                "services": [
                     "Su"
                 ],
                 "stations": [
@@ -73634,7 +73634,7 @@
             },
             {
                 "from": "Parque Central",
-                "service": [
+                "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
@@ -73963,7 +73963,7 @@
             },
             {
                 "from": "Parque Central",
-                "service": [
+                "services": [
                     "Sa"
                 ],
                 "stations": [
@@ -74212,7 +74212,7 @@
             },
             {
                 "from": "Parque Central",
-                "service": [
+                "services": [
                     "Su"
                 ],
                 "stations": [
@@ -74451,7 +74451,7 @@
         "210": [
             {
                 "from": "Villa Nueva",
-                "service": [
+                "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
@@ -74932,7 +74932,7 @@
             },
             {
                 "from": "Villa Nueva",
-                "service": [
+                "services": [
                     "Sa"
                 ],
                 "stations": [
@@ -75301,7 +75301,7 @@
             },
             {
                 "from": "Villa Nueva",
-                "service": [
+                "services": [
                     "Su"
                 ],
                 "stations": [
@@ -75590,7 +75590,7 @@
             },
             {
                 "from": "Catedral",
-                "service": [
+                "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
@@ -76071,7 +76071,7 @@
             },
             {
                 "from": "Catedral",
-                "service": [
+                "services": [
                     "Sa"
                 ],
                 "stations": [
@@ -76440,7 +76440,7 @@
             },
             {
                 "from": "Catedral",
-                "service": [
+                "services": [
                     "Su"
                 ],
                 "stations": [
@@ -76731,7 +76731,7 @@
         "262": [
             {
                 "from": "Comarca Los Vanegas",
-                "service": [
+                "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
@@ -76948,7 +76948,7 @@
             },
             {
                 "from": "Comarca Los Vanegas",
-                "service": [
+                "services": [
                     "Sa"
                 ],
                 "stations": [
@@ -77157,7 +77157,7 @@
             },
             {
                 "from": "Comarca Los Vanegas",
-                "service": [
+                "services": [
                     "Su"
                 ],
                 "stations": [
@@ -77350,7 +77350,7 @@
             },
             {
                 "from": "INATEC",
-                "service": [
+                "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
@@ -77567,7 +77567,7 @@
             },
             {
                 "from": "INATEC",
-                "service": [
+                "services": [
                     "Sa"
                 ],
                 "stations": [
@@ -77776,7 +77776,7 @@
             },
             {
                 "from": "INATEC",
-                "service": [
+                "services": [
                     "Su"
                 ],
                 "stations": [
@@ -77971,7 +77971,7 @@
         "266": [
             {
                 "from": "Las Mercedes",
-                "service": [
+                "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
@@ -78680,7 +78680,7 @@
             },
             {
                 "from": "Las Mercedes",
-                "service": [
+                "services": [
                     "Sa"
                 ],
                 "stations": [
@@ -79373,7 +79373,7 @@
             },
             {
                 "from": "Las Mercedes",
-                "service": [
+                "services": [
                     "Su"
                 ],
                 "stations": [
@@ -80082,7 +80082,7 @@
             },
             {
                 "from": "El Panal",
-                "service": [
+                "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
@@ -80791,7 +80791,7 @@
             },
             {
                 "from": "El Panal",
-                "service": [
+                "services": [
                     "Sa"
                 ],
                 "stations": [
@@ -81484,7 +81484,7 @@
             },
             {
                 "from": "El Panal",
-                "service": [
+                "services": [
                     "Su"
                 ],
                 "stations": [
@@ -82195,7 +82195,7 @@
         "6": [
             {
                 "from": "Barrio Camilo Chamorro",
-                "service": [
+                "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
@@ -82480,7 +82480,7 @@
             },
             {
                 "from": "Barrio Camilo Chamorro",
-                "service": [
+                "services": [
                     "Sa"
                 ],
                 "stations": [
@@ -82765,7 +82765,7 @@
             },
             {
                 "from": "Barrio Camilo Chamorro",
-                "service": [
+                "services": [
                     "Su"
                 ],
                 "stations": [
@@ -83050,7 +83050,7 @@
             },
             {
                 "from": "Colonia Independencia",
-                "service": [
+                "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
@@ -83335,7 +83335,7 @@
             },
             {
                 "from": "Colonia Independencia",
-                "service": [
+                "services": [
                     "Sa"
                 ],
                 "stations": [
@@ -83620,7 +83620,7 @@
             },
             {
                 "from": "Colonia Independencia",
-                "service": [
+                "services": [
                     "Su"
                 ],
                 "stations": [
@@ -83907,7 +83907,7 @@
         "ESQ": [
             {
                 "from": "Vistas de Esquipulas",
-                "service": [
+                "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
@@ -84076,7 +84076,7 @@
             },
             {
                 "from": "Vistas de Esquipulas",
-                "service": [
+                "services": [
                     "Sa"
                 ],
                 "stations": [
@@ -84245,7 +84245,7 @@
             },
             {
                 "from": "Vistas de Esquipulas",
-                "service": [
+                "services": [
                     "Su"
                 ],
                 "stations": [
@@ -84414,7 +84414,7 @@
             },
             {
                 "from": "Mercado Roberto Huembes",
-                "service": [
+                "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
@@ -84583,7 +84583,7 @@
             },
             {
                 "from": "Mercado Roberto Huembes",
-                "service": [
+                "services": [
                     "Sa"
                 ],
                 "stations": [
@@ -84752,7 +84752,7 @@
             },
             {
                 "from": "Mercado Roberto Huembes",
-                "service": [
+                "services": [
                     "Su"
                 ],
                 "stations": [
@@ -84923,7 +84923,7 @@
         "MR4": [
             {
                 "from": "Villa Roma",
-                "service": [
+                "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
@@ -85096,7 +85096,7 @@
             },
             {
                 "from": "Villa Roma",
-                "service": [
+                "services": [
                     "Sa"
                 ],
                 "stations": [
@@ -85325,7 +85325,7 @@
             },
             {
                 "from": "Villa Roma",
-                "service": [
+                "services": [
                     "Su"
                 ],
                 "stations": [
@@ -85474,7 +85474,7 @@
             },
             {
                 "from": "Barrio Santa Rosa",
-                "service": [
+                "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
@@ -85647,7 +85647,7 @@
             },
             {
                 "from": "Barrio Santa Rosa",
-                "service": [
+                "services": [
                     "Sa"
                 ],
                 "stations": [
@@ -85876,7 +85876,7 @@
             },
             {
                 "from": "Barrio Santa Rosa",
-                "service": [
+                "services": [
                     "Su"
                 ],
                 "stations": [
@@ -86027,7 +86027,7 @@
         "SIS": [
             {
                 "from": "Terminal San Isidro",
-                "service": [
+                "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
@@ -86088,7 +86088,7 @@
             },
             {
                 "from": "Terminal San Isidro",
-                "service": [
+                "services": [
                     "Sa"
                 ],
                 "stations": [
@@ -86153,7 +86153,7 @@
             },
             {
                 "from": "Terminal San Isidro",
-                "service": [
+                "services": [
                     "Su"
                 ],
                 "stations": [
@@ -86206,7 +86206,7 @@
             },
             {
                 "from": "El Panal",
-                "service": [
+                "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
@@ -86267,7 +86267,7 @@
             },
             {
                 "from": "El Panal",
-                "service": [
+                "services": [
                     "Sa"
                 ],
                 "stations": [
@@ -86332,7 +86332,7 @@
             },
             {
                 "from": "El Panal",
-                "service": [
+                "services": [
                     "Su"
                 ],
                 "stations": [
@@ -86387,7 +86387,7 @@
         "VAN": [
             {
                 "from": "Comarca los Vanegas",
-                "service": [
+                "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
@@ -86504,7 +86504,7 @@
             },
             {
                 "from": "Comarca los Vanegas",
-                "service": [
+                "services": [
                     "Sa"
                 ],
                 "stations": [
@@ -86621,7 +86621,7 @@
             },
             {
                 "from": "Comarca los Vanegas",
-                "service": [
+                "services": [
                     "Su"
                 ],
                 "stations": [
@@ -86738,7 +86738,7 @@
             },
             {
                 "from": "El Panal",
-                "service": [
+                "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
@@ -86855,7 +86855,7 @@
             },
             {
                 "from": "El Panal",
-                "service": [
+                "services": [
                     "Sa"
                 ],
                 "stations": [
@@ -86972,7 +86972,7 @@
             },
             {
                 "from": "El Panal",
-                "service": [
+                "services": [
                     "Su"
                 ],
                 "stations": [
