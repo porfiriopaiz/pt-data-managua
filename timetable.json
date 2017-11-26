@@ -2,13 +2,13 @@
     "lines": {
         "101": [
             {
-                "from": "Mercado Mayoreo",
+                "from": "Villa Jośe Benito Escobar",
                 "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
-                    "Mercado Mayoreo",
-                    "Las Brisas"
+                    "Villa Jośe Benito Escobar",
+                    "Mercado Oriental"
                 ],
                 "times": [
                     [
@@ -316,16 +316,16 @@
                         "21:75"
                     ]
                 ],
-                "to": "Las Brisas"
+                "to": "Mercado Oriental"
             },
             {
-                "from": "Mercado Mayoreo",
+                "from": "Villa Jośe Benito Escobar",
                 "services": [
                     "Sa"
                 ],
                 "stations": [
-                    "Mercado Mayoreo",
-                    "Las Brisas"
+                    "Villa Jośe Benito Escobar",
+                    "Mercado Oriental"
                 ],
                 "times": [
                     [
@@ -633,16 +633,16 @@
                         "21:75"
                     ]
                 ],
-                "to": "Las Brisas"
+                "to": "Mercado Oriental"
             },
             {
-                "from": "Mercado Mayoreo",
+                "from": "Villa Jośe Benito Escobar",
                 "services": [
                     "Su"
                 ],
                 "stations": [
-                    "Mercado Mayoreo",
-                    "Las Brisas"
+                    "Villa Jośe Benito Escobar",
+                    "Mercado Oriental"
                 ],
                 "times": [
                     [
@@ -950,16 +950,16 @@
                         "21:75"
                     ]
                 ],
-                "to": "Las Brisas"
+                "to": "Mercado Oriental"
             },
             {
-                "from": "Las Brisas",
+                "from": "Mercado Oriental",
                 "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
-                    "Las Brisas",
-                    "Mercado Mayoreo"
+                    "Mercado Oriental",
+                    "Villa Jośe Benito Escobar"
                 ],
                 "times": [
                     [
@@ -1267,16 +1267,16 @@
                         "21:75"
                     ]
                 ],
-                "to": "Mercado Mayoreo"
+                "to": "Villa Jośe Benito Escobar"
             },
             {
-                "from": "Las Brisas",
+                "from": "Mercado Oriental",
                 "services": [
                     "Sa"
                 ],
                 "stations": [
-                    "Las Brisas",
-                    "Mercado Mayoreo"
+                    "Mercado Oriental",
+                    "Villa Jośe Benito Escobar"
                 ],
                 "times": [
                     [
@@ -1584,16 +1584,16 @@
                         "21:75"
                     ]
                 ],
-                "to": "Mercado Mayoreo"
+                "to": "Villa Jośe Benito Escobar"
             },
             {
-                "from": "Las Brisas",
+                "from": "Mercado Oriental",
                 "services": [
                     "Su"
                 ],
                 "stations": [
-                    "Las Brisas",
-                    "Mercado Mayoreo"
+                    "Mercado Oriental",
+                    "Villa Jośe Benito Escobar"
                 ],
                 "times": [
                     [
@@ -1901,18 +1901,18 @@
                         "21:75"
                     ]
                 ],
-                "to": "Mercado Mayoreo"
+                "to": "Villa Jośe Benito Escobar"
             }
         ],
         "102": [
             {
-                "from": "Mercado Mayoreo",
+                "from": "Terminal José Benito Escobar",
                 "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
-                    "Mercado Mayoreo",
-                    "Acahualinca"
+                    "Terminal José Benito Escobar",
+                    "Cuesta el Plomo Sur"
                 ],
                 "times": [
                     [
@@ -2328,16 +2328,16 @@
                         "21:60"
                     ]
                 ],
-                "to": "Acahualinca"
+                "to": "Cuesta el Plomo Sur"
             },
             {
-                "from": "Mercado Mayoreo",
+                "from": "Terminal José Benito Escobar",
                 "services": [
                     "Sa"
                 ],
                 "stations": [
-                    "Mercado Mayoreo",
-                    "Acahualinca"
+                    "Terminal José Benito Escobar",
+                    "Cuesta el Plomo Sur"
                 ],
                 "times": [
                     [
@@ -2729,16 +2729,16 @@
                         "21:30"
                     ]
                 ],
-                "to": "Acahualinca"
+                "to": "Cuesta el Plomo Sur"
             },
             {
-                "from": "Mercado Mayoreo",
+                "from": "Terminal José Benito Escobar",
                 "services": [
                     "Su"
                 ],
                 "stations": [
-                    "Mercado Mayoreo",
-                    "Acahualinca"
+                    "Terminal José Benito Escobar",
+                    "Cuesta el Plomo Sur"
                 ],
                 "times": [
                     [
@@ -3062,16 +3062,16 @@
                         "20:63"
                     ]
                 ],
-                "to": "Acahualinca"
+                "to": "Cuesta el Plomo Sur"
             },
             {
-                "from": "Acahualinca",
+                "from": "Cuesta el Plomo Sur",
                 "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
-                    "Acahualinca",
-                    "Mercado Mayoreo"
+                    "Cuesta el Plomo Sur",
+                    "Terminal José Benito Escobar"
                 ],
                 "times": [
                     [
@@ -3487,16 +3487,16 @@
                         "21:60"
                     ]
                 ],
-                "to": "Mercado Mayoreo"
+                "to": "Terminal José Benito Escobar"
             },
             {
-                "from": "Acahualinca",
+                "from": "Cuesta el Plomo Sur",
                 "services": [
                     "Sa"
                 ],
                 "stations": [
-                    "Acahualinca",
-                    "Mercado Mayoreo"
+                    "Cuesta el Plomo Sur",
+                    "Terminal José Benito Escobar"
                 ],
                 "times": [
                     [
@@ -3888,16 +3888,16 @@
                         "21:30"
                     ]
                 ],
-                "to": "Mercado Mayoreo"
+                "to": "Terminal José Benito Escobar"
             },
             {
-                "from": "Acahualinca",
+                "from": "Cuesta el Plomo Sur",
                 "services": [
                     "Su"
                 ],
                 "stations": [
-                    "Acahualinca",
-                    "Mercado Mayoreo"
+                    "Cuesta el Plomo Sur",
+                    "Terminal José Benito Escobar"
                 ],
                 "times": [
                     [
@@ -4221,18 +4221,18 @@
                         "20:63"
                     ]
                 ],
-                "to": "Mercado Mayoreo"
+                "to": "Terminal José Benito Escobar"
             }
         ],
         "103": [
             {
-                "from": "Laureles Sur",
+                "from": "Mercado Mayoreo",
                 "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
-                    "Laureles Sur",
-                    "Hospital Lenín Fonseca"
+                    "Mercado Mayoreo",
+                    "Pulpería Karla"
                 ],
                 "times": [
                     [
@@ -4472,16 +4472,16 @@
                         "21:60"
                     ]
                 ],
-                "to": "Hospital Lenín Fonseca"
+                "to": "Pulpería Karla"
             },
             {
-                "from": "Laureles Sur",
+                "from": "Mercado Mayoreo",
                 "services": [
                     "Sa"
                 ],
                 "stations": [
-                    "Laureles Sur",
-                    "Hospital Lenín Fonseca"
+                    "Mercado Mayoreo",
+                    "Pulpería Karla"
                 ],
                 "times": [
                     [
@@ -4753,16 +4753,16 @@
                         "21:55"
                     ]
                 ],
-                "to": "Hospital Lenín Fonseca"
+                "to": "Pulpería Karla"
             },
             {
-                "from": "Laureles Sur",
+                "from": "Mercado Mayoreo",
                 "services": [
                     "Su"
                 ],
                 "stations": [
-                    "Laureles Sur",
-                    "Hospital Lenín Fonseca"
+                    "Mercado Mayoreo",
+                    "Pulpería Karla"
                 ],
                 "times": [
                     [
@@ -5034,16 +5034,16 @@
                         "21:55"
                     ]
                 ],
-                "to": "Hospital Lenín Fonseca"
+                "to": "Pulpería Karla"
             },
             {
-                "from": "Hospital Lenín Fonseca",
+                "from": "Pulpería Karla",
                 "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
-                    "Hospital Lenín Fonseca",
-                    "Laureles Sur"
+                    "Pulpería Karla",
+                    "Mercado Mayoreo"
                 ],
                 "times": [
                     [
@@ -5283,16 +5283,16 @@
                         "21:60"
                     ]
                 ],
-                "to": "Laureles Sur"
+                "to": "Mercado Mayoreo"
             },
             {
-                "from": "Hospital Lenín Fonseca",
+                "from": "Pulpería Karla",
                 "services": [
                     "Sa"
                 ],
                 "stations": [
-                    "Hospital Lenín Fonseca",
-                    "Laureles Sur"
+                    "Pulpería Karla",
+                    "Mercado Mayoreo"
                 ],
                 "times": [
                     [
@@ -5564,16 +5564,16 @@
                         "21:55"
                     ]
                 ],
-                "to": "Laureles Sur"
+                "to": "Mercado Mayoreo"
             },
             {
-                "from": "Hospital Lenín Fonseca",
+                "from": "Pulpería Karla",
                 "services": [
                     "Su"
                 ],
                 "stations": [
-                    "Hospital Lenín Fonseca",
-                    "Laureles Sur"
+                    "Pulpería Karla",
+                    "Mercado Mayoreo"
                 ],
                 "times": [
                     [
@@ -5845,18 +5845,18 @@
                         "21:55"
                     ]
                 ],
-                "to": "Laureles Sur"
+                "to": "Mercado Mayoreo"
             }
         ],
         "104": [
             {
-                "from": "Hialeah",
+                "from": "Terminal Camilo Ortega",
                 "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
-                    "Hialeah",
-                    "Mercado Mayoreo"
+                    "Terminal Camilo Ortega",
+                    "El Panal"
                 ],
                 "times": [
                     [
@@ -6248,16 +6248,16 @@
                         "21:65"
                     ]
                 ],
-                "to": "Mercado Mayoreo"
+                "to": "El Panal"
             },
             {
-                "from": "Hialeah",
+                "from": "Terminal Camilo Ortega",
                 "services": [
                     "Sa"
                 ],
                 "stations": [
-                    "Hialeah",
-                    "Mercado Mayoreo"
+                    "Terminal Camilo Ortega",
+                    "El Panal"
                 ],
                 "times": [
                     [
@@ -6677,16 +6677,16 @@
                         "20:60"
                     ]
                 ],
-                "to": "Mercado Mayoreo"
+                "to": "El Panal"
             },
             {
-                "from": "Hialeah",
+                "from": "Terminal Camilo Ortega",
                 "services": [
                     "Su"
                 ],
                 "stations": [
-                    "Hialeah",
-                    "Mercado Mayoreo"
+                    "Terminal Camilo Ortega",
+                    "El Panal"
                 ],
                 "times": [
                     [
@@ -7018,16 +7018,16 @@
                         "20:35"
                     ]
                 ],
-                "to": "Mercado Mayoreo"
+                "to": "El Panal"
             },
             {
-                "from": "Mercado Mayoreo",
+                "from": "El Panal",
                 "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
-                    "Mercado Mayoreo",
-                    "Hialeah"
+                    "El Panal",
+                    "Terminal Camilo Ortega"
                 ],
                 "times": [
                     [
@@ -7419,16 +7419,16 @@
                         "21:65"
                     ]
                 ],
-                "to": "Hialeah"
+                "to": "Terminal Camilo Ortega"
             },
             {
-                "from": "Mercado Mayoreo",
+                "from": "El Panal",
                 "services": [
                     "Sa"
                 ],
                 "stations": [
-                    "Mercado Mayoreo",
-                    "Hialeah"
+                    "El Panal",
+                    "Terminal Camilo Ortega"
                 ],
                 "times": [
                     [
@@ -7848,16 +7848,16 @@
                         "20:60"
                     ]
                 ],
-                "to": "Hialeah"
+                "to": "Terminal Camilo Ortega"
             },
             {
-                "from": "Mercado Mayoreo",
+                "from": "El Panal",
                 "services": [
                     "Su"
                 ],
                 "stations": [
-                    "Mercado Mayoreo",
-                    "Hialeah"
+                    "El Panal",
+                    "Terminal Camilo Ortega"
                 ],
                 "times": [
                     [
@@ -8189,18 +8189,18 @@
                         "20:35"
                     ]
                 ],
-                "to": "Hialeah"
+                "to": "Terminal Camilo Ortega"
             }
         ],
         "105": [
             {
-                "from": "Unidad de Propósito",
+                "from": "Mercado Mayoreo",
                 "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
-                    "Unidad de Propósito",
-                    "Plazoleta Camilo Ortega"
+                    "Mercado Mayoreo",
+                    "El Seminario"
                 ],
                 "times": [
                     [
@@ -8512,16 +8512,16 @@
                         "21:60"
                     ]
                 ],
-                "to": "Plazoleta Camilo Ortega"
+                "to": "El Seminario"
             },
             {
-                "from": "Unidad de Propósito",
+                "from": "Mercado Mayoreo",
                 "services": [
                     "Sa"
                 ],
                 "stations": [
-                    "Unidad de Propósito",
-                    "Plazoleta Camilo Ortega"
+                    "Mercado Mayoreo",
+                    "El Seminario"
                 ],
                 "times": [
                     [
@@ -8749,16 +8749,16 @@
                         "20:60"
                     ]
                 ],
-                "to": "Plazoleta Camilo Ortega"
+                "to": "El Seminario"
             },
             {
-                "from": "Unidad de Propósito",
+                "from": "Mercado Mayoreo",
                 "services": [
                     "Su"
                 ],
                 "stations": [
-                    "Unidad de Propósito",
-                    "Plazoleta Camilo Ortega"
+                    "Mercado Mayoreo",
+                    "El Seminario"
                 ],
                 "times": [
                     [
@@ -9002,16 +9002,16 @@
                         "20:60"
                     ]
                 ],
-                "to": "Plazoleta Camilo Ortega"
+                "to": "El Seminario"
             },
             {
-                "from": "Plazoleta Camilo Ortega",
+                "from": "El Seminario",
                 "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
-                    "Plazoleta Camilo Ortega",
-                    "Unidad de Propósito"
+                    "El Seminario",
+                    "Mercado Mayoreo"
                 ],
                 "times": [
                     [
@@ -9323,16 +9323,16 @@
                         "21:60"
                     ]
                 ],
-                "to": "Unidad de Propósito"
+                "to": "Mercado Mayoreo"
             },
             {
-                "from": "Plazoleta Camilo Ortega",
+                "from": "El Seminario",
                 "services": [
                     "Sa"
                 ],
                 "stations": [
-                    "Plazoleta Camilo Ortega",
-                    "Unidad de Propósito"
+                    "El Seminario",
+                    "Mercado Mayoreo"
                 ],
                 "times": [
                     [
@@ -9560,16 +9560,16 @@
                         "20:60"
                     ]
                 ],
-                "to": "Unidad de Propósito"
+                "to": "Mercado Mayoreo"
             },
             {
-                "from": "Plazoleta Camilo Ortega",
+                "from": "El Seminario",
                 "services": [
                     "Su"
                 ],
                 "stations": [
-                    "Plazoleta Camilo Ortega",
-                    "Unidad de Propósito"
+                    "El Seminario",
+                    "Mercado Mayoreo"
                 ],
                 "times": [
                     [
@@ -9813,18 +9813,18 @@
                         "20:60"
                     ]
                 ],
-                "to": "Unidad de Propósito"
+                "to": "Mercado Mayoreo"
             }
         ],
         "106": [
             {
-                "from": "Barrio Berta Díaz",
+                "from": "Parque Independencia",
                 "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
-                    "Barrio Berta Díaz",
-                    "El Seminario"
+                    "Parque Independencia",
+                    "Barrio Camilo Chamorro"
                 ],
                 "times": [
                     [
@@ -10180,16 +10180,16 @@
                         "21:75"
                     ]
                 ],
-                "to": "El Seminario"
+                "to": "Barrio Camilo Chamorro"
             },
             {
-                "from": "Barrio Berta Díaz",
+                "from": "Parque Independencia",
                 "services": [
                     "Sa"
                 ],
                 "stations": [
-                    "Barrio Berta Díaz",
-                    "El Seminario"
+                    "Parque Independencia",
+                    "Barrio Camilo Chamorro"
                 ],
                 "times": [
                     [
@@ -10417,16 +10417,16 @@
                         "20:75"
                     ]
                 ],
-                "to": "El Seminario"
+                "to": "Barrio Camilo Chamorro"
             },
             {
-                "from": "Barrio Berta Díaz",
+                "from": "Parque Independencia",
                 "services": [
                     "Su"
                 ],
                 "stations": [
-                    "Barrio Berta Díaz",
-                    "El Seminario"
+                    "Parque Independencia",
+                    "Barrio Camilo Chamorro"
                 ],
                 "times": [
                     [
@@ -10598,16 +10598,16 @@
                         "20:70"
                     ]
                 ],
-                "to": "El Seminario"
+                "to": "Barrio Camilo Chamorro"
             },
             {
-                "from": "El Seminario",
+                "from": "Barrio Camilo Chamorro",
                 "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
-                    "El Seminario",
-                    "Barrio Berta Díaz"
+                    "Barrio Camilo Chamorro",
+                    "Parque Independencia"
                 ],
                 "times": [
                     [
@@ -10963,16 +10963,16 @@
                         "21:75"
                     ]
                 ],
-                "to": "Barrio Berta Díaz"
+                "to": "Parque Independencia"
             },
             {
-                "from": "El Seminario",
+                "from": "Barrio Camilo Chamorro",
                 "services": [
                     "Sa"
                 ],
                 "stations": [
-                    "El Seminario",
-                    "Barrio Berta Díaz"
+                    "Barrio Camilo Chamorro",
+                    "Parque Independencia"
                 ],
                 "times": [
                     [
@@ -11200,16 +11200,16 @@
                         "20:75"
                     ]
                 ],
-                "to": "Barrio Berta Díaz"
+                "to": "Parque Independencia"
             },
             {
-                "from": "El Seminario",
+                "from": "Barrio Camilo Chamorro",
                 "services": [
                     "Su"
                 ],
                 "stations": [
-                    "El Seminario",
-                    "Barrio Berta Díaz"
+                    "Barrio Camilo Chamorro",
+                    "Parque Independencia"
                 ],
                 "times": [
                     [
@@ -11381,7 +11381,7 @@
                         "20:70"
                     ]
                 ],
-                "to": "Barrio Berta Díaz"
+                "to": "Parque Independencia"
             }
         ],
         "107": [
@@ -11392,7 +11392,7 @@
                 ],
                 "stations": [
                     "Plazoleta Camilo Ortega",
-                    "El Panal"
+                    "Mercado Iván Montenegro Sureste"
                 ],
                 "times": [
                     [
@@ -11868,7 +11868,7 @@
                         "21:48"
                     ]
                 ],
-                "to": "El Panal"
+                "to": "Mercado Iván Montenegro Sureste"
             },
             {
                 "from": "Plazoleta Camilo Ortega",
@@ -11877,7 +11877,7 @@
                 ],
                 "stations": [
                     "Plazoleta Camilo Ortega",
-                    "El Panal"
+                    "Mercado Iván Montenegro Sureste"
                 ],
                 "times": [
                     [
@@ -12353,7 +12353,7 @@
                         "21:48"
                     ]
                 ],
-                "to": "El Panal"
+                "to": "Mercado Iván Montenegro Sureste"
             },
             {
                 "from": "Plazoleta Camilo Ortega",
@@ -12362,7 +12362,7 @@
                 ],
                 "stations": [
                     "Plazoleta Camilo Ortega",
-                    "El Panal"
+                    "Mercado Iván Montenegro Sureste"
                 ],
                 "times": [
                     [
@@ -12838,15 +12838,15 @@
                         "21:48"
                     ]
                 ],
-                "to": "El Panal"
+                "to": "Mercado Iván Montenegro Sureste"
             },
             {
-                "from": "El Panal",
+                "from": "Mercado Iván Montenegro Sureste",
                 "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
-                    "El Panal",
+                    "Mercado Iván Montenegro Sureste",
                     "Plazoleta Camilo Ortega"
                 ],
                 "times": [
@@ -13326,12 +13326,12 @@
                 "to": "Plazoleta Camilo Ortega"
             },
             {
-                "from": "El Panal",
+                "from": "Mercado Iván Montenegro Sureste",
                 "services": [
                     "Sa"
                 ],
                 "stations": [
-                    "El Panal",
+                    "Mercado Iván Montenegro Sureste",
                     "Plazoleta Camilo Ortega"
                 ],
                 "times": [
@@ -13811,12 +13811,12 @@
                 "to": "Plazoleta Camilo Ortega"
             },
             {
-                "from": "El Panal",
+                "from": "Mercado Iván Montenegro Sureste",
                 "services": [
                     "Su"
                 ],
                 "stations": [
-                    "El Panal",
+                    "Mercado Iván Montenegro Sureste",
                     "Plazoleta Camilo Ortega"
                 ],
                 "times": [
@@ -14298,13 +14298,13 @@
         ],
         "108": [
             {
-                "from": "Reparto Schick",
+                "from": "Ciudad Sandino (Villa Soberana)",
                 "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
-                    "Reparto Schick",
-                    "Barrio Jose Dolores Estrada"
+                    "Ciudad Sandino (Villa Soberana)",
+                    "Catedral"
                 ],
                 "times": [
                     [
@@ -14516,16 +14516,16 @@
                         "20:30"
                     ]
                 ],
-                "to": "Barrio Jose Dolores Estrada"
+                "to": "Catedral"
             },
             {
-                "from": "Reparto Schick",
+                "from": "Ciudad Sandino (Villa Soberana)",
                 "services": [
                     "Sa"
                 ],
                 "stations": [
-                    "Reparto Schick",
-                    "Barrio Jose Dolores Estrada"
+                    "Ciudad Sandino (Villa Soberana)",
+                    "Catedral"
                 ],
                 "times": [
                     [
@@ -14737,16 +14737,16 @@
                         "20:30"
                     ]
                 ],
-                "to": "Barrio Jose Dolores Estrada"
+                "to": "Catedral"
             },
             {
-                "from": "Reparto Schick",
+                "from": "Ciudad Sandino (Villa Soberana)",
                 "services": [
                     "Su"
                 ],
                 "stations": [
-                    "Reparto Schick",
-                    "Barrio Jose Dolores Estrada"
+                    "Ciudad Sandino (Villa Soberana)",
+                    "Catedral"
                 ],
                 "times": [
                     [
@@ -14910,16 +14910,16 @@
                         "19:60"
                     ]
                 ],
-                "to": "Barrio Jose Dolores Estrada"
+                "to": "Catedral"
             },
             {
-                "from": "Barrio Jose Dolores Estrada",
+                "from": "Catedral",
                 "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
-                    "Barrio Jose Dolores Estrada",
-                    "Reparto Schick"
+                    "Catedral",
+                    "Ciudad Sandino (Villa Soberana)"
                 ],
                 "times": [
                     [
@@ -15131,16 +15131,16 @@
                         "20:30"
                     ]
                 ],
-                "to": "Reparto Schick"
+                "to": "Ciudad Sandino (Villa Soberana)"
             },
             {
-                "from": "Barrio Jose Dolores Estrada",
+                "from": "Catedral",
                 "services": [
                     "Sa"
                 ],
                 "stations": [
-                    "Barrio Jose Dolores Estrada",
-                    "Reparto Schick"
+                    "Catedral",
+                    "Ciudad Sandino (Villa Soberana)"
                 ],
                 "times": [
                     [
@@ -15352,16 +15352,16 @@
                         "20:30"
                     ]
                 ],
-                "to": "Reparto Schick"
+                "to": "Ciudad Sandino (Villa Soberana)"
             },
             {
-                "from": "Barrio Jose Dolores Estrada",
+                "from": "Catedral",
                 "services": [
                     "Su"
                 ],
                 "stations": [
-                    "Barrio Jose Dolores Estrada",
-                    "Reparto Schick"
+                    "Catedral",
+                    "Ciudad Sandino (Villa Soberana)"
                 ],
                 "times": [
                     [
@@ -15525,18 +15525,18 @@
                         "19:60"
                     ]
                 ],
-                "to": "Reparto Schick"
+                "to": "Ciudad Sandino (Villa Soberana)"
             }
         ],
         "109": [
             {
-                "from": "Reparto Schick",
+                "from": "Plazoleta Camilo Ortega",
                 "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
-                    "Reparto Schick",
-                    "Las Brisas"
+                    "Plazoleta Camilo Ortega",
+                    "Gancho de Camino"
                 ],
                 "times": [
                     [
@@ -15748,16 +15748,16 @@
                         "20:45"
                     ]
                 ],
-                "to": "Las Brisas"
+                "to": "Gancho de Camino"
             },
             {
-                "from": "Reparto Schick",
+                "from": "Plazoleta Camilo Ortega",
                 "services": [
                     "Sa"
                 ],
                 "stations": [
-                    "Reparto Schick",
-                    "Las Brisas"
+                    "Plazoleta Camilo Ortega",
+                    "Gancho de Camino"
                 ],
                 "times": [
                     [
@@ -15969,16 +15969,16 @@
                         "20:45"
                     ]
                 ],
-                "to": "Las Brisas"
+                "to": "Gancho de Camino"
             },
             {
-                "from": "Reparto Schick",
+                "from": "Plazoleta Camilo Ortega",
                 "services": [
                     "Su"
                 ],
                 "stations": [
-                    "Reparto Schick",
-                    "Las Brisas"
+                    "Plazoleta Camilo Ortega",
+                    "Gancho de Camino"
                 ],
                 "times": [
                     [
@@ -16146,16 +16146,16 @@
                         "19:75"
                     ]
                 ],
-                "to": "Las Brisas"
+                "to": "Gancho de Camino"
             },
             {
-                "from": "Las Brisas",
+                "from": "Gancho de Camino",
                 "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
-                    "Las Brisas",
-                    "Reparto Schick"
+                    "Gancho de Camino",
+                    "Plazoleta Camilo Ortega"
                 ],
                 "times": [
                     [
@@ -16367,16 +16367,16 @@
                         "20:45"
                     ]
                 ],
-                "to": "Reparto Schick"
+                "to": "Plazoleta Camilo Ortega"
             },
             {
-                "from": "Las Brisas",
+                "from": "Gancho de Camino",
                 "services": [
                     "Sa"
                 ],
                 "stations": [
-                    "Las Brisas",
-                    "Reparto Schick"
+                    "Gancho de Camino",
+                    "Plazoleta Camilo Ortega"
                 ],
                 "times": [
                     [
@@ -16588,16 +16588,16 @@
                         "20:45"
                     ]
                 ],
-                "to": "Reparto Schick"
+                "to": "Plazoleta Camilo Ortega"
             },
             {
-                "from": "Las Brisas",
+                "from": "Gancho de Camino",
                 "services": [
                     "Su"
                 ],
                 "stations": [
-                    "Las Brisas",
-                    "Reparto Schick"
+                    "Gancho de Camino",
+                    "Plazoleta Camilo Ortega"
                 ],
                 "times": [
                     [
@@ -16765,18 +16765,18 @@
                         "19:75"
                     ]
                 ],
-                "to": "Reparto Schick"
+                "to": "Plazoleta Camilo Ortega"
             }
         ],
         "110": [
             {
-                "from": "Mercado Mayoreo",
+                "from": "Terminal 165",
                 "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
-                    "Mercado Mayoreo",
-                    "El Seminario"
+                    "Terminal 165",
+                    "Escuela Comunal Las Torres"
                 ],
                 "times": [
                     [
@@ -17400,16 +17400,16 @@
                         "21:63"
                     ]
                 ],
-                "to": "El Seminario"
+                "to": "Escuela Comunal Las Torres"
             },
             {
-                "from": "Mercado Mayoreo",
+                "from": "Terminal 165",
                 "services": [
                     "Sa"
                 ],
                 "stations": [
-                    "Mercado Mayoreo",
-                    "El Seminario"
+                    "Terminal 165",
+                    "Escuela Comunal Las Torres"
                 ],
                 "times": [
                     [
@@ -17997,16 +17997,16 @@
                         "21:63"
                     ]
                 ],
-                "to": "El Seminario"
+                "to": "Escuela Comunal Las Torres"
             },
             {
-                "from": "Mercado Mayoreo",
+                "from": "Terminal 165",
                 "services": [
                     "Su"
                 ],
                 "stations": [
-                    "Mercado Mayoreo",
-                    "El Seminario"
+                    "Terminal 165",
+                    "Escuela Comunal Las Torres"
                 ],
                 "times": [
                     [
@@ -18386,16 +18386,16 @@
                         "21:63"
                     ]
                 ],
-                "to": "El Seminario"
+                "to": "Escuela Comunal Las Torres"
             },
             {
-                "from": "El Seminario",
+                "from": "Escuela Comunal Las Torres",
                 "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
-                    "El Seminario",
-                    "Mercado Mayoreo"
+                    "Escuela Comunal Las Torres",
+                    "Terminal 165"
                 ],
                 "times": [
                     [
@@ -19019,16 +19019,16 @@
                         "21:63"
                     ]
                 ],
-                "to": "Mercado Mayoreo"
+                "to": "Terminal 165"
             },
             {
-                "from": "El Seminario",
+                "from": "Escuela Comunal Las Torres",
                 "services": [
                     "Sa"
                 ],
                 "stations": [
-                    "El Seminario",
-                    "Mercado Mayoreo"
+                    "Escuela Comunal Las Torres",
+                    "Terminal 165"
                 ],
                 "times": [
                     [
@@ -19616,16 +19616,16 @@
                         "21:63"
                     ]
                 ],
-                "to": "Mercado Mayoreo"
+                "to": "Terminal 165"
             },
             {
-                "from": "El Seminario",
+                "from": "Escuela Comunal Las Torres",
                 "services": [
                     "Su"
                 ],
                 "stations": [
-                    "El Seminario",
-                    "Mercado Mayoreo"
+                    "Escuela Comunal Las Torres",
+                    "Terminal 165"
                 ],
                 "times": [
                     [
@@ -20005,18 +20005,18 @@
                         "21:63"
                     ]
                 ],
-                "to": "Mercado Mayoreo"
+                "to": "Terminal 165"
             }
         ],
         "111": [
             {
-                "from": "Los Laureles Norte",
+                "from": "Terminal 116",
                 "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
-                    "Los Laureles Norte",
-                    "Colonia Miguel Bonilla"
+                    "Terminal 116",
+                    "Parque Independencia"
                 ],
                 "times": [
                     [
@@ -20400,16 +20400,16 @@
                         "21:75"
                     ]
                 ],
-                "to": "Colonia Miguel Bonilla"
+                "to": "Parque Independencia"
             },
             {
-                "from": "Los Laureles Norte",
+                "from": "Terminal 116",
                 "services": [
                     "Sa"
                 ],
                 "stations": [
-                    "Los Laureles Norte",
-                    "Colonia Miguel Bonilla"
+                    "Terminal 116",
+                    "Parque Independencia"
                 ],
                 "times": [
                     [
@@ -20793,16 +20793,16 @@
                         "21:75"
                     ]
                 ],
-                "to": "Colonia Miguel Bonilla"
+                "to": "Parque Independencia"
             },
             {
-                "from": "Los Laureles Norte",
+                "from": "Terminal 116",
                 "services": [
                     "Su"
                 ],
                 "stations": [
-                    "Los Laureles Norte",
-                    "Colonia Miguel Bonilla"
+                    "Terminal 116",
+                    "Parque Independencia"
                 ],
                 "times": [
                     [
@@ -21182,16 +21182,16 @@
                         "21:80"
                     ]
                 ],
-                "to": "Colonia Miguel Bonilla"
+                "to": "Parque Independencia"
             },
             {
-                "from": "Colonia Miguel Bonilla",
+                "from": "Parque Independencia",
                 "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
-                    "Colonia Miguel Bonilla",
-                    "Los Laureles Norte"
+                    "Parque Independencia",
+                    "Terminal 116"
                 ],
                 "times": [
                     [
@@ -21575,16 +21575,16 @@
                         "21:75"
                     ]
                 ],
-                "to": "Los Laureles Norte"
+                "to": "Terminal 116"
             },
             {
-                "from": "Colonia Miguel Bonilla",
+                "from": "Parque Independencia",
                 "services": [
                     "Sa"
                 ],
                 "stations": [
-                    "Colonia Miguel Bonilla",
-                    "Los Laureles Norte"
+                    "Parque Independencia",
+                    "Terminal 116"
                 ],
                 "times": [
                     [
@@ -21968,16 +21968,16 @@
                         "21:75"
                     ]
                 ],
-                "to": "Los Laureles Norte"
+                "to": "Terminal 116"
             },
             {
-                "from": "Colonia Miguel Bonilla",
+                "from": "Parque Independencia",
                 "services": [
                     "Su"
                 ],
                 "stations": [
-                    "Colonia Miguel Bonilla",
-                    "Los Laureles Norte"
+                    "Parque Independencia",
+                    "Terminal 116"
                 ],
                 "times": [
                     [
@@ -22357,18 +22357,18 @@
                         "21:80"
                     ]
                 ],
-                "to": "Los Laureles Norte"
+                "to": "Terminal 116"
             }
         ],
         "112": [
             {
-                "from": "Villa Libertad",
+                "from": "Terminal 163",
                 "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
-                    "Villa Libertad",
-                    "Colonia Independencia"
+                    "Terminal 163",
+                    "La Católica"
                 ],
                 "times": [
                     [
@@ -22928,16 +22928,16 @@
                         "21:75"
                     ]
                 ],
-                "to": "Colonia Independencia"
+                "to": "La Católica"
             },
             {
-                "from": "Villa Libertad",
+                "from": "Terminal 163",
                 "services": [
                     "Sa"
                 ],
                 "stations": [
-                    "Villa Libertad",
-                    "Colonia Independencia"
+                    "Terminal 163",
+                    "La Católica"
                 ],
                 "times": [
                     [
@@ -23489,16 +23489,16 @@
                         "21:75"
                     ]
                 ],
-                "to": "Colonia Independencia"
+                "to": "La Católica"
             },
             {
-                "from": "Villa Libertad",
+                "from": "Terminal 163",
                 "services": [
                     "Su"
                 ],
                 "stations": [
-                    "Villa Libertad",
-                    "Colonia Independencia"
+                    "Terminal 163",
+                    "La Católica"
                 ],
                 "times": [
                     [
@@ -24050,16 +24050,16 @@
                         "21:75"
                     ]
                 ],
-                "to": "Colonia Independencia"
+                "to": "La Católica"
             },
             {
-                "from": "Colonia Independencia",
+                "from": "La Católica",
                 "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
-                    "Colonia Independencia",
-                    "Villa Libertad"
+                    "La Católica",
+                    "Terminal 163"
                 ],
                 "times": [
                     [
@@ -24619,16 +24619,16 @@
                         "21:75"
                     ]
                 ],
-                "to": "Villa Libertad"
+                "to": "Terminal 163"
             },
             {
-                "from": "Colonia Independencia",
+                "from": "La Católica",
                 "services": [
                     "Sa"
                 ],
                 "stations": [
-                    "Colonia Independencia",
-                    "Villa Libertad"
+                    "La Católica",
+                    "Terminal 163"
                 ],
                 "times": [
                     [
@@ -25180,16 +25180,16 @@
                         "21:75"
                     ]
                 ],
-                "to": "Villa Libertad"
+                "to": "Terminal 163"
             },
             {
-                "from": "Colonia Independencia",
+                "from": "La Católica",
                 "services": [
                     "Su"
                 ],
                 "stations": [
-                    "Colonia Independencia",
-                    "Villa Libertad"
+                    "La Católica",
+                    "Terminal 163"
                 ],
                 "times": [
                     [
@@ -25741,18 +25741,18 @@
                         "21:75"
                     ]
                 ],
-                "to": "Villa Libertad"
+                "to": "Terminal 163"
             }
         ],
         "113": [
             {
-                "from": "Ciudad Sandino (Trinidad)",
+                "from": "Terminal Laureles Sur",
                 "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
-                    "Ciudad Sandino (Trinidad)",
-                    "El Panal"
+                    "Terminal Laureles Sur",
+                    "Cuesta El Plomo Sur"
                 ],
                 "times": [
                     [
@@ -26264,16 +26264,16 @@
                         "19:63"
                     ]
                 ],
-                "to": "El Panal"
+                "to": "Cuesta El Plomo Sur"
             },
             {
-                "from": "Ciudad Sandino (Trinidad)",
+                "from": "Terminal Laureles Sur",
                 "services": [
                     "Sa"
                 ],
                 "stations": [
-                    "Ciudad Sandino (Trinidad)",
-                    "El Panal"
+                    "Terminal Laureles Sur",
+                    "Cuesta El Plomo Sur"
                 ],
                 "times": [
                     [
@@ -26777,16 +26777,16 @@
                         "19:63"
                     ]
                 ],
-                "to": "El Panal"
+                "to": "Cuesta El Plomo Sur"
             },
             {
-                "from": "Ciudad Sandino (Trinidad)",
+                "from": "Terminal Laureles Sur",
                 "services": [
                     "Su"
                 ],
                 "stations": [
-                    "Ciudad Sandino (Trinidad)",
-                    "El Panal"
+                    "Terminal Laureles Sur",
+                    "Cuesta El Plomo Sur"
                 ],
                 "times": [
                     [
@@ -27290,16 +27290,16 @@
                         "19:63"
                     ]
                 ],
-                "to": "El Panal"
+                "to": "Cuesta El Plomo Sur"
             },
             {
-                "from": "El Panal",
+                "from": "Cuesta El Plomo Sur",
                 "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
-                    "El Panal",
-                    "Ciudad Sandino (Trinidad)"
+                    "Cuesta El Plomo Sur",
+                    "Terminal Laureles Sur"
                 ],
                 "times": [
                     [
@@ -27811,16 +27811,16 @@
                         "19:63"
                     ]
                 ],
-                "to": "Ciudad Sandino (Trinidad)"
+                "to": "Terminal Laureles Sur"
             },
             {
-                "from": "El Panal",
+                "from": "Cuesta El Plomo Sur",
                 "services": [
                     "Sa"
                 ],
                 "stations": [
-                    "El Panal",
-                    "Ciudad Sandino (Trinidad)"
+                    "Cuesta El Plomo Sur",
+                    "Terminal Laureles Sur"
                 ],
                 "times": [
                     [
@@ -28324,16 +28324,16 @@
                         "19:63"
                     ]
                 ],
-                "to": "Ciudad Sandino (Trinidad)"
+                "to": "Terminal Laureles Sur"
             },
             {
-                "from": "El Panal",
+                "from": "Cuesta El Plomo Sur",
                 "services": [
                     "Su"
                 ],
                 "stations": [
-                    "El Panal",
-                    "Ciudad Sandino (Trinidad)"
+                    "Cuesta El Plomo Sur",
+                    "Terminal Laureles Sur"
                 ],
                 "times": [
                     [
@@ -28837,18 +28837,18 @@
                         "19:63"
                     ]
                 ],
-                "to": "Ciudad Sandino (Trinidad)"
+                "to": "Terminal Laureles Sur"
             }
         ],
         "114": [
             {
-                "from": "Terminal José Benito Escobar",
+                "from": "Comarca Los Vanegas",
                 "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
-                    "Terminal José Benito Escobar",
-                    "Cuesta el Plomo"
+                    "Comarca Los Vanegas",
+                    "Mercado Oriental"
                 ],
                 "times": [
                     [
@@ -29432,16 +29432,16 @@
                         "21:40"
                     ]
                 ],
-                "to": "Cuesta el Plomo"
+                "to": "Mercado Oriental"
             },
             {
-                "from": "Terminal José Benito Escobar",
+                "from": "Comarca Los Vanegas",
                 "services": [
                     "Sa"
                 ],
                 "stations": [
-                    "Terminal José Benito Escobar",
-                    "Cuesta el Plomo"
+                    "Comarca Los Vanegas",
+                    "Mercado Oriental"
                 ],
                 "times": [
                     [
@@ -29989,16 +29989,16 @@
                         "21:45"
                     ]
                 ],
-                "to": "Cuesta el Plomo"
+                "to": "Mercado Oriental"
             },
             {
-                "from": "Terminal José Benito Escobar",
+                "from": "Comarca Los Vanegas",
                 "services": [
                     "Su"
                 ],
                 "stations": [
-                    "Terminal José Benito Escobar",
-                    "Cuesta el Plomo"
+                    "Comarca Los Vanegas",
+                    "Mercado Oriental"
                 ],
                 "times": [
                     [
@@ -30418,16 +30418,16 @@
                         "21:45"
                     ]
                 ],
-                "to": "Cuesta el Plomo"
+                "to": "Mercado Oriental"
             },
             {
-                "from": "Cuesta el Plomo",
+                "from": "Mercado Oriental",
                 "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
-                    "Cuesta el Plomo",
-                    "Terminal José Benito Escobar"
+                    "Mercado Oriental",
+                    "Comarca Los Vanegas"
                 ],
                 "times": [
                     [
@@ -31011,16 +31011,16 @@
                         "21:40"
                     ]
                 ],
-                "to": "Terminal José Benito Escobar"
+                "to": "Comarca Los Vanegas"
             },
             {
-                "from": "Cuesta el Plomo",
+                "from": "Mercado Oriental",
                 "services": [
                     "Sa"
                 ],
                 "stations": [
-                    "Cuesta el Plomo",
-                    "Terminal José Benito Escobar"
+                    "Mercado Oriental",
+                    "Comarca Los Vanegas"
                 ],
                 "times": [
                     [
@@ -31568,16 +31568,16 @@
                         "21:45"
                     ]
                 ],
-                "to": "Terminal José Benito Escobar"
+                "to": "Comarca Los Vanegas"
             },
             {
-                "from": "Cuesta el Plomo",
+                "from": "Mercado Oriental",
                 "services": [
                     "Su"
                 ],
                 "stations": [
-                    "Cuesta el Plomo",
-                    "Terminal José Benito Escobar"
+                    "Mercado Oriental",
+                    "Comarca Los Vanegas"
                 ],
                 "times": [
                     [
@@ -31997,18 +31997,18 @@
                         "21:45"
                     ]
                 ],
-                "to": "Terminal José Benito Escobar"
+                "to": "Comarca Los Vanegas"
             }
         ],
         "115": [
             {
-                "from": "Ciudad Sandino (Zona 5)",
+                "from": "Terminal 105",
                 "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
-                    "Ciudad Sandino (Zona 5)",
-                    "El Panal"
+                    "Terminal 105",
+                    "Plazoleta Camilo Ortega"
                 ],
                 "times": [
                     [
@@ -32192,16 +32192,16 @@
                         "21:40"
                     ]
                 ],
-                "to": "El Panal"
+                "to": "Plazoleta Camilo Ortega"
             },
             {
-                "from": "Ciudad Sandino (Zona 5)",
+                "from": "Terminal 105",
                 "services": [
                     "Sa"
                 ],
                 "stations": [
-                    "Ciudad Sandino (Zona 5)",
-                    "El Panal"
+                    "Terminal 105",
+                    "Plazoleta Camilo Ortega"
                 ],
                 "times": [
                     [
@@ -32373,16 +32373,16 @@
                         "20:40"
                     ]
                 ],
-                "to": "El Panal"
+                "to": "Plazoleta Camilo Ortega"
             },
             {
-                "from": "Ciudad Sandino (Zona 5)",
+                "from": "Terminal 105",
                 "services": [
                     "Su"
                 ],
                 "stations": [
-                    "Ciudad Sandino (Zona 5)",
-                    "El Panal"
+                    "Terminal 105",
+                    "Plazoleta Camilo Ortega"
                 ],
                 "times": [
                     [
@@ -32546,16 +32546,16 @@
                         "20:15"
                     ]
                 ],
-                "to": "El Panal"
+                "to": "Plazoleta Camilo Ortega"
             },
             {
-                "from": "El Panal",
+                "from": "Plazoleta Camilo Ortega",
                 "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
-                    "El Panal",
-                    "Ciudad Sandino (Zona 5)"
+                    "Plazoleta Camilo Ortega",
+                    "Terminal 105"
                 ],
                 "times": [
                     [
@@ -32739,16 +32739,16 @@
                         "21:40"
                     ]
                 ],
-                "to": "Ciudad Sandino (Zona 5)"
+                "to": "Terminal 105"
             },
             {
-                "from": "El Panal",
+                "from": "Plazoleta Camilo Ortega",
                 "services": [
                     "Sa"
                 ],
                 "stations": [
-                    "El Panal",
-                    "Ciudad Sandino (Zona 5)"
+                    "Plazoleta Camilo Ortega",
+                    "Terminal 105"
                 ],
                 "times": [
                     [
@@ -32920,16 +32920,16 @@
                         "20:40"
                     ]
                 ],
-                "to": "Ciudad Sandino (Zona 5)"
+                "to": "Terminal 105"
             },
             {
-                "from": "El Panal",
+                "from": "Plazoleta Camilo Ortega",
                 "services": [
                     "Su"
                 ],
                 "stations": [
-                    "El Panal",
-                    "Ciudad Sandino (Zona 5)"
+                    "Plazoleta Camilo Ortega",
+                    "Terminal 105"
                 ],
                 "times": [
                     [
@@ -33093,18 +33093,18 @@
                         "20:15"
                     ]
                 ],
-                "to": "Ciudad Sandino (Zona 5)"
+                "to": "Terminal 105"
             }
         ],
         "116": [
             {
-                "from": "Villa Libertad",
+                "from": "Hospital Lenín Fonseca",
                 "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
-                    "Villa Libertad",
-                    "El Seminario"
+                    "Hospital Lenín Fonseca",
+                    "Terminal Reparto Schick"
                 ],
                 "times": [
                     [
@@ -33440,16 +33440,16 @@
                         "20:60"
                     ]
                 ],
-                "to": "El Seminario"
+                "to": "Terminal Reparto Schick"
             },
             {
-                "from": "Villa Libertad",
+                "from": "Hospital Lenín Fonseca",
                 "services": [
                     "Sa"
                 ],
                 "stations": [
-                    "Villa Libertad",
-                    "El Seminario"
+                    "Hospital Lenín Fonseca",
+                    "Terminal Reparto Schick"
                 ],
                 "times": [
                     [
@@ -33769,16 +33769,16 @@
                         "20:55"
                     ]
                 ],
-                "to": "El Seminario"
+                "to": "Terminal Reparto Schick"
             },
             {
-                "from": "Villa Libertad",
+                "from": "Hospital Lenín Fonseca",
                 "services": [
                     "Su"
                 ],
                 "stations": [
-                    "Villa Libertad",
-                    "El Seminario"
+                    "Hospital Lenín Fonseca",
+                    "Terminal Reparto Schick"
                 ],
                 "times": [
                     [
@@ -34094,16 +34094,16 @@
                         "20:60"
                     ]
                 ],
-                "to": "El Seminario"
+                "to": "Terminal Reparto Schick"
             },
             {
-                "from": "El Seminario",
+                "from": "Terminal Reparto Schick",
                 "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
-                    "El Seminario",
-                    "Villa Libertad"
+                    "Terminal Reparto Schick",
+                    "Hospital Lenín Fonseca"
                 ],
                 "times": [
                     [
@@ -34439,16 +34439,16 @@
                         "20:60"
                     ]
                 ],
-                "to": "Villa Libertad"
+                "to": "Hospital Lenín Fonseca"
             },
             {
-                "from": "El Seminario",
+                "from": "Terminal Reparto Schick",
                 "services": [
                     "Sa"
                 ],
                 "stations": [
-                    "El Seminario",
-                    "Villa Libertad"
+                    "Terminal Reparto Schick",
+                    "Hospital Lenín Fonseca"
                 ],
                 "times": [
                     [
@@ -34768,16 +34768,16 @@
                         "20:55"
                     ]
                 ],
-                "to": "Villa Libertad"
+                "to": "Hospital Lenín Fonseca"
             },
             {
-                "from": "El Seminario",
+                "from": "Terminal Reparto Schick",
                 "services": [
                     "Su"
                 ],
                 "stations": [
-                    "El Seminario",
-                    "Villa Libertad"
+                    "Terminal Reparto Schick",
+                    "Hospital Lenín Fonseca"
                 ],
                 "times": [
                     [
@@ -35093,18 +35093,18 @@
                         "20:60"
                     ]
                 ],
-                "to": "Villa Libertad"
+                "to": "Hospital Lenín Fonseca"
             }
         ],
         "117": [
             {
-                "from": "Terminal José Benito Escobar",
+                "from": "Terminal Lomas de Guadalupe",
                 "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
-                    "Terminal José Benito Escobar",
-                    "UCA"
+                    "Terminal Lomas de Guadalupe",
+                    "Terminal 111, 168"
                 ],
                 "times": [
                     [
@@ -35408,16 +35408,16 @@
                         "21:75"
                     ]
                 ],
-                "to": "UCA"
+                "to": "Terminal 111, 168"
             },
             {
-                "from": "Terminal José Benito Escobar",
+                "from": "Terminal Lomas de Guadalupe",
                 "services": [
                     "Sa"
                 ],
                 "stations": [
-                    "Terminal José Benito Escobar",
-                    "UCA"
+                    "Terminal Lomas de Guadalupe",
+                    "Terminal 111, 168"
                 ],
                 "times": [
                     [
@@ -35725,16 +35725,16 @@
                         "21:70"
                     ]
                 ],
-                "to": "UCA"
+                "to": "Terminal 111, 168"
             },
             {
-                "from": "Terminal José Benito Escobar",
+                "from": "Terminal Lomas de Guadalupe",
                 "services": [
                     "Su"
                 ],
                 "stations": [
-                    "Terminal José Benito Escobar",
-                    "UCA"
+                    "Terminal Lomas de Guadalupe",
+                    "Terminal 111, 168"
                 ],
                 "times": [
                     [
@@ -35994,16 +35994,16 @@
                         "20:70"
                     ]
                 ],
-                "to": "UCA"
+                "to": "Terminal 111, 168"
             },
             {
-                "from": "UCA",
+                "from": "Terminal 111, 168",
                 "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
-                    "UCA",
-                    "Terminal José Benito Escobar"
+                    "Terminal 111, 168",
+                    "Terminal Lomas de Guadalupe"
                 ],
                 "times": [
                     [
@@ -36307,16 +36307,16 @@
                         "21:75"
                     ]
                 ],
-                "to": "Terminal José Benito Escobar"
+                "to": "Terminal Lomas de Guadalupe"
             },
             {
-                "from": "UCA",
+                "from": "Terminal 111, 168",
                 "services": [
                     "Sa"
                 ],
                 "stations": [
-                    "UCA",
-                    "Terminal José Benito Escobar"
+                    "Terminal 111, 168",
+                    "Terminal Lomas de Guadalupe"
                 ],
                 "times": [
                     [
@@ -36624,16 +36624,16 @@
                         "21:70"
                     ]
                 ],
-                "to": "Terminal José Benito Escobar"
+                "to": "Terminal Lomas de Guadalupe"
             },
             {
-                "from": "UCA",
+                "from": "Terminal 111, 168",
                 "services": [
                     "Su"
                 ],
                 "stations": [
-                    "UCA",
-                    "Terminal José Benito Escobar"
+                    "Terminal 111, 168",
+                    "Terminal Lomas de Guadalupe"
                 ],
                 "times": [
                     [
@@ -36893,18 +36893,18 @@
                         "20:70"
                     ]
                 ],
-                "to": "Terminal José Benito Escobar"
+                "to": "Terminal Lomas de Guadalupe"
             }
         ],
         "118": [
             {
-                "from": "Villa Libertad",
+                "from": "Comarca Los Vanegas",
                 "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
-                    "Villa Libertad",
-                    "Las Brisas"
+                    "Comarca Los Vanegas",
+                    "INATEC"
                 ],
                 "times": [
                     [
@@ -37180,16 +37180,16 @@
                         "20:55"
                     ]
                 ],
-                "to": "Las Brisas"
+                "to": "INATEC"
             },
             {
-                "from": "Villa Libertad",
+                "from": "Comarca Los Vanegas",
                 "services": [
                     "Sa"
                 ],
                 "stations": [
-                    "Villa Libertad",
-                    "Las Brisas"
+                    "Comarca Los Vanegas",
+                    "INATEC"
                 ],
                 "times": [
                     [
@@ -37465,16 +37465,16 @@
                         "20:55"
                     ]
                 ],
-                "to": "Las Brisas"
+                "to": "INATEC"
             },
             {
-                "from": "Villa Libertad",
+                "from": "Comarca Los Vanegas",
                 "services": [
                     "Su"
                 ],
                 "stations": [
-                    "Villa Libertad",
-                    "Las Brisas"
+                    "Comarca Los Vanegas",
+                    "INATEC"
                 ],
                 "times": [
                     [
@@ -37750,16 +37750,16 @@
                         "20:55"
                     ]
                 ],
-                "to": "Las Brisas"
+                "to": "INATEC"
             },
             {
-                "from": "Las Brisas",
+                "from": "INATEC",
                 "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
-                    "Las Brisas",
-                    "Villa Libertad"
+                    "INATEC",
+                    "Comarca Los Vanegas"
                 ],
                 "times": [
                     [
@@ -38035,16 +38035,16 @@
                         "20:55"
                     ]
                 ],
-                "to": "Villa Libertad"
+                "to": "Comarca Los Vanegas"
             },
             {
-                "from": "Las Brisas",
+                "from": "INATEC",
                 "services": [
                     "Sa"
                 ],
                 "stations": [
-                    "Las Brisas",
-                    "Villa Libertad"
+                    "INATEC",
+                    "Comarca Los Vanegas"
                 ],
                 "times": [
                     [
@@ -38320,16 +38320,16 @@
                         "20:55"
                     ]
                 ],
-                "to": "Villa Libertad"
+                "to": "Comarca Los Vanegas"
             },
             {
-                "from": "Las Brisas",
+                "from": "INATEC",
                 "services": [
                     "Su"
                 ],
                 "stations": [
-                    "Las Brisas",
-                    "Villa Libertad"
+                    "INATEC",
+                    "Comarca Los Vanegas"
                 ],
                 "times": [
                     [
@@ -38605,18 +38605,18 @@
                         "20:55"
                     ]
                 ],
-                "to": "Villa Libertad"
+                "to": "Comarca Los Vanegas"
             }
         ],
         "119": [
             {
-                "from": "Villa Fraternidad",
+                "from": "Terminal 116",
                 "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
-                    "Villa Fraternidad",
-                    "Cuesta el Plomo"
+                    "Terminal 116",
+                    "El Seminario"
                 ],
                 "times": [
                     [
@@ -39032,16 +39032,16 @@
                         "21:65"
                     ]
                 ],
-                "to": "Cuesta el Plomo"
+                "to": "El Seminario"
             },
             {
-                "from": "Villa Fraternidad",
+                "from": "Terminal 116",
                 "services": [
                     "Sa"
                 ],
                 "stations": [
-                    "Villa Fraternidad",
-                    "Cuesta el Plomo"
+                    "Terminal 116",
+                    "El Seminario"
                 ],
                 "times": [
                     [
@@ -39353,16 +39353,16 @@
                         "21:60"
                     ]
                 ],
-                "to": "Cuesta el Plomo"
+                "to": "El Seminario"
             },
             {
-                "from": "Villa Fraternidad",
+                "from": "Terminal 116",
                 "services": [
                     "Su"
                 ],
                 "stations": [
-                    "Villa Fraternidad",
-                    "Cuesta el Plomo"
+                    "Terminal 116",
+                    "El Seminario"
                 ],
                 "times": [
                     [
@@ -39634,16 +39634,16 @@
                         "21:60"
                     ]
                 ],
-                "to": "Cuesta el Plomo"
+                "to": "El Seminario"
             },
             {
-                "from": "Cuesta el Plomo",
+                "from": "El Seminario",
                 "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
-                    "Cuesta el Plomo",
-                    "Villa Fraternidad"
+                    "El Seminario",
+                    "Terminal 116"
                 ],
                 "times": [
                     [
@@ -40059,16 +40059,16 @@
                         "21:65"
                     ]
                 ],
-                "to": "Villa Fraternidad"
+                "to": "Terminal 116"
             },
             {
-                "from": "Cuesta el Plomo",
+                "from": "El Seminario",
                 "services": [
                     "Sa"
                 ],
                 "stations": [
-                    "Cuesta el Plomo",
-                    "Villa Fraternidad"
+                    "El Seminario",
+                    "Terminal 116"
                 ],
                 "times": [
                     [
@@ -40380,16 +40380,16 @@
                         "21:60"
                     ]
                 ],
-                "to": "Villa Fraternidad"
+                "to": "Terminal 116"
             },
             {
-                "from": "Cuesta el Plomo",
+                "from": "El Seminario",
                 "services": [
                     "Su"
                 ],
                 "stations": [
-                    "Cuesta el Plomo",
-                    "Villa Fraternidad"
+                    "El Seminario",
+                    "Terminal 116"
                 ],
                 "times": [
                     [
@@ -40661,18 +40661,18 @@
                         "21:60"
                     ]
                 ],
-                "to": "Villa Fraternidad"
+                "to": "Terminal 116"
             }
         ],
         "120": [
             {
-                "from": "Mercado Mayoreo",
+                "from": "Terminal 119",
                 "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
-                    "Mercado Mayoreo",
-                    "El Seminario"
+                    "Terminal 119",
+                    "Cuesta el Plomo Sur"
                 ],
                 "times": [
                     [
@@ -41296,16 +41296,16 @@
                         "21:70"
                     ]
                 ],
-                "to": "El Seminario"
+                "to": "Cuesta el Plomo Sur"
             },
             {
-                "from": "Mercado Mayoreo",
+                "from": "Terminal 119",
                 "services": [
                     "Sa"
                 ],
                 "stations": [
-                    "Mercado Mayoreo",
-                    "El Seminario"
+                    "Terminal 119",
+                    "Cuesta el Plomo Sur"
                 ],
                 "times": [
                     [
@@ -41737,16 +41737,16 @@
                         "21:70"
                     ]
                 ],
-                "to": "El Seminario"
+                "to": "Cuesta el Plomo Sur"
             },
             {
-                "from": "Mercado Mayoreo",
+                "from": "Terminal 119",
                 "services": [
                     "Su"
                 ],
                 "stations": [
-                    "Mercado Mayoreo",
-                    "El Seminario"
+                    "Terminal 119",
+                    "Cuesta el Plomo Sur"
                 ],
                 "times": [
                     [
@@ -42142,16 +42142,16 @@
                         "21:70"
                     ]
                 ],
-                "to": "El Seminario"
+                "to": "Cuesta el Plomo Sur"
             },
             {
-                "from": "El Seminario",
+                "from": "Cuesta el Plomo Sur",
                 "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
-                    "El Seminario",
-                    "Mercado Mayoreo"
+                    "Cuesta el Plomo Sur",
+                    "Terminal 119"
                 ],
                 "times": [
                     [
@@ -42775,16 +42775,16 @@
                         "21:70"
                     ]
                 ],
-                "to": "Mercado Mayoreo"
+                "to": "Terminal 119"
             },
             {
-                "from": "El Seminario",
+                "from": "Cuesta el Plomo Sur",
                 "services": [
                     "Sa"
                 ],
                 "stations": [
-                    "El Seminario",
-                    "Mercado Mayoreo"
+                    "Cuesta el Plomo Sur",
+                    "Terminal 119"
                 ],
                 "times": [
                     [
@@ -43216,16 +43216,16 @@
                         "21:70"
                     ]
                 ],
-                "to": "Mercado Mayoreo"
+                "to": "Terminal 119"
             },
             {
-                "from": "El Seminario",
+                "from": "Cuesta el Plomo Sur",
                 "services": [
                     "Su"
                 ],
                 "stations": [
-                    "El Seminario",
-                    "Mercado Mayoreo"
+                    "Cuesta el Plomo Sur",
+                    "Terminal 119"
                 ],
                 "times": [
                     [
@@ -43621,18 +43621,18 @@
                         "21:70"
                     ]
                 ],
-                "to": "Mercado Mayoreo"
+                "to": "Terminal 119"
             }
         ],
         "123": [
             {
-                "from": "San Judas",
+                "from": "Terminal 106",
                 "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
-                    "San Judas",
-                    "Mercado Roberto Huembes"
+                    "Terminal 106",
+                    "Ferretería 35 Avenida"
                 ],
                 "times": [
                     [
@@ -43924,16 +43924,16 @@
                         "21:35"
                     ]
                 ],
-                "to": "Mercado Roberto Huembes"
+                "to": "Ferretería 35 Avenida"
             },
             {
-                "from": "San Judas",
+                "from": "Terminal 106",
                 "services": [
                     "Sa"
                 ],
                 "stations": [
-                    "San Judas",
-                    "Mercado Roberto Huembes"
+                    "Terminal 106",
+                    "Ferretería 35 Avenida"
                 ],
                 "times": [
                     [
@@ -44181,16 +44181,16 @@
                         "21:35"
                     ]
                 ],
-                "to": "Mercado Roberto Huembes"
+                "to": "Ferretería 35 Avenida"
             },
             {
-                "from": "San Judas",
+                "from": "Terminal 106",
                 "services": [
                     "Su"
                 ],
                 "stations": [
-                    "San Judas",
-                    "Mercado Roberto Huembes"
+                    "Terminal 106",
+                    "Ferretería 35 Avenida"
                 ],
                 "times": [
                     [
@@ -44438,16 +44438,16 @@
                         "21:35"
                     ]
                 ],
-                "to": "Mercado Roberto Huembes"
+                "to": "Ferretería 35 Avenida"
             },
             {
-                "from": "Mercado Roberto Huembes",
+                "from": "Ferretería 35 Avenida",
                 "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
-                    "Mercado Roberto Huembes",
-                    "San Judas"
+                    "Ferretería 35 Avenida",
+                    "Terminal 106"
                 ],
                 "times": [
                     [
@@ -44739,16 +44739,16 @@
                         "21:35"
                     ]
                 ],
-                "to": "San Judas"
+                "to": "Terminal 106"
             },
             {
-                "from": "Mercado Roberto Huembes",
+                "from": "Ferretería 35 Avenida",
                 "services": [
                     "Sa"
                 ],
                 "stations": [
-                    "Mercado Roberto Huembes",
-                    "San Judas"
+                    "Ferretería 35 Avenida",
+                    "Terminal 106"
                 ],
                 "times": [
                     [
@@ -44996,16 +44996,16 @@
                         "21:35"
                     ]
                 ],
-                "to": "San Judas"
+                "to": "Terminal 106"
             },
             {
-                "from": "Mercado Roberto Huembes",
+                "from": "Ferretería 35 Avenida",
                 "services": [
                     "Su"
                 ],
                 "stations": [
-                    "Mercado Roberto Huembes",
-                    "San Judas"
+                    "Ferretería 35 Avenida",
+                    "Terminal 106"
                 ],
                 "times": [
                     [
@@ -45253,18 +45253,18 @@
                         "21:35"
                     ]
                 ],
-                "to": "San Judas"
+                "to": "Terminal 106"
             }
         ],
         "125": [
             {
-                "from": "Ciudad Sandino (Bello Amanecer)",
+                "from": "Terminal 111",
                 "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
-                    "Ciudad Sandino (Bello Amanecer)",
-                    "El Panal"
+                    "Terminal 111",
+                    "Terminal 111, 168"
                 ],
                 "times": [
                     [
@@ -45472,16 +45472,16 @@
                         "19:60"
                     ]
                 ],
-                "to": "El Panal"
+                "to": "Terminal 111, 168"
             },
             {
-                "from": "Ciudad Sandino (Bello Amanecer)",
+                "from": "Terminal 111",
                 "services": [
                     "Sa"
                 ],
                 "stations": [
-                    "Ciudad Sandino (Bello Amanecer)",
-                    "El Panal"
+                    "Terminal 111",
+                    "Terminal 111, 168"
                 ],
                 "times": [
                     [
@@ -45689,16 +45689,16 @@
                         "19:60"
                     ]
                 ],
-                "to": "El Panal"
+                "to": "Terminal 111, 168"
             },
             {
-                "from": "Ciudad Sandino (Bello Amanecer)",
+                "from": "Terminal 111",
                 "services": [
                     "Su"
                 ],
                 "stations": [
-                    "Ciudad Sandino (Bello Amanecer)",
-                    "El Panal"
+                    "Terminal 111",
+                    "Terminal 111, 168"
                 ],
                 "times": [
                     [
@@ -45906,16 +45906,16 @@
                         "19:60"
                     ]
                 ],
-                "to": "El Panal"
+                "to": "Terminal 111, 168"
             },
             {
-                "from": "El Panal",
+                "from": "Terminal 111, 168",
                 "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
-                    "El Panal",
-                    "Ciudad Sandino (Bello Amanecer)"
+                    "Terminal 111, 168",
+                    "Terminal 111"
                 ],
                 "times": [
                     [
@@ -46123,16 +46123,16 @@
                         "19:60"
                     ]
                 ],
-                "to": "Ciudad Sandino (Bello Amanecer)"
+                "to": "Terminal 111"
             },
             {
-                "from": "El Panal",
+                "from": "Terminal 111, 168",
                 "services": [
                     "Sa"
                 ],
                 "stations": [
-                    "El Panal",
-                    "Ciudad Sandino (Bello Amanecer)"
+                    "Terminal 111, 168",
+                    "Terminal 111"
                 ],
                 "times": [
                     [
@@ -46340,16 +46340,16 @@
                         "19:60"
                     ]
                 ],
-                "to": "Ciudad Sandino (Bello Amanecer)"
+                "to": "Terminal 111"
             },
             {
-                "from": "El Panal",
+                "from": "Terminal 111, 168",
                 "services": [
                     "Su"
                 ],
                 "stations": [
-                    "El Panal",
-                    "Ciudad Sandino (Bello Amanecer)"
+                    "Terminal 111, 168",
+                    "Terminal 111"
                 ],
                 "times": [
                     [
@@ -46557,18 +46557,18 @@
                         "19:60"
                     ]
                 ],
-                "to": "Ciudad Sandino (Bello Amanecer)"
+                "to": "Terminal 111"
             }
         ],
         "125CS": [
             {
-                "from": "Mercadito (Ciudad Sandino)",
+                "from": "Terminal 125",
                 "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
-                    "Mercadito (Ciudad Sandino)",
-                    "Altos de Motastepe"
+                    "Terminal 125",
+                    "El Panal"
                 ],
                 "times": [
                     [
@@ -46796,16 +46796,16 @@
                         "20:60"
                     ]
                 ],
-                "to": "Altos de Motastepe"
+                "to": "El Panal"
             },
             {
-                "from": "Mercadito (Ciudad Sandino)",
+                "from": "Terminal 125",
                 "services": [
                     "Sa"
                 ],
                 "stations": [
-                    "Mercadito (Ciudad Sandino)",
-                    "Altos de Motastepe"
+                    "Terminal 125",
+                    "El Panal"
                 ],
                 "times": [
                     [
@@ -47025,16 +47025,16 @@
                         "20:60"
                     ]
                 ],
-                "to": "Altos de Motastepe"
+                "to": "El Panal"
             },
             {
-                "from": "Mercadito (Ciudad Sandino)",
+                "from": "Terminal 125",
                 "services": [
                     "Su"
                 ],
                 "stations": [
-                    "Mercadito (Ciudad Sandino)",
-                    "Altos de Motastepe"
+                    "Terminal 125",
+                    "El Panal"
                 ],
                 "times": [
                     [
@@ -47254,16 +47254,16 @@
                         "20:60"
                     ]
                 ],
-                "to": "Altos de Motastepe"
+                "to": "El Panal"
             },
             {
-                "from": "Altos de Motastepe",
+                "from": "El Panal",
                 "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
-                    "Altos de Motastepe",
-                    "Mercadito (Ciudad Sandino)"
+                    "El Panal",
+                    "Terminal 125"
                 ],
                 "times": [
                     [
@@ -47491,16 +47491,16 @@
                         "20:60"
                     ]
                 ],
-                "to": "Mercadito (Ciudad Sandino)"
+                "to": "Terminal 125"
             },
             {
-                "from": "Altos de Motastepe",
+                "from": "El Panal",
                 "services": [
                     "Sa"
                 ],
                 "stations": [
-                    "Altos de Motastepe",
-                    "Mercadito (Ciudad Sandino)"
+                    "El Panal",
+                    "Terminal 125"
                 ],
                 "times": [
                     [
@@ -47720,16 +47720,16 @@
                         "20:60"
                     ]
                 ],
-                "to": "Mercadito (Ciudad Sandino)"
+                "to": "Terminal 125"
             },
             {
-                "from": "Altos de Motastepe",
+                "from": "El Panal",
                 "services": [
                     "Su"
                 ],
                 "stations": [
-                    "Altos de Motastepe",
-                    "Mercadito (Ciudad Sandino)"
+                    "El Panal",
+                    "Terminal 125"
                 ],
                 "times": [
                     [
@@ -47949,18 +47949,18 @@
                         "20:60"
                     ]
                 ],
-                "to": "Mercadito (Ciudad Sandino)"
+                "to": "Terminal 125"
             }
         ],
         "133": [
             {
-                "from": "Ciudad Sandino (Zona 6)",
+                "from": "Mercado Mayoreo",
                 "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
-                    "Ciudad Sandino (Zona 6)",
-                    "El Panal"
+                    "Mercado Mayoreo",
+                    "El Seminario"
                 ],
                 "times": [
                     [
@@ -48180,16 +48180,16 @@
                         "20:60"
                     ]
                 ],
-                "to": "El Panal"
+                "to": "El Seminario"
             },
             {
-                "from": "Ciudad Sandino (Zona 6)",
+                "from": "Mercado Mayoreo",
                 "services": [
                     "Sa"
                 ],
                 "stations": [
-                    "Ciudad Sandino (Zona 6)",
-                    "El Panal"
+                    "Mercado Mayoreo",
+                    "El Seminario"
                 ],
                 "times": [
                     [
@@ -48409,16 +48409,16 @@
                         "20:60"
                     ]
                 ],
-                "to": "El Panal"
+                "to": "El Seminario"
             },
             {
-                "from": "Ciudad Sandino (Zona 6)",
+                "from": "Mercado Mayoreo",
                 "services": [
                     "Su"
                 ],
                 "stations": [
-                    "Ciudad Sandino (Zona 6)",
-                    "El Panal"
+                    "Mercado Mayoreo",
+                    "El Seminario"
                 ],
                 "times": [
                     [
@@ -48638,16 +48638,16 @@
                         "20:60"
                     ]
                 ],
-                "to": "El Panal"
+                "to": "El Seminario"
             },
             {
-                "from": "El Panal",
+                "from": "El Seminario",
                 "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
-                    "El Panal",
-                    "Ciudad Sandino (Zona 6)"
+                    "El Seminario",
+                    "Mercado Mayoreo"
                 ],
                 "times": [
                     [
@@ -48867,16 +48867,16 @@
                         "20:60"
                     ]
                 ],
-                "to": "Ciudad Sandino (Zona 6)"
+                "to": "Mercado Mayoreo"
             },
             {
-                "from": "El Panal",
+                "from": "El Seminario",
                 "services": [
                     "Sa"
                 ],
                 "stations": [
-                    "El Panal",
-                    "Ciudad Sandino (Zona 6)"
+                    "El Seminario",
+                    "Mercado Mayoreo"
                 ],
                 "times": [
                     [
@@ -49096,16 +49096,16 @@
                         "20:60"
                     ]
                 ],
-                "to": "Ciudad Sandino (Zona 6)"
+                "to": "Mercado Mayoreo"
             },
             {
-                "from": "El Panal",
+                "from": "El Seminario",
                 "services": [
                     "Su"
                 ],
                 "stations": [
-                    "El Panal",
-                    "Ciudad Sandino (Zona 6)"
+                    "El Seminario",
+                    "Mercado Mayoreo"
                 ],
                 "times": [
                     [
@@ -49325,18 +49325,18 @@
                         "20:60"
                     ]
                 ],
-                "to": "Ciudad Sandino (Zona 6)"
+                "to": "Mercado Mayoreo"
             }
         ],
         "154": [
             {
-                "from": "Plazoleta Camilo Ortega",
+                "from": "Terminal José Benito Escobar",
                 "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
-                    "Plazoleta Camilo Ortega",
-                    "Mercado Iván Montenegro"
+                    "Terminal José Benito Escobar",
+                    "UCA"
                 ],
                 "times": [
                     [
@@ -49556,16 +49556,16 @@
                         "20:45"
                     ]
                 ],
-                "to": "Mercado Iván Montenegro"
+                "to": "UCA"
             },
             {
-                "from": "Plazoleta Camilo Ortega",
+                "from": "Terminal José Benito Escobar",
                 "services": [
                     "Sa"
                 ],
                 "stations": [
-                    "Plazoleta Camilo Ortega",
-                    "Mercado Iván Montenegro"
+                    "Terminal José Benito Escobar",
+                    "UCA"
                 ],
                 "times": [
                     [
@@ -49785,16 +49785,16 @@
                         "20:45"
                     ]
                 ],
-                "to": "Mercado Iván Montenegro"
+                "to": "UCA"
             },
             {
-                "from": "Plazoleta Camilo Ortega",
+                "from": "Terminal José Benito Escobar",
                 "services": [
                     "Su"
                 ],
                 "stations": [
-                    "Plazoleta Camilo Ortega",
-                    "Mercado Iván Montenegro"
+                    "Terminal José Benito Escobar",
+                    "UCA"
                 ],
                 "times": [
                     [
@@ -50014,16 +50014,16 @@
                         "20:45"
                     ]
                 ],
-                "to": "Mercado Iván Montenegro"
+                "to": "UCA"
             },
             {
-                "from": "Mercado Iván Montenegro",
+                "from": "UCA",
                 "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
-                    "Mercado Iván Montenegro",
-                    "Plazoleta Camilo Ortega"
+                    "UCA",
+                    "Terminal José Benito Escobar"
                 ],
                 "times": [
                     [
@@ -50243,16 +50243,16 @@
                         "20:45"
                     ]
                 ],
-                "to": "Plazoleta Camilo Ortega"
+                "to": "Terminal José Benito Escobar"
             },
             {
-                "from": "Mercado Iván Montenegro",
+                "from": "UCA",
                 "services": [
                     "Sa"
                 ],
                 "stations": [
-                    "Mercado Iván Montenegro",
-                    "Plazoleta Camilo Ortega"
+                    "UCA",
+                    "Terminal José Benito Escobar"
                 ],
                 "times": [
                     [
@@ -50472,16 +50472,16 @@
                         "20:45"
                     ]
                 ],
-                "to": "Plazoleta Camilo Ortega"
+                "to": "Terminal José Benito Escobar"
             },
             {
-                "from": "Mercado Iván Montenegro",
+                "from": "UCA",
                 "services": [
                     "Su"
                 ],
                 "stations": [
-                    "Mercado Iván Montenegro",
-                    "Plazoleta Camilo Ortega"
+                    "UCA",
+                    "Terminal José Benito Escobar"
                 ],
                 "times": [
                     [
@@ -50701,17 +50701,17 @@
                         "20:45"
                     ]
                 ],
-                "to": "Plazoleta Camilo Ortega"
+                "to": "Terminal José Benito Escobar"
             }
         ],
         "158": [
             {
-                "from": "Plazoleta Camilo Ortega",
+                "from": "Terminal 113",
                 "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
-                    "Plazoleta Camilo Ortega",
+                    "Terminal 113",
                     "El Panal"
                 ],
                 "times": [
@@ -51055,12 +51055,12 @@
                 "to": "El Panal"
             },
             {
-                "from": "Plazoleta Camilo Ortega",
+                "from": "Terminal 113",
                 "services": [
                     "Sa"
                 ],
                 "stations": [
-                    "Plazoleta Camilo Ortega",
+                    "Terminal 113",
                     "El Panal"
                 ],
                 "times": [
@@ -51388,12 +51388,12 @@
                 "to": "El Panal"
             },
             {
-                "from": "Plazoleta Camilo Ortega",
+                "from": "Terminal 113",
                 "services": [
                     "Su"
                 ],
                 "stations": [
-                    "Plazoleta Camilo Ortega",
+                    "Terminal 113",
                     "El Panal"
                 ],
                 "times": [
@@ -51727,7 +51727,7 @@
                 ],
                 "stations": [
                     "El Panal",
-                    "Plazoleta Camilo Ortega"
+                    "Terminal 113"
                 ],
                 "times": [
                     [
@@ -52067,7 +52067,7 @@
                         "20:45"
                     ]
                 ],
-                "to": "Plazoleta Camilo Ortega"
+                "to": "Terminal 113"
             },
             {
                 "from": "El Panal",
@@ -52076,7 +52076,7 @@
                 ],
                 "stations": [
                     "El Panal",
-                    "Plazoleta Camilo Ortega"
+                    "Terminal 113"
                 ],
                 "times": [
                     [
@@ -52400,7 +52400,7 @@
                         "20:15"
                     ]
                 ],
-                "to": "Plazoleta Camilo Ortega"
+                "to": "Terminal 113"
             },
             {
                 "from": "El Panal",
@@ -52409,7 +52409,7 @@
                 ],
                 "stations": [
                     "El Panal",
-                    "Plazoleta Camilo Ortega"
+                    "Terminal 113"
                 ],
                 "times": [
                     [
@@ -52733,18 +52733,18 @@
                         "20:15"
                     ]
                 ],
-                "to": "Plazoleta Camilo Ortega"
+                "to": "Terminal 113"
             }
         ],
         "159": [
             {
-                "from": "Mercado Mayoreo",
+                "from": "Terminal San Judas",
                 "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
-                    "Mercado Mayoreo",
-                    "Acahualinca"
+                    "Terminal San Judas",
+                    "Mercado Huembes Suroeste"
                 ],
                 "times": [
                     [
@@ -53124,16 +53124,16 @@
                         "19:65"
                     ]
                 ],
-                "to": "Acahualinca"
+                "to": "Mercado Huembes Suroeste"
             },
             {
-                "from": "Mercado Mayoreo",
+                "from": "Terminal San Judas",
                 "services": [
                     "Sa"
                 ],
                 "stations": [
-                    "Mercado Mayoreo",
-                    "Acahualinca"
+                    "Terminal San Judas",
+                    "Mercado Huembes Suroeste"
                 ],
                 "times": [
                     [
@@ -53513,16 +53513,16 @@
                         "19:55"
                     ]
                 ],
-                "to": "Acahualinca"
+                "to": "Mercado Huembes Suroeste"
             },
             {
-                "from": "Mercado Mayoreo",
+                "from": "Terminal San Judas",
                 "services": [
                     "Su"
                 ],
                 "stations": [
-                    "Mercado Mayoreo",
-                    "Acahualinca"
+                    "Terminal San Judas",
+                    "Mercado Huembes Suroeste"
                 ],
                 "times": [
                     [
@@ -53798,16 +53798,16 @@
                         "18:60"
                     ]
                 ],
-                "to": "Acahualinca"
+                "to": "Mercado Huembes Suroeste"
             },
             {
-                "from": "Acahualinca",
+                "from": "Mercado Huembes Suroeste",
                 "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
-                    "Acahualinca",
-                    "Mercado Mayoreo"
+                    "Mercado Huembes Suroeste",
+                    "Terminal San Judas"
                 ],
                 "times": [
                     [
@@ -54187,16 +54187,16 @@
                         "19:65"
                     ]
                 ],
-                "to": "Mercado Mayoreo"
+                "to": "Terminal San Judas"
             },
             {
-                "from": "Acahualinca",
+                "from": "Mercado Huembes Suroeste",
                 "services": [
                     "Sa"
                 ],
                 "stations": [
-                    "Acahualinca",
-                    "Mercado Mayoreo"
+                    "Mercado Huembes Suroeste",
+                    "Terminal San Judas"
                 ],
                 "times": [
                     [
@@ -54576,16 +54576,16 @@
                         "19:55"
                     ]
                 ],
-                "to": "Mercado Mayoreo"
+                "to": "Terminal San Judas"
             },
             {
-                "from": "Acahualinca",
+                "from": "Mercado Huembes Suroeste",
                 "services": [
                     "Su"
                 ],
                 "stations": [
-                    "Acahualinca",
-                    "Mercado Mayoreo"
+                    "Mercado Huembes Suroeste",
+                    "Terminal San Judas"
                 ],
                 "times": [
                     [
@@ -54861,18 +54861,18 @@
                         "18:60"
                     ]
                 ],
-                "to": "Mercado Mayoreo"
+                "to": "Terminal San Judas"
             }
         ],
         "163": [
             {
-                "from": "Sabana Grande",
+                "from": "Mercado Mayoreo",
                 "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
-                    "Sabana Grande",
-                    "El Panal"
+                    "Mercado Mayoreo",
+                    "Pulpería Karla"
                 ],
                 "times": [
                     [
@@ -55152,16 +55152,16 @@
                         "20:70"
                     ]
                 ],
-                "to": "El Panal"
+                "to": "Pulpería Karla"
             },
             {
-                "from": "Sabana Grande",
+                "from": "Mercado Mayoreo",
                 "services": [
                     "Sa"
                 ],
                 "stations": [
-                    "Sabana Grande",
-                    "El Panal"
+                    "Mercado Mayoreo",
+                    "Pulpería Karla"
                 ],
                 "times": [
                     [
@@ -55441,16 +55441,16 @@
                         "20:70"
                     ]
                 ],
-                "to": "El Panal"
+                "to": "Pulpería Karla"
             },
             {
-                "from": "Sabana Grande",
+                "from": "Mercado Mayoreo",
                 "services": [
                     "Su"
                 ],
                 "stations": [
-                    "Sabana Grande",
-                    "El Panal"
+                    "Mercado Mayoreo",
+                    "Pulpería Karla"
                 ],
                 "times": [
                     [
@@ -55718,16 +55718,16 @@
                         "19:70"
                     ]
                 ],
-                "to": "El Panal"
+                "to": "Pulpería Karla"
             },
             {
-                "from": "El Panal",
+                "from": "Pulpería Karla",
                 "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
-                    "El Panal",
-                    "Sabana Grande"
+                    "Pulpería Karla",
+                    "Mercado Mayoreo"
                 ],
                 "times": [
                     [
@@ -56007,16 +56007,16 @@
                         "20:70"
                     ]
                 ],
-                "to": "Sabana Grande"
+                "to": "Mercado Mayoreo"
             },
             {
-                "from": "El Panal",
+                "from": "Pulpería Karla",
                 "services": [
                     "Sa"
                 ],
                 "stations": [
-                    "El Panal",
-                    "Sabana Grande"
+                    "Pulpería Karla",
+                    "Mercado Mayoreo"
                 ],
                 "times": [
                     [
@@ -56296,16 +56296,16 @@
                         "20:70"
                     ]
                 ],
-                "to": "Sabana Grande"
+                "to": "Mercado Mayoreo"
             },
             {
-                "from": "El Panal",
+                "from": "Pulpería Karla",
                 "services": [
                     "Su"
                 ],
                 "stations": [
-                    "El Panal",
-                    "Sabana Grande"
+                    "Pulpería Karla",
+                    "Mercado Mayoreo"
                 ],
                 "times": [
                     [
@@ -56573,7 +56573,7 @@
                         "19:70"
                     ]
                 ],
-                "to": "Sabana Grande"
+                "to": "Mercado Mayoreo"
             }
         ],
         "164": [
@@ -59034,13 +59034,13 @@
         ],
         "165": [
             {
-                "from": "Barrio Naciones Unidas",
+                "from": "Terminal 167",
                 "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
-                    "Barrio Naciones Unidas",
-                    "San Luis Norte"
+                    "Terminal 167",
+                    "Mercado Israel Lewites Oeste"
                 ],
                 "times": [
                     [
@@ -59316,16 +59316,16 @@
                         "20:55"
                     ]
                 ],
-                "to": "San Luis Norte"
+                "to": "Mercado Israel Lewites Oeste"
             },
             {
-                "from": "Barrio Naciones Unidas",
+                "from": "Terminal 167",
                 "services": [
                     "Sa"
                 ],
                 "stations": [
-                    "Barrio Naciones Unidas",
-                    "San Luis Norte"
+                    "Terminal 167",
+                    "Mercado Israel Lewites Oeste"
                 ],
                 "times": [
                     [
@@ -59613,16 +59613,16 @@
                         "20:55"
                     ]
                 ],
-                "to": "San Luis Norte"
+                "to": "Mercado Israel Lewites Oeste"
             },
             {
-                "from": "Barrio Naciones Unidas",
+                "from": "Terminal 167",
                 "services": [
                     "Su"
                 ],
                 "stations": [
-                    "Barrio Naciones Unidas",
-                    "San Luis Norte"
+                    "Terminal 167",
+                    "Mercado Israel Lewites Oeste"
                 ],
                 "times": [
                     [
@@ -59866,16 +59866,16 @@
                         "19:30"
                     ]
                 ],
-                "to": "San Luis Norte"
+                "to": "Mercado Israel Lewites Oeste"
             },
             {
-                "from": "San Luis Norte",
+                "from": "Mercado Israel Lewites Oeste",
                 "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
-                    "San Luis Norte",
-                    "Barrio Naciones Unidas"
+                    "Mercado Israel Lewites Oeste",
+                    "Terminal 167"
                 ],
                 "times": [
                     [
@@ -60151,16 +60151,16 @@
                         "20:55"
                     ]
                 ],
-                "to": "Barrio Naciones Unidas"
+                "to": "Terminal 167"
             },
             {
-                "from": "San Luis Norte",
+                "from": "Mercado Israel Lewites Oeste",
                 "services": [
                     "Sa"
                 ],
                 "stations": [
-                    "San Luis Norte",
-                    "Barrio Naciones Unidas"
+                    "Mercado Israel Lewites Oeste",
+                    "Terminal 167"
                 ],
                 "times": [
                     [
@@ -60448,16 +60448,16 @@
                         "20:55"
                     ]
                 ],
-                "to": "Barrio Naciones Unidas"
+                "to": "Terminal 167"
             },
             {
-                "from": "San Luis Norte",
+                "from": "Mercado Israel Lewites Oeste",
                 "services": [
                     "Su"
                 ],
                 "stations": [
-                    "San Luis Norte",
-                    "Barrio Naciones Unidas"
+                    "Mercado Israel Lewites Oeste",
+                    "Terminal 167"
                 ],
                 "times": [
                     [
@@ -60701,18 +60701,18 @@
                         "19:30"
                     ]
                 ],
-                "to": "Barrio Naciones Unidas"
+                "to": "Terminal 167"
             }
         ],
         "167": [
             {
-                "from": "Barrio Arnoldo Alemán",
+                "from": "Terminal 169",
                 "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
-                    "Barrio Arnoldo Alemán",
-                    "Mercado Isreal Lewites"
+                    "Terminal 169",
+                    "Zona Franca Las Mercedes"
                 ],
                 "times": [
                     [
@@ -60952,16 +60952,16 @@
                         "21:85"
                     ]
                 ],
-                "to": "Mercado Isreal Lewites"
+                "to": "Zona Franca Las Mercedes"
             },
             {
-                "from": "Barrio Arnoldo Alemán",
+                "from": "Terminal 169",
                 "services": [
                     "Sa"
                 ],
                 "stations": [
-                    "Barrio Arnoldo Alemán",
-                    "Mercado Isreal Lewites"
+                    "Terminal 169",
+                    "Zona Franca Las Mercedes"
                 ],
                 "times": [
                     [
@@ -61185,16 +61185,16 @@
                         "20:85"
                     ]
                 ],
-                "to": "Mercado Isreal Lewites"
+                "to": "Zona Franca Las Mercedes"
             },
             {
-                "from": "Barrio Arnoldo Alemán",
+                "from": "Terminal 169",
                 "services": [
                     "Su"
                 ],
                 "stations": [
-                    "Barrio Arnoldo Alemán",
-                    "Mercado Isreal Lewites"
+                    "Terminal 169",
+                    "Zona Franca Las Mercedes"
                 ],
                 "times": [
                     [
@@ -61418,16 +61418,16 @@
                         "20:85"
                     ]
                 ],
-                "to": "Mercado Isreal Lewites"
+                "to": "Zona Franca Las Mercedes"
             },
             {
-                "from": "Mercado Isreal Lewites",
+                "from": "Zona Franca Las Mercedes",
                 "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
-                    "Mercado Isreal Lewites",
-                    "Barrio Arnoldo Alemán"
+                    "Zona Franca Las Mercedes",
+                    "Terminal 169"
                 ],
                 "times": [
                     [
@@ -61667,16 +61667,16 @@
                         "21:85"
                     ]
                 ],
-                "to": "Barrio Arnoldo Alemán"
+                "to": "Terminal 169"
             },
             {
-                "from": "Mercado Isreal Lewites",
+                "from": "Zona Franca Las Mercedes",
                 "services": [
                     "Sa"
                 ],
                 "stations": [
-                    "Mercado Isreal Lewites",
-                    "Barrio Arnoldo Alemán"
+                    "Zona Franca Las Mercedes",
+                    "Terminal 169"
                 ],
                 "times": [
                     [
@@ -61900,16 +61900,16 @@
                         "20:85"
                     ]
                 ],
-                "to": "Barrio Arnoldo Alemán"
+                "to": "Terminal 169"
             },
             {
-                "from": "Mercado Isreal Lewites",
+                "from": "Zona Franca Las Mercedes",
                 "services": [
                     "Su"
                 ],
                 "stations": [
-                    "Mercado Isreal Lewites",
-                    "Barrio Arnoldo Alemán"
+                    "Zona Franca Las Mercedes",
+                    "Terminal 169"
                 ],
                 "times": [
                     [
@@ -62133,18 +62133,18 @@
                         "20:85"
                     ]
                 ],
-                "to": "Barrio Arnoldo Alemán"
+                "to": "Terminal 169"
             }
         ],
         "168": [
             {
-                "from": "Lomas de Guadalupe",
+                "from": "Milagro de Dios",
                 "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
-                    "Lomas de Guadalupe",
-                    "Colonia Miguel Bonilla"
+                    "Milagro de Dios",
+                    "Parque Central"
                 ],
                 "times": [
                     [
@@ -62560,16 +62560,16 @@
                         "21:60"
                     ]
                 ],
-                "to": "Colonia Miguel Bonilla"
+                "to": "Parque Central"
             },
             {
-                "from": "Lomas de Guadalupe",
+                "from": "Milagro de Dios",
                 "services": [
                     "Sa"
                 ],
                 "stations": [
-                    "Lomas de Guadalupe",
-                    "Colonia Miguel Bonilla"
+                    "Milagro de Dios",
+                    "Parque Central"
                 ],
                 "times": [
                     [
@@ -62913,16 +62913,16 @@
                         "21:60"
                     ]
                 ],
-                "to": "Colonia Miguel Bonilla"
+                "to": "Parque Central"
             },
             {
-                "from": "Lomas de Guadalupe",
+                "from": "Milagro de Dios",
                 "services": [
                     "Su"
                 ],
                 "stations": [
-                    "Lomas de Guadalupe",
-                    "Colonia Miguel Bonilla"
+                    "Milagro de Dios",
+                    "Parque Central"
                 ],
                 "times": [
                     [
@@ -63214,16 +63214,16 @@
                         "21:60"
                     ]
                 ],
-                "to": "Colonia Miguel Bonilla"
+                "to": "Parque Central"
             },
             {
-                "from": "Colonia Miguel Bonilla",
+                "from": "Parque Central",
                 "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
-                    "Colonia Miguel Bonilla",
-                    "Lomas de Guadalupe"
+                    "Parque Central",
+                    "Milagro de Dios"
                 ],
                 "times": [
                     [
@@ -63639,16 +63639,16 @@
                         "21:60"
                     ]
                 ],
-                "to": "Lomas de Guadalupe"
+                "to": "Milagro de Dios"
             },
             {
-                "from": "Colonia Miguel Bonilla",
+                "from": "Parque Central",
                 "services": [
                     "Sa"
                 ],
                 "stations": [
-                    "Colonia Miguel Bonilla",
-                    "Lomas de Guadalupe"
+                    "Parque Central",
+                    "Milagro de Dios"
                 ],
                 "times": [
                     [
@@ -63992,16 +63992,16 @@
                         "21:60"
                     ]
                 ],
-                "to": "Lomas de Guadalupe"
+                "to": "Milagro de Dios"
             },
             {
-                "from": "Colonia Miguel Bonilla",
+                "from": "Parque Central",
                 "services": [
                     "Su"
                 ],
                 "stations": [
-                    "Colonia Miguel Bonilla",
-                    "Lomas de Guadalupe"
+                    "Parque Central",
+                    "Milagro de Dios"
                 ],
                 "times": [
                     [
@@ -64293,18 +64293,18 @@
                         "21:60"
                     ]
                 ],
-                "to": "Lomas de Guadalupe"
+                "to": "Milagro de Dios"
             }
         ],
         "169": [
             {
-                "from": "Barrio Francisco Salazar",
+                "from": "Memorial Sandino",
                 "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
-                    "Barrio Francisco Salazar",
-                    "Las Mercedes"
+                    "Memorial Sandino",
+                    "Laureles Norte"
                 ],
                 "times": [
                     [
@@ -64612,16 +64612,16 @@
                         "20:15"
                     ]
                 ],
-                "to": "Las Mercedes"
+                "to": "Laureles Norte"
             },
             {
-                "from": "Barrio Francisco Salazar",
+                "from": "Memorial Sandino",
                 "services": [
                     "Sa"
                 ],
                 "stations": [
-                    "Barrio Francisco Salazar",
-                    "Las Mercedes"
+                    "Memorial Sandino",
+                    "Laureles Norte"
                 ],
                 "times": [
                     [
@@ -64921,16 +64921,16 @@
                         "19:48"
                     ]
                 ],
-                "to": "Las Mercedes"
+                "to": "Laureles Norte"
             },
             {
-                "from": "Barrio Francisco Salazar",
+                "from": "Memorial Sandino",
                 "services": [
                     "Su"
                 ],
                 "stations": [
-                    "Barrio Francisco Salazar",
-                    "Las Mercedes"
+                    "Memorial Sandino",
+                    "Laureles Norte"
                 ],
                 "times": [
                     [
@@ -65238,16 +65238,16 @@
                         "20:15"
                     ]
                 ],
-                "to": "Las Mercedes"
+                "to": "Laureles Norte"
             },
             {
-                "from": "Las Mercedes",
+                "from": "Laureles Norte",
                 "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
-                    "Las Mercedes",
-                    "Barrio Francisco Salazar"
+                    "Laureles Norte",
+                    "Memorial Sandino"
                 ],
                 "times": [
                     [
@@ -65555,16 +65555,16 @@
                         "20:15"
                     ]
                 ],
-                "to": "Barrio Francisco Salazar"
+                "to": "Memorial Sandino"
             },
             {
-                "from": "Las Mercedes",
+                "from": "Laureles Norte",
                 "services": [
                     "Sa"
                 ],
                 "stations": [
-                    "Las Mercedes",
-                    "Barrio Francisco Salazar"
+                    "Laureles Norte",
+                    "Memorial Sandino"
                 ],
                 "times": [
                     [
@@ -65864,16 +65864,16 @@
                         "19:48"
                     ]
                 ],
-                "to": "Barrio Francisco Salazar"
+                "to": "Memorial Sandino"
             },
             {
-                "from": "Las Mercedes",
+                "from": "Laureles Norte",
                 "services": [
                     "Su"
                 ],
                 "stations": [
-                    "Las Mercedes",
-                    "Barrio Francisco Salazar"
+                    "Laureles Norte",
+                    "Memorial Sandino"
                 ],
                 "times": [
                     [
@@ -66181,18 +66181,18 @@
                         "20:15"
                     ]
                 ],
-                "to": "Barrio Francisco Salazar"
+                "to": "Memorial Sandino"
             }
         ],
         "170": [
             {
-                "from": "Villa Jośe Benito Escobar",
+                "from": "Hialeah",
                 "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
-                    "Villa Jośe Benito Escobar",
-                    "El Panal"
+                    "Hialeah",
+                    "Mercado Mayoreo"
                 ],
                 "times": [
                     [
@@ -66720,16 +66720,16 @@
                         "20:15"
                     ]
                 ],
-                "to": "El Panal"
+                "to": "Mercado Mayoreo"
             },
             {
-                "from": "Villa Jośe Benito Escobar",
+                "from": "Hialeah",
                 "services": [
                     "Sa"
                 ],
                 "stations": [
-                    "Villa Jośe Benito Escobar",
-                    "El Panal"
+                    "Hialeah",
+                    "Mercado Mayoreo"
                 ],
                 "times": [
                     [
@@ -67253,16 +67253,16 @@
                         "19:45"
                     ]
                 ],
-                "to": "El Panal"
+                "to": "Mercado Mayoreo"
             },
             {
-                "from": "Villa Jośe Benito Escobar",
+                "from": "Hialeah",
                 "services": [
                     "Su"
                 ],
                 "stations": [
-                    "Villa Jośe Benito Escobar",
-                    "El Panal"
+                    "Hialeah",
+                    "Mercado Mayoreo"
                 ],
                 "times": [
                     [
@@ -67786,16 +67786,16 @@
                         "19:45"
                     ]
                 ],
-                "to": "El Panal"
+                "to": "Mercado Mayoreo"
             },
             {
-                "from": "El Panal",
+                "from": "Mercado Mayoreo",
                 "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
-                    "El Panal",
-                    "Villa Jośe Benito Escobar"
+                    "Mercado Mayoreo",
+                    "Hialeah"
                 ],
                 "times": [
                     [
@@ -68323,16 +68323,16 @@
                         "20:15"
                     ]
                 ],
-                "to": "Villa Jośe Benito Escobar"
+                "to": "Hialeah"
             },
             {
-                "from": "El Panal",
+                "from": "Mercado Mayoreo",
                 "services": [
                     "Sa"
                 ],
                 "stations": [
-                    "El Panal",
-                    "Villa Jośe Benito Escobar"
+                    "Mercado Mayoreo",
+                    "Hialeah"
                 ],
                 "times": [
                     [
@@ -68856,16 +68856,16 @@
                         "19:45"
                     ]
                 ],
-                "to": "Villa Jośe Benito Escobar"
+                "to": "Hialeah"
             },
             {
-                "from": "El Panal",
+                "from": "Mercado Mayoreo",
                 "services": [
                     "Su"
                 ],
                 "stations": [
-                    "El Panal",
-                    "Villa Jośe Benito Escobar"
+                    "Mercado Mayoreo",
+                    "Hialeah"
                 ],
                 "times": [
                     [
@@ -69389,18 +69389,18 @@
                         "19:45"
                     ]
                 ],
-                "to": "Villa Jośe Benito Escobar"
+                "to": "Hialeah"
             }
         ],
         "172": [
             {
-                "from": "Cuidad Sandino (Los Brasiles)",
+                "from": "Laureles Sur",
                 "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
-                    "Cuidad Sandino (Los Brasiles)",
-                    "El Panal"
+                    "Laureles Sur",
+                    "Hospital Lenín Fonseca"
                 ],
                 "times": [
                     [
@@ -69760,16 +69760,16 @@
                         "19:85"
                     ]
                 ],
-                "to": "El Panal"
+                "to": "Hospital Lenín Fonseca"
             },
             {
-                "from": "Cuidad Sandino (Los Brasiles)",
+                "from": "Laureles Sur",
                 "services": [
                     "Sa"
                 ],
                 "stations": [
-                    "Cuidad Sandino (Los Brasiles)",
-                    "El Panal"
+                    "Laureles Sur",
+                    "Hospital Lenín Fonseca"
                 ],
                 "times": [
                     [
@@ -70129,16 +70129,16 @@
                         "19:85"
                     ]
                 ],
-                "to": "El Panal"
+                "to": "Hospital Lenín Fonseca"
             },
             {
-                "from": "Cuidad Sandino (Los Brasiles)",
+                "from": "Laureles Sur",
                 "services": [
                     "Su"
                 ],
                 "stations": [
-                    "Cuidad Sandino (Los Brasiles)",
-                    "El Panal"
+                    "Laureles Sur",
+                    "Hospital Lenín Fonseca"
                 ],
                 "times": [
                     [
@@ -70498,16 +70498,16 @@
                         "19:85"
                     ]
                 ],
-                "to": "El Panal"
+                "to": "Hospital Lenín Fonseca"
             },
             {
-                "from": "El Panal",
+                "from": "Hospital Lenín Fonseca",
                 "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
-                    "El Panal",
-                    "Cuidad Sandino (Los Brasiles)"
+                    "Hospital Lenín Fonseca",
+                    "Laureles Sur"
                 ],
                 "times": [
                     [
@@ -70867,16 +70867,16 @@
                         "19:85"
                     ]
                 ],
-                "to": "Cuidad Sandino (Los Brasiles)"
+                "to": "Laureles Sur"
             },
             {
-                "from": "El Panal",
+                "from": "Hospital Lenín Fonseca",
                 "services": [
                     "Sa"
                 ],
                 "stations": [
-                    "El Panal",
-                    "Cuidad Sandino (Los Brasiles)"
+                    "Hospital Lenín Fonseca",
+                    "Laureles Sur"
                 ],
                 "times": [
                     [
@@ -71236,16 +71236,16 @@
                         "19:85"
                     ]
                 ],
-                "to": "Cuidad Sandino (Los Brasiles)"
+                "to": "Laureles Sur"
             },
             {
-                "from": "El Panal",
+                "from": "Hospital Lenín Fonseca",
                 "services": [
                     "Su"
                 ],
                 "stations": [
-                    "El Panal",
-                    "Cuidad Sandino (Los Brasiles)"
+                    "Hospital Lenín Fonseca",
+                    "Laureles Sur"
                 ],
                 "times": [
                     [
@@ -71605,18 +71605,18 @@
                         "19:85"
                     ]
                 ],
-                "to": "Cuidad Sandino (Los Brasiles)"
+                "to": "Laureles Sur"
             }
         ],
         "175": [
             {
-                "from": "Memorial Sandino",
+                "from": "Mercado Mayoreo",
                 "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
-                    "Memorial Sandino",
-                    "Laureles Norte"
+                    "Mercado Mayoreo",
+                    "San Miguel Arcángel"
                 ],
                 "times": [
                     [
@@ -71808,16 +71808,16 @@
                         "21:65"
                     ]
                 ],
-                "to": "Laureles Norte"
+                "to": "San Miguel Arcángel"
             },
             {
-                "from": "Memorial Sandino",
+                "from": "Mercado Mayoreo",
                 "services": [
                     "Sa"
                 ],
                 "stations": [
-                    "Memorial Sandino",
-                    "Laureles Norte"
+                    "Mercado Mayoreo",
+                    "San Miguel Arcángel"
                 ],
                 "times": [
                     [
@@ -72009,16 +72009,16 @@
                         "21:65"
                     ]
                 ],
-                "to": "Laureles Norte"
+                "to": "San Miguel Arcángel"
             },
             {
-                "from": "Memorial Sandino",
+                "from": "Mercado Mayoreo",
                 "services": [
                     "Su"
                 ],
                 "stations": [
-                    "Memorial Sandino",
-                    "Laureles Norte"
+                    "Mercado Mayoreo",
+                    "San Miguel Arcángel"
                 ],
                 "times": [
                     [
@@ -72210,16 +72210,16 @@
                         "21:65"
                     ]
                 ],
-                "to": "Laureles Norte"
+                "to": "San Miguel Arcángel"
             },
             {
-                "from": "Laureles Norte",
+                "from": "San Miguel Arcángel",
                 "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
-                    "Laureles Norte",
-                    "Memorial Sandino"
+                    "San Miguel Arcángel",
+                    "Mercado Mayoreo"
                 ],
                 "times": [
                     [
@@ -72411,16 +72411,16 @@
                         "21:65"
                     ]
                 ],
-                "to": "Memorial Sandino"
+                "to": "Mercado Mayoreo"
             },
             {
-                "from": "Laureles Norte",
+                "from": "San Miguel Arcángel",
                 "services": [
                     "Sa"
                 ],
                 "stations": [
-                    "Laureles Norte",
-                    "Memorial Sandino"
+                    "San Miguel Arcángel",
+                    "Mercado Mayoreo"
                 ],
                 "times": [
                     [
@@ -72612,16 +72612,16 @@
                         "21:65"
                     ]
                 ],
-                "to": "Memorial Sandino"
+                "to": "Mercado Mayoreo"
             },
             {
-                "from": "Laureles Norte",
+                "from": "San Miguel Arcángel",
                 "services": [
                     "Su"
                 ],
                 "stations": [
-                    "Laureles Norte",
-                    "Memorial Sandino"
+                    "San Miguel Arcángel",
+                    "Mercado Mayoreo"
                 ],
                 "times": [
                     [
@@ -72813,18 +72813,18 @@
                         "21:65"
                     ]
                 ],
-                "to": "Memorial Sandino"
+                "to": "Mercado Mayoreo"
             }
         ],
         "195": [
             {
-                "from": "Barrio Milagro de Dios",
+                "from": "Terminal Reparto Schick",
                 "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
-                    "Barrio Milagro de Dios",
-                    "Parque Central"
+                    "Terminal Reparto Schick",
+                    "Terminal 108"
                 ],
                 "times": [
                     [
@@ -73144,16 +73144,16 @@
                         "20:70"
                     ]
                 ],
-                "to": "Parque Central"
+                "to": "Terminal 108"
             },
             {
-                "from": "Barrio Milagro de Dios",
+                "from": "Terminal Reparto Schick",
                 "services": [
                     "Sa"
                 ],
                 "stations": [
-                    "Barrio Milagro de Dios",
-                    "Parque Central"
+                    "Terminal Reparto Schick",
+                    "Terminal 108"
                 ],
                 "times": [
                     [
@@ -73393,16 +73393,16 @@
                         "20:75"
                     ]
                 ],
-                "to": "Parque Central"
+                "to": "Terminal 108"
             },
             {
-                "from": "Barrio Milagro de Dios",
+                "from": "Terminal Reparto Schick",
                 "services": [
                     "Su"
                 ],
                 "stations": [
-                    "Barrio Milagro de Dios",
-                    "Parque Central"
+                    "Terminal Reparto Schick",
+                    "Terminal 108"
                 ],
                 "times": [
                     [
@@ -73630,16 +73630,16 @@
                         "21:70"
                     ]
                 ],
-                "to": "Parque Central"
+                "to": "Terminal 108"
             },
             {
-                "from": "Parque Central",
+                "from": "Terminal 108",
                 "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
-                    "Parque Central",
-                    "Barrio Milagro de Dios"
+                    "Terminal 108",
+                    "Terminal Reparto Schick"
                 ],
                 "times": [
                     [
@@ -73959,16 +73959,16 @@
                         "20:70"
                     ]
                 ],
-                "to": "Barrio Milagro de Dios"
+                "to": "Terminal Reparto Schick"
             },
             {
-                "from": "Parque Central",
+                "from": "Terminal 108",
                 "services": [
                     "Sa"
                 ],
                 "stations": [
-                    "Parque Central",
-                    "Barrio Milagro de Dios"
+                    "Terminal 108",
+                    "Terminal Reparto Schick"
                 ],
                 "times": [
                     [
@@ -74208,16 +74208,16 @@
                         "20:75"
                     ]
                 ],
-                "to": "Barrio Milagro de Dios"
+                "to": "Terminal Reparto Schick"
             },
             {
-                "from": "Parque Central",
+                "from": "Terminal 108",
                 "services": [
                     "Su"
                 ],
                 "stations": [
-                    "Parque Central",
-                    "Barrio Milagro de Dios"
+                    "Terminal 108",
+                    "Terminal Reparto Schick"
                 ],
                 "times": [
                     [
@@ -74445,18 +74445,18 @@
                         "21:70"
                     ]
                 ],
-                "to": "Barrio Milagro de Dios"
+                "to": "Terminal Reparto Schick"
             }
         ],
         "210": [
             {
-                "from": "Villa Nueva",
+                "from": "Villa Roma",
                 "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
-                    "Villa Nueva",
-                    "Catedral"
+                    "Villa Roma",
+                    "Barrio Santa Rosa"
                 ],
                 "times": [
                     [
@@ -74928,16 +74928,16 @@
                         "21:60"
                     ]
                 ],
-                "to": "Catedral"
+                "to": "Barrio Santa Rosa"
             },
             {
-                "from": "Villa Nueva",
+                "from": "Villa Roma",
                 "services": [
                     "Sa"
                 ],
                 "stations": [
-                    "Villa Nueva",
-                    "Catedral"
+                    "Villa Roma",
+                    "Barrio Santa Rosa"
                 ],
                 "times": [
                     [
@@ -75297,16 +75297,16 @@
                         "21:30"
                     ]
                 ],
-                "to": "Catedral"
+                "to": "Barrio Santa Rosa"
             },
             {
-                "from": "Villa Nueva",
+                "from": "Villa Roma",
                 "services": [
                     "Su"
                 ],
                 "stations": [
-                    "Villa Nueva",
-                    "Catedral"
+                    "Villa Roma",
+                    "Barrio Santa Rosa"
                 ],
                 "times": [
                     [
@@ -75586,16 +75586,16 @@
                         "21:30"
                     ]
                 ],
-                "to": "Catedral"
+                "to": "Barrio Santa Rosa"
             },
             {
-                "from": "Catedral",
+                "from": "Barrio Santa Rosa",
                 "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
-                    "Catedral",
-                    "Villa Nueva"
+                    "Barrio Santa Rosa",
+                    "Villa Roma"
                 ],
                 "times": [
                     [
@@ -76067,16 +76067,16 @@
                         "21:60"
                     ]
                 ],
-                "to": "Villa Nueva"
+                "to": "Villa Roma"
             },
             {
-                "from": "Catedral",
+                "from": "Barrio Santa Rosa",
                 "services": [
                     "Sa"
                 ],
                 "stations": [
-                    "Catedral",
-                    "Villa Nueva"
+                    "Barrio Santa Rosa",
+                    "Villa Roma"
                 ],
                 "times": [
                     [
@@ -76436,16 +76436,16 @@
                         "21:30"
                     ]
                 ],
-                "to": "Villa Nueva"
+                "to": "Villa Roma"
             },
             {
-                "from": "Catedral",
+                "from": "Barrio Santa Rosa",
                 "services": [
                     "Su"
                 ],
                 "stations": [
-                    "Catedral",
-                    "Villa Nueva"
+                    "Barrio Santa Rosa",
+                    "Villa Roma"
                 ],
                 "times": [
                     [
@@ -76725,18 +76725,18 @@
                         "21:30"
                     ]
                 ],
-                "to": "Villa Nueva"
+                "to": "Villa Roma"
             }
         ],
         "262": [
             {
-                "from": "Comarca Los Vanegas",
+                "from": "Terminal 133",
                 "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
-                    "Comarca Los Vanegas",
-                    "INATEC"
+                    "Terminal 133",
+                    "Terminal de Retorno 133"
                 ],
                 "times": [
                     [
@@ -76944,16 +76944,16 @@
                         "19:80"
                     ]
                 ],
-                "to": "INATEC"
+                "to": "Terminal de Retorno 133"
             },
             {
-                "from": "Comarca Los Vanegas",
+                "from": "Terminal 133",
                 "services": [
                     "Sa"
                 ],
                 "stations": [
-                    "Comarca Los Vanegas",
-                    "INATEC"
+                    "Terminal 133",
+                    "Terminal de Retorno 133"
                 ],
                 "times": [
                     [
@@ -77153,16 +77153,16 @@
                         "19:55"
                     ]
                 ],
-                "to": "INATEC"
+                "to": "Terminal de Retorno 133"
             },
             {
-                "from": "Comarca Los Vanegas",
+                "from": "Terminal 133",
                 "services": [
                     "Su"
                 ],
                 "stations": [
-                    "Comarca Los Vanegas",
-                    "INATEC"
+                    "Terminal 133",
+                    "Terminal de Retorno 133"
                 ],
                 "times": [
                     [
@@ -77346,16 +77346,16 @@
                         "19:55"
                     ]
                 ],
-                "to": "INATEC"
+                "to": "Terminal de Retorno 133"
             },
             {
-                "from": "INATEC",
+                "from": "Terminal de Retorno 133",
                 "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
-                    "INATEC",
-                    "Comarca Los Vanegas"
+                    "Terminal de Retorno 133",
+                    "Terminal 133"
                 ],
                 "times": [
                     [
@@ -77563,16 +77563,16 @@
                         "19:80"
                     ]
                 ],
-                "to": "Comarca Los Vanegas"
+                "to": "Terminal 133"
             },
             {
-                "from": "INATEC",
+                "from": "Terminal de Retorno 133",
                 "services": [
                     "Sa"
                 ],
                 "stations": [
-                    "INATEC",
-                    "Comarca Los Vanegas"
+                    "Terminal de Retorno 133",
+                    "Terminal 133"
                 ],
                 "times": [
                     [
@@ -77772,16 +77772,16 @@
                         "19:55"
                     ]
                 ],
-                "to": "Comarca Los Vanegas"
+                "to": "Terminal 133"
             },
             {
-                "from": "INATEC",
+                "from": "Terminal de Retorno 133",
                 "services": [
                     "Su"
                 ],
                 "stations": [
-                    "INATEC",
-                    "Comarca Los Vanegas"
+                    "Terminal de Retorno 133",
+                    "Terminal 133"
                 ],
                 "times": [
                     [
@@ -77965,18 +77965,18 @@
                         "19:55"
                     ]
                 ],
-                "to": "Comarca Los Vanegas"
+                "to": "Terminal 133"
             }
         ],
         "266": [
             {
-                "from": "Las Mercedes",
+                "from": "Cuidad Sandino (Los Brasiles)",
                 "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
-                    "Las Mercedes",
-                    "El Panal"
+                    "Cuidad Sandino (Los Brasiles)",
+                    "Mercado Oriental"
                 ],
                 "times": [
                     [
@@ -78676,16 +78676,16 @@
                         "21:00"
                     ]
                 ],
-                "to": "El Panal"
+                "to": "Mercado Oriental"
             },
             {
-                "from": "Las Mercedes",
+                "from": "Cuidad Sandino (Los Brasiles)",
                 "services": [
                     "Sa"
                 ],
                 "stations": [
-                    "Las Mercedes",
-                    "El Panal"
+                    "Cuidad Sandino (Los Brasiles)",
+                    "Mercado Oriental"
                 ],
                 "times": [
                     [
@@ -79369,16 +79369,16 @@
                         "20:25"
                     ]
                 ],
-                "to": "El Panal"
+                "to": "Mercado Oriental"
             },
             {
-                "from": "Las Mercedes",
+                "from": "Cuidad Sandino (Los Brasiles)",
                 "services": [
                     "Su"
                 ],
                 "stations": [
-                    "Las Mercedes",
-                    "El Panal"
+                    "Cuidad Sandino (Los Brasiles)",
+                    "Mercado Oriental"
                 ],
                 "times": [
                     [
@@ -80078,16 +80078,16 @@
                         "21:00"
                     ]
                 ],
-                "to": "El Panal"
+                "to": "Mercado Oriental"
             },
             {
-                "from": "El Panal",
+                "from": "Mercado Oriental",
                 "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
-                    "El Panal",
-                    "Las Mercedes"
+                    "Mercado Oriental",
+                    "Cuidad Sandino (Los Brasiles)"
                 ],
                 "times": [
                     [
@@ -80787,16 +80787,16 @@
                         "21:00"
                     ]
                 ],
-                "to": "Las Mercedes"
+                "to": "Cuidad Sandino (Los Brasiles)"
             },
             {
-                "from": "El Panal",
+                "from": "Mercado Oriental",
                 "services": [
                     "Sa"
                 ],
                 "stations": [
-                    "El Panal",
-                    "Las Mercedes"
+                    "Mercado Oriental",
+                    "Cuidad Sandino (Los Brasiles)"
                 ],
                 "times": [
                     [
@@ -81480,16 +81480,16 @@
                         "20:25"
                     ]
                 ],
-                "to": "Las Mercedes"
+                "to": "Cuidad Sandino (Los Brasiles)"
             },
             {
-                "from": "El Panal",
+                "from": "Mercado Oriental",
                 "services": [
                     "Su"
                 ],
                 "stations": [
-                    "El Panal",
-                    "Las Mercedes"
+                    "Mercado Oriental",
+                    "Cuidad Sandino (Los Brasiles)"
                 ],
                 "times": [
                     [
@@ -82189,18 +82189,18 @@
                         "21:00"
                     ]
                 ],
-                "to": "Las Mercedes"
+                "to": "Cuidad Sandino (Los Brasiles)"
             }
         ],
         "6": [
             {
-                "from": "Barrio Camilo Chamorro",
+                "from": "Las Mercedes",
                 "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
-                    "Barrio Camilo Chamorro",
-                    "Colonia Independencia"
+                    "Las Mercedes",
+                    "Mercado Oriental"
                 ],
                 "times": [
                     [
@@ -82476,16 +82476,16 @@
                         "21:35"
                     ]
                 ],
-                "to": "Colonia Independencia"
+                "to": "Mercado Oriental"
             },
             {
-                "from": "Barrio Camilo Chamorro",
+                "from": "Las Mercedes",
                 "services": [
                     "Sa"
                 ],
                 "stations": [
-                    "Barrio Camilo Chamorro",
-                    "Colonia Independencia"
+                    "Las Mercedes",
+                    "Mercado Oriental"
                 ],
                 "times": [
                     [
@@ -82761,16 +82761,16 @@
                         "21:35"
                     ]
                 ],
-                "to": "Colonia Independencia"
+                "to": "Mercado Oriental"
             },
             {
-                "from": "Barrio Camilo Chamorro",
+                "from": "Las Mercedes",
                 "services": [
                     "Su"
                 ],
                 "stations": [
-                    "Barrio Camilo Chamorro",
-                    "Colonia Independencia"
+                    "Las Mercedes",
+                    "Mercado Oriental"
                 ],
                 "times": [
                     [
@@ -83046,16 +83046,16 @@
                         "21:35"
                     ]
                 ],
-                "to": "Colonia Independencia"
+                "to": "Mercado Oriental"
             },
             {
-                "from": "Colonia Independencia",
+                "from": "Mercado Oriental",
                 "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
-                    "Colonia Independencia",
-                    "Barrio Camilo Chamorro"
+                    "Mercado Oriental",
+                    "Las Mercedes"
                 ],
                 "times": [
                     [
@@ -83331,16 +83331,16 @@
                         "21:35"
                     ]
                 ],
-                "to": "Barrio Camilo Chamorro"
+                "to": "Las Mercedes"
             },
             {
-                "from": "Colonia Independencia",
+                "from": "Mercado Oriental",
                 "services": [
                     "Sa"
                 ],
                 "stations": [
-                    "Colonia Independencia",
-                    "Barrio Camilo Chamorro"
+                    "Mercado Oriental",
+                    "Las Mercedes"
                 ],
                 "times": [
                     [
@@ -83616,16 +83616,16 @@
                         "21:35"
                     ]
                 ],
-                "to": "Barrio Camilo Chamorro"
+                "to": "Las Mercedes"
             },
             {
-                "from": "Colonia Independencia",
+                "from": "Mercado Oriental",
                 "services": [
                     "Su"
                 ],
                 "stations": [
-                    "Colonia Independencia",
-                    "Barrio Camilo Chamorro"
+                    "Mercado Oriental",
+                    "Las Mercedes"
                 ],
                 "times": [
                     [
@@ -83901,18 +83901,18 @@
                         "21:35"
                     ]
                 ],
-                "to": "Barrio Camilo Chamorro"
+                "to": "Las Mercedes"
             }
         ],
         "ESQ": [
             {
-                "from": "Vistas de Esquipulas",
+                "from": "Colegio Cristiano el Edén",
                 "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
-                    "Vistas de Esquipulas",
-                    "Mercado Roberto Huembes"
+                    "Colegio Cristiano el Edén",
+                    "Pollo El Granjero"
                 ],
                 "times": [
                     [
@@ -84072,16 +84072,16 @@
                         "18:55"
                     ]
                 ],
-                "to": "Mercado Roberto Huembes"
+                "to": "Pollo El Granjero"
             },
             {
-                "from": "Vistas de Esquipulas",
+                "from": "Colegio Cristiano el Edén",
                 "services": [
                     "Sa"
                 ],
                 "stations": [
-                    "Vistas de Esquipulas",
-                    "Mercado Roberto Huembes"
+                    "Colegio Cristiano el Edén",
+                    "Pollo El Granjero"
                 ],
                 "times": [
                     [
@@ -84241,16 +84241,16 @@
                         "18:55"
                     ]
                 ],
-                "to": "Mercado Roberto Huembes"
+                "to": "Pollo El Granjero"
             },
             {
-                "from": "Vistas de Esquipulas",
+                "from": "Colegio Cristiano el Edén",
                 "services": [
                     "Su"
                 ],
                 "stations": [
-                    "Vistas de Esquipulas",
-                    "Mercado Roberto Huembes"
+                    "Colegio Cristiano el Edén",
+                    "Pollo El Granjero"
                 ],
                 "times": [
                     [
@@ -84410,16 +84410,16 @@
                         "18:55"
                     ]
                 ],
-                "to": "Mercado Roberto Huembes"
+                "to": "Pollo El Granjero"
             },
             {
-                "from": "Mercado Roberto Huembes",
+                "from": "Pollo El Granjero",
                 "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
-                    "Mercado Roberto Huembes",
-                    "Vistas de Esquipulas"
+                    "Pollo El Granjero",
+                    "Colegio Cristiano el Edén"
                 ],
                 "times": [
                     [
@@ -84579,16 +84579,16 @@
                         "18:55"
                     ]
                 ],
-                "to": "Vistas de Esquipulas"
+                "to": "Colegio Cristiano el Edén"
             },
             {
-                "from": "Mercado Roberto Huembes",
+                "from": "Pollo El Granjero",
                 "services": [
                     "Sa"
                 ],
                 "stations": [
-                    "Mercado Roberto Huembes",
-                    "Vistas de Esquipulas"
+                    "Pollo El Granjero",
+                    "Colegio Cristiano el Edén"
                 ],
                 "times": [
                     [
@@ -84748,16 +84748,16 @@
                         "18:55"
                     ]
                 ],
-                "to": "Vistas de Esquipulas"
+                "to": "Colegio Cristiano el Edén"
             },
             {
-                "from": "Mercado Roberto Huembes",
+                "from": "Pollo El Granjero",
                 "services": [
                     "Su"
                 ],
                 "stations": [
-                    "Mercado Roberto Huembes",
-                    "Vistas de Esquipulas"
+                    "Pollo El Granjero",
+                    "Colegio Cristiano el Edén"
                 ],
                 "times": [
                     [
@@ -84917,18 +84917,18 @@
                         "18:55"
                     ]
                 ],
-                "to": "Vistas de Esquipulas"
+                "to": "Colegio Cristiano el Edén"
             }
         ],
         "MR4": [
             {
-                "from": "Villa Roma",
+                "from": "Mercadito de Ciudad Sandino",
                 "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
-                    "Villa Roma",
-                    "Barrio Santa Rosa"
+                    "Mercadito de Ciudad Sandino",
+                    "KM 9 Motastepe"
                 ],
                 "times": [
                     [
@@ -85092,16 +85092,16 @@
                         "20:65"
                     ]
                 ],
-                "to": "Barrio Santa Rosa"
+                "to": "KM 9 Motastepe"
             },
             {
-                "from": "Villa Roma",
+                "from": "Mercadito de Ciudad Sandino",
                 "services": [
                     "Sa"
                 ],
                 "stations": [
-                    "Villa Roma",
-                    "Barrio Santa Rosa"
+                    "Mercadito de Ciudad Sandino",
+                    "KM 9 Motastepe"
                 ],
                 "times": [
                     [
@@ -85321,16 +85321,16 @@
                         "20:65"
                     ]
                 ],
-                "to": "Barrio Santa Rosa"
+                "to": "KM 9 Motastepe"
             },
             {
-                "from": "Villa Roma",
+                "from": "Mercadito de Ciudad Sandino",
                 "services": [
                     "Su"
                 ],
                 "stations": [
-                    "Villa Roma",
-                    "Barrio Santa Rosa"
+                    "Mercadito de Ciudad Sandino",
+                    "KM 9 Motastepe"
                 ],
                 "times": [
                     [
@@ -85470,16 +85470,16 @@
                         "19:65"
                     ]
                 ],
-                "to": "Barrio Santa Rosa"
+                "to": "KM 9 Motastepe"
             },
             {
-                "from": "Barrio Santa Rosa",
+                "from": "KM 9 Motastepe",
                 "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
-                    "Barrio Santa Rosa",
-                    "Villa Roma"
+                    "KM 9 Motastepe",
+                    "Mercadito de Ciudad Sandino"
                 ],
                 "times": [
                     [
@@ -85643,16 +85643,16 @@
                         "20:65"
                     ]
                 ],
-                "to": "Villa Roma"
+                "to": "Mercadito de Ciudad Sandino"
             },
             {
-                "from": "Barrio Santa Rosa",
+                "from": "KM 9 Motastepe",
                 "services": [
                     "Sa"
                 ],
                 "stations": [
-                    "Barrio Santa Rosa",
-                    "Villa Roma"
+                    "KM 9 Motastepe",
+                    "Mercadito de Ciudad Sandino"
                 ],
                 "times": [
                     [
@@ -85872,16 +85872,16 @@
                         "20:65"
                     ]
                 ],
-                "to": "Villa Roma"
+                "to": "Mercadito de Ciudad Sandino"
             },
             {
-                "from": "Barrio Santa Rosa",
+                "from": "KM 9 Motastepe",
                 "services": [
                     "Su"
                 ],
                 "stations": [
-                    "Barrio Santa Rosa",
-                    "Villa Roma"
+                    "KM 9 Motastepe",
+                    "Mercadito de Ciudad Sandino"
                 ],
                 "times": [
                     [
@@ -86021,18 +86021,18 @@
                         "19:65"
                     ]
                 ],
-                "to": "Villa Roma"
+                "to": "Mercadito de Ciudad Sandino"
             }
         ],
         "SIS": [
             {
-                "from": "Terminal San Isidro",
+                "from": "Vistas de Esquipulas",
                 "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
-                    "Terminal San Isidro",
-                    "El Panal"
+                    "Vistas de Esquipulas",
+                    "Mercado Roberto Huembes"
                 ],
                 "times": [
                     [
@@ -86084,16 +86084,16 @@
                         "18:15"
                     ]
                 ],
-                "to": "El Panal"
+                "to": "Mercado Roberto Huembes"
             },
             {
-                "from": "Terminal San Isidro",
+                "from": "Vistas de Esquipulas",
                 "services": [
                     "Sa"
                 ],
                 "stations": [
-                    "Terminal San Isidro",
-                    "El Panal"
+                    "Vistas de Esquipulas",
+                    "Mercado Roberto Huembes"
                 ],
                 "times": [
                     [
@@ -86149,16 +86149,16 @@
                         "19:15"
                     ]
                 ],
-                "to": "El Panal"
+                "to": "Mercado Roberto Huembes"
             },
             {
-                "from": "Terminal San Isidro",
+                "from": "Vistas de Esquipulas",
                 "services": [
                     "Su"
                 ],
                 "stations": [
-                    "Terminal San Isidro",
-                    "El Panal"
+                    "Vistas de Esquipulas",
+                    "Mercado Roberto Huembes"
                 ],
                 "times": [
                     [
@@ -86202,16 +86202,16 @@
                         "16:15"
                     ]
                 ],
-                "to": "El Panal"
+                "to": "Mercado Roberto Huembes"
             },
             {
-                "from": "El Panal",
+                "from": "Mercado Roberto Huembes",
                 "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
-                    "El Panal",
-                    "Terminal San Isidro"
+                    "Mercado Roberto Huembes",
+                    "Vistas de Esquipulas"
                 ],
                 "times": [
                     [
@@ -86263,16 +86263,16 @@
                         "18:15"
                     ]
                 ],
-                "to": "Terminal San Isidro"
+                "to": "Vistas de Esquipulas"
             },
             {
-                "from": "El Panal",
+                "from": "Mercado Roberto Huembes",
                 "services": [
                     "Sa"
                 ],
                 "stations": [
-                    "El Panal",
-                    "Terminal San Isidro"
+                    "Mercado Roberto Huembes",
+                    "Vistas de Esquipulas"
                 ],
                 "times": [
                     [
@@ -86328,16 +86328,16 @@
                         "19:15"
                     ]
                 ],
-                "to": "Terminal San Isidro"
+                "to": "Vistas de Esquipulas"
             },
             {
-                "from": "El Panal",
+                "from": "Mercado Roberto Huembes",
                 "services": [
                     "Su"
                 ],
                 "stations": [
-                    "El Panal",
-                    "Terminal San Isidro"
+                    "Mercado Roberto Huembes",
+                    "Vistas de Esquipulas"
                 ],
                 "times": [
                     [
@@ -86381,18 +86381,18 @@
                         "16:15"
                     ]
                 ],
-                "to": "Terminal San Isidro"
+                "to": "Vistas de Esquipulas"
             }
         ],
         "VAN": [
             {
-                "from": "Comarca los Vanegas",
+                "from": "San Isidro de la Cruz Verde",
                 "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
-                    "Comarca los Vanegas",
-                    "El Panal"
+                    "San Isidro de la Cruz Verde",
+                    "Mercado Oriental"
                 ],
                 "times": [
                     [
@@ -86500,16 +86500,16 @@
                         "19:55"
                     ]
                 ],
-                "to": "El Panal"
+                "to": "Mercado Oriental"
             },
             {
-                "from": "Comarca los Vanegas",
+                "from": "San Isidro de la Cruz Verde",
                 "services": [
                     "Sa"
                 ],
                 "stations": [
-                    "Comarca los Vanegas",
-                    "El Panal"
+                    "San Isidro de la Cruz Verde",
+                    "Mercado Oriental"
                 ],
                 "times": [
                     [
@@ -86617,16 +86617,16 @@
                         "19:55"
                     ]
                 ],
-                "to": "El Panal"
+                "to": "Mercado Oriental"
             },
             {
-                "from": "Comarca los Vanegas",
+                "from": "San Isidro de la Cruz Verde",
                 "services": [
                     "Su"
                 ],
                 "stations": [
-                    "Comarca los Vanegas",
-                    "El Panal"
+                    "San Isidro de la Cruz Verde",
+                    "Mercado Oriental"
                 ],
                 "times": [
                     [
@@ -86734,16 +86734,16 @@
                         "19:55"
                     ]
                 ],
-                "to": "El Panal"
+                "to": "Mercado Oriental"
             },
             {
-                "from": "El Panal",
+                "from": "Mercado Oriental",
                 "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
-                    "El Panal",
-                    "Comarca los Vanegas"
+                    "Mercado Oriental",
+                    "San Isidro de la Cruz Verde"
                 ],
                 "times": [
                     [
@@ -86851,16 +86851,16 @@
                         "19:55"
                     ]
                 ],
-                "to": "Comarca los Vanegas"
+                "to": "San Isidro de la Cruz Verde"
             },
             {
-                "from": "El Panal",
+                "from": "Mercado Oriental",
                 "services": [
                     "Sa"
                 ],
                 "stations": [
-                    "El Panal",
-                    "Comarca los Vanegas"
+                    "Mercado Oriental",
+                    "San Isidro de la Cruz Verde"
                 ],
                 "times": [
                     [
@@ -86968,16 +86968,16 @@
                         "19:55"
                     ]
                 ],
-                "to": "Comarca los Vanegas"
+                "to": "San Isidro de la Cruz Verde"
             },
             {
-                "from": "El Panal",
+                "from": "Mercado Oriental",
                 "services": [
                     "Su"
                 ],
                 "stations": [
-                    "El Panal",
-                    "Comarca los Vanegas"
+                    "Mercado Oriental",
+                    "San Isidro de la Cruz Verde"
                 ],
                 "times": [
                     [
@@ -87085,7 +87085,7 @@
                         "19:55"
                     ]
                 ],
-                "to": "Comarca los Vanegas"
+                "to": "San Isidro de la Cruz Verde"
             }
         ]
     }
