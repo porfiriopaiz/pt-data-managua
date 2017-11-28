@@ -28851,7 +28851,7 @@
                 ],
                 "stations": [
                     "Terminal José Benito Escobar",
-                    "Cuesta el Plomo Sur"
+                    "Cuesta El Plomo Sur"
                 ],
                 "times": [
                     [
@@ -29435,7 +29435,7 @@
                         "21:40"
                     ]
                 ],
-                "to": "Cuesta el Plomo Sur"
+                "to": "Cuesta El Plomo Sur"
             },
             {
                 "from": "Terminal José Benito Escobar",
@@ -29444,7 +29444,7 @@
                 ],
                 "stations": [
                     "Terminal José Benito Escobar",
-                    "Cuesta el Plomo Sur"
+                    "Cuesta El Plomo Sur"
                 ],
                 "times": [
                     [
@@ -29992,7 +29992,7 @@
                         "21:45"
                     ]
                 ],
-                "to": "Cuesta el Plomo Sur"
+                "to": "Cuesta El Plomo Sur"
             },
             {
                 "from": "Terminal José Benito Escobar",
@@ -30001,7 +30001,7 @@
                 ],
                 "stations": [
                     "Terminal José Benito Escobar",
-                    "Cuesta el Plomo Sur"
+                    "Cuesta El Plomo Sur"
                 ],
                 "times": [
                     [
@@ -30421,15 +30421,15 @@
                         "21:45"
                     ]
                 ],
-                "to": "Cuesta el Plomo Sur"
+                "to": "Cuesta El Plomo Sur"
             },
             {
-                "from": "Cuesta el Plomo Sur",
+                "from": "Cuesta El Plomo Sur",
                 "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
-                    "Cuesta el Plomo Sur",
+                    "Cuesta El Plomo Sur",
                     "Terminal José Benito Escobar"
                 ],
                 "times": [
@@ -31017,12 +31017,12 @@
                 "to": "Terminal José Benito Escobar"
             },
             {
-                "from": "Cuesta el Plomo Sur",
+                "from": "Cuesta El Plomo Sur",
                 "services": [
                     "Sa"
                 ],
                 "stations": [
-                    "Cuesta el Plomo Sur",
+                    "Cuesta El Plomo Sur",
                     "Terminal José Benito Escobar"
                 ],
                 "times": [
@@ -31574,12 +31574,12 @@
                 "to": "Terminal José Benito Escobar"
             },
             {
-                "from": "Cuesta el Plomo Sur",
+                "from": "Cuesta El Plomo Sur",
                 "services": [
                     "Su"
                 ],
                 "stations": [
-                    "Cuesta el Plomo Sur",
+                    "Cuesta El Plomo Sur",
                     "Terminal José Benito Escobar"
                 ],
                 "times": [
