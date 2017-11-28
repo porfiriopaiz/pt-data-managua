@@ -38619,7 +38619,7 @@
                 ],
                 "stations": [
                     "Terminal 119",
-                    "Cuesta el Plomo Sur"
+                    "Cuesta El Plomo Sur"
                 ],
                 "times": [
                     [
@@ -39035,7 +39035,7 @@
                         "22:05"
                     ]
                 ],
-                "to": "Cuesta el Plomo Sur"
+                "to": "Cuesta El Plomo Sur"
             },
             {
                 "from": "Terminal 119",
@@ -39044,7 +39044,7 @@
                 ],
                 "stations": [
                     "Terminal 119",
-                    "Cuesta el Plomo Sur"
+                    "Cuesta El Plomo Sur"
                 ],
                 "times": [
                     [
@@ -39356,7 +39356,7 @@
                         "22:00"
                     ]
                 ],
-                "to": "Cuesta el Plomo Sur"
+                "to": "Cuesta El Plomo Sur"
             },
             {
                 "from": "Terminal 119",
@@ -39365,7 +39365,7 @@
                 ],
                 "stations": [
                     "Terminal 119",
-                    "Cuesta el Plomo Sur"
+                    "Cuesta El Plomo Sur"
                 ],
                 "times": [
                     [
@@ -39637,15 +39637,15 @@
                         "22:00"
                     ]
                 ],
-                "to": "Cuesta el Plomo Sur"
+                "to": "Cuesta El Plomo Sur"
             },
             {
-                "from": "Cuesta el Plomo Sur",
+                "from": "Cuesta El Plomo Sur",
                 "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
-                    "Cuesta el Plomo Sur",
+                    "Cuesta El Plomo Sur",
                     "Terminal 119"
                 ],
                 "times": [
@@ -40065,12 +40065,12 @@
                 "to": "Terminal 119"
             },
             {
-                "from": "Cuesta el Plomo Sur",
+                "from": "Cuesta El Plomo Sur",
                 "services": [
                     "Sa"
                 ],
                 "stations": [
-                    "Cuesta el Plomo Sur",
+                    "Cuesta El Plomo Sur",
                     "Terminal 119"
                 ],
                 "times": [
@@ -40386,12 +40386,12 @@
                 "to": "Terminal 119"
             },
             {
-                "from": "Cuesta el Plomo Sur",
+                "from": "Cuesta El Plomo Sur",
                 "services": [
                     "Su"
                 ],
                 "stations": [
-                    "Cuesta el Plomo Sur",
+                    "Cuesta El Plomo Sur",
                     "Terminal 119"
                 ],
                 "times": [
