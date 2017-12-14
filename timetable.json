@@ -9821,13 +9821,13 @@
         ],
         "106": [
             {
-                "from": "Terminal 106",
+                "from": "Terminal Berta Díaz",
                 "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
-                    "Terminal 106",
-                    "Ferretería 35 Avenida"
+                    "Terminal Berta Díaz",
+                    "El Seminario"
                 ],
                 "times": [
                     [
@@ -10183,16 +10183,16 @@
                         "22:15"
                     ]
                 ],
-                "to": "Ferretería 35 Avenida"
+                "to": "El Seminario"
             },
             {
-                "from": "Terminal 106",
+                "from": "Terminal Berta Díaz",
                 "services": [
                     "Sa"
                 ],
                 "stations": [
-                    "Terminal 106",
-                    "Ferretería 35 Avenida"
+                    "Terminal Berta Díaz",
+                    "El Seminario"
                 ],
                 "times": [
                     [
@@ -10420,16 +10420,16 @@
                         "21:15"
                     ]
                 ],
-                "to": "Ferretería 35 Avenida"
+                "to": "El Seminario"
             },
             {
-                "from": "Terminal 106",
+                "from": "Terminal Berta Díaz",
                 "services": [
                     "Su"
                 ],
                 "stations": [
-                    "Terminal 106",
-                    "Ferretería 35 Avenida"
+                    "Terminal Berta Díaz",
+                    "El Seminario"
                 ],
                 "times": [
                     [
@@ -10601,16 +10601,16 @@
                         "21:10"
                     ]
                 ],
-                "to": "Ferretería 35 Avenida"
+                "to": "El Seminario"
             },
             {
-                "from": "Ferretería 35 Avenida",
+                "from": "El Seminario",
                 "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
-                    "Ferretería 35 Avenida",
-                    "Terminal 106"
+                    "El Seminario",
+                    "Terminal Berta Díaz"
                 ],
                 "times": [
                     [
@@ -10966,16 +10966,16 @@
                         "22:15"
                     ]
                 ],
-                "to": "Terminal 106"
+                "to": "Terminal Berta Díaz"
             },
             {
-                "from": "Ferretería 35 Avenida",
+                "from": "El Seminario",
                 "services": [
                     "Sa"
                 ],
                 "stations": [
-                    "Ferretería 35 Avenida",
-                    "Terminal 106"
+                    "El Seminario",
+                    "Terminal Berta Díaz"
                 ],
                 "times": [
                     [
@@ -11203,16 +11203,16 @@
                         "21:15"
                     ]
                 ],
-                "to": "Terminal 106"
+                "to": "Terminal Berta Díaz"
             },
             {
-                "from": "Ferretería 35 Avenida",
+                "from": "El Seminario",
                 "services": [
                     "Su"
                 ],
                 "stations": [
-                    "Ferretería 35 Avenida",
-                    "Terminal 106"
+                    "El Seminario",
+                    "Terminal Berta Díaz"
                 ],
                 "times": [
                     [
@@ -11384,7 +11384,7 @@
                         "21:10"
                     ]
                 ],
-                "to": "Terminal 106"
+                "to": "Terminal Berta Díaz"
             }
         ],
         "107": [
@@ -20019,7 +20019,7 @@
                 ],
                 "stations": [
                     "Terminal 111",
-                    "Terminal 111, 168"
+                    "Terminal Miguel Bonilla"
                 ],
                 "times": [
                     [
@@ -20403,7 +20403,7 @@
                         "22:15"
                     ]
                 ],
-                "to": "Terminal 111, 168"
+                "to": "Terminal Miguel Bonilla"
             },
             {
                 "from": "Terminal 111",
@@ -20412,7 +20412,7 @@
                 ],
                 "stations": [
                     "Terminal 111",
-                    "Terminal 111, 168"
+                    "Terminal Miguel Bonilla"
                 ],
                 "times": [
                     [
@@ -20796,7 +20796,7 @@
                         "22:15"
                     ]
                 ],
-                "to": "Terminal 111, 168"
+                "to": "Terminal Miguel Bonilla"
             },
             {
                 "from": "Terminal 111",
@@ -20805,7 +20805,7 @@
                 ],
                 "stations": [
                     "Terminal 111",
-                    "Terminal 111, 168"
+                    "Terminal Miguel Bonilla"
                 ],
                 "times": [
                     [
@@ -21185,15 +21185,15 @@
                         "22:20"
                     ]
                 ],
-                "to": "Terminal 111, 168"
+                "to": "Terminal Miguel Bonilla"
             },
             {
-                "from": "Terminal 111, 168",
+                "from": "Terminal Miguel Bonilla",
                 "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
-                    "Terminal 111, 168",
+                    "Terminal Miguel Bonilla",
                     "Terminal 111"
                 ],
                 "times": [
@@ -21581,12 +21581,12 @@
                 "to": "Terminal 111"
             },
             {
-                "from": "Terminal 111, 168",
+                "from": "Terminal Miguel Bonilla",
                 "services": [
                     "Sa"
                 ],
                 "stations": [
-                    "Terminal 111, 168",
+                    "Terminal Miguel Bonilla",
                     "Terminal 111"
                 ],
                 "times": [
@@ -21974,12 +21974,12 @@
                 "to": "Terminal 111"
             },
             {
-                "from": "Terminal 111, 168",
+                "from": "Terminal Miguel Bonilla",
                 "services": [
                     "Su"
                 ],
                 "stations": [
-                    "Terminal 111, 168",
+                    "Terminal Miguel Bonilla",
                     "Terminal 111"
                 ],
                 "times": [
@@ -36901,12 +36901,12 @@
         ],
         "118": [
             {
-                "from": "Terminal Laureles Sur",
+                "from": "Laureles Sur",
                 "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
-                    "Terminal Laureles Sur",
+                    "Laureles Sur",
                     "Cuesta El Plomo Sur"
                 ],
                 "times": [
@@ -37186,12 +37186,12 @@
                 "to": "Cuesta El Plomo Sur"
             },
             {
-                "from": "Terminal Laureles Sur",
+                "from": "Laureles Sur",
                 "services": [
                     "Sa"
                 ],
                 "stations": [
-                    "Terminal Laureles Sur",
+                    "Laureles Sur",
                     "Cuesta El Plomo Sur"
                 ],
                 "times": [
@@ -37471,12 +37471,12 @@
                 "to": "Cuesta El Plomo Sur"
             },
             {
-                "from": "Terminal Laureles Sur",
+                "from": "Laureles Sur",
                 "services": [
                     "Su"
                 ],
                 "stations": [
-                    "Terminal Laureles Sur",
+                    "Laureles Sur",
                     "Cuesta El Plomo Sur"
                 ],
                 "times": [
@@ -37762,7 +37762,7 @@
                 ],
                 "stations": [
                     "Cuesta El Plomo Sur",
-                    "Terminal Laureles Sur"
+                    "Laureles Sur"
                 ],
                 "times": [
                     [
@@ -38038,7 +38038,7 @@
                         "20:55"
                     ]
                 ],
-                "to": "Terminal Laureles Sur"
+                "to": "Laureles Sur"
             },
             {
                 "from": "Cuesta El Plomo Sur",
@@ -38047,7 +38047,7 @@
                 ],
                 "stations": [
                     "Cuesta El Plomo Sur",
-                    "Terminal Laureles Sur"
+                    "Laureles Sur"
                 ],
                 "times": [
                     [
@@ -38323,7 +38323,7 @@
                         "20:55"
                     ]
                 ],
-                "to": "Terminal Laureles Sur"
+                "to": "Laureles Sur"
             },
             {
                 "from": "Cuesta El Plomo Sur",
@@ -38332,7 +38332,7 @@
                 ],
                 "stations": [
                     "Cuesta El Plomo Sur",
-                    "Terminal Laureles Sur"
+                    "Laureles Sur"
                 ],
                 "times": [
                     [
@@ -38608,7 +38608,7 @@
                         "20:55"
                     ]
                 ],
-                "to": "Terminal Laureles Sur"
+                "to": "Laureles Sur"
             }
         ],
         "119": [
@@ -62147,7 +62147,7 @@
                 ],
                 "stations": [
                     "Terminal Lomas de Guadalupe",
-                    "Terminal 111, 168"
+                    "Terminal Miguel Bonilla"
                 ],
                 "times": [
                     [
@@ -62563,7 +62563,7 @@
                         "22:00"
                     ]
                 ],
-                "to": "Terminal 111, 168"
+                "to": "Terminal Miguel Bonilla"
             },
             {
                 "from": "Terminal Lomas de Guadalupe",
@@ -62572,7 +62572,7 @@
                 ],
                 "stations": [
                     "Terminal Lomas de Guadalupe",
-                    "Terminal 111, 168"
+                    "Terminal Miguel Bonilla"
                 ],
                 "times": [
                     [
@@ -62916,7 +62916,7 @@
                         "22:00"
                     ]
                 ],
-                "to": "Terminal 111, 168"
+                "to": "Terminal Miguel Bonilla"
             },
             {
                 "from": "Terminal Lomas de Guadalupe",
@@ -62925,7 +62925,7 @@
                 ],
                 "stations": [
                     "Terminal Lomas de Guadalupe",
-                    "Terminal 111, 168"
+                    "Terminal Miguel Bonilla"
                 ],
                 "times": [
                     [
@@ -63217,15 +63217,15 @@
                         "22:00"
                     ]
                 ],
-                "to": "Terminal 111, 168"
+                "to": "Terminal Miguel Bonilla"
             },
             {
-                "from": "Terminal 111, 168",
+                "from": "Terminal Miguel Bonilla",
                 "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
-                    "Terminal 111, 168",
+                    "Terminal Miguel Bonilla",
                     "Terminal Lomas de Guadalupe"
                 ],
                 "times": [
@@ -63645,12 +63645,12 @@
                 "to": "Terminal Lomas de Guadalupe"
             },
             {
-                "from": "Terminal 111, 168",
+                "from": "Terminal Miguel Bonilla",
                 "services": [
                     "Sa"
                 ],
                 "stations": [
-                    "Terminal 111, 168",
+                    "Terminal Miguel Bonilla",
                     "Terminal Lomas de Guadalupe"
                 ],
                 "times": [
@@ -63998,12 +63998,12 @@
                 "to": "Terminal Lomas de Guadalupe"
             },
             {
-                "from": "Terminal 111, 168",
+                "from": "Terminal Miguel Bonilla",
                 "services": [
                     "Su"
                 ],
                 "stations": [
-                    "Terminal 111, 168",
+                    "Terminal Miguel Bonilla",
                     "Terminal Lomas de Guadalupe"
                 ],
                 "times": [
