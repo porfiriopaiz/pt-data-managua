@@ -54193,7 +54193,7 @@
                 "to": "Mercado Mayoreo"
             },
             {
-                "from": "Terminal Huellas de Acahualinca",    |
+                "from": "Terminal Huellas de Acahualinca",
                 "services": [
                     "Sa"
                 ],
@@ -54582,7 +54582,7 @@
                 "to": "Mercado Mayoreo"
             },
             {
-                "from": "Terminal Huellas de Acahualinca",    |
+                "from": "Terminal Huellas de Acahualinca",
                 "services": [
                     "Su"
                 ],
@@ -69397,7 +69397,7 @@
         ],
         "172": [
             {
-                "from": "Cuidad Sandino (Los Brasiles)",      |
+                "from": "Cuidad Sandino (Los Brasiles)",
                 "services": [
                     "Mo-Fr"
                 ],
@@ -69766,7 +69766,7 @@
                 "to": "Mercado Oriental"
             },
             {
-                "from": "Cuidad Sandino (Los Brasiles)",      |
+                "from": "Cuidad Sandino (Los Brasiles)",
                 "services": [
                     "Sa"
                 ],
@@ -70135,7 +70135,7 @@
                 "to": "Mercado Oriental"
             },
             {
-                "from": "Cuidad Sandino (Los Brasiles)",      |
+                "from": "Cuidad Sandino (Los Brasiles)",
                 "services": [
                     "Su"
                 ],
@@ -75213,7 +75213,7 @@
         ],
         "210": [
             {
-                "from": "Ciudad Sandino (Villa Soberana)",    |
+                "from": "Ciudad Sandino (Villa Soberana)",
                 "services": [
                     "Mo-Fr"
                 ],
@@ -75694,7 +75694,7 @@
                 "to": "Catedral"
             },
             {
-                "from": "Ciudad Sandino (Villa Soberana)",    |
+                "from": "Ciudad Sandino (Villa Soberana)",
                 "services": [
                     "Sa"
                 ],
@@ -76063,7 +76063,7 @@
                 "to": "Catedral"
             },
             {
-                "from": "Ciudad Sandino (Villa Soberana)",    |
+                "from": "Ciudad Sandino (Villa Soberana)",
                 "services": [
                     "Su"
                 ],
@@ -82957,7 +82957,7 @@
         ],
         "6": [
             {
-                "from": "Terminal Barrio Camilo Chamorro",    |
+                "from": "Terminal Barrio Camilo Chamorro",
                 "services": [
                     "Mo-Fr"
                 ],
@@ -83242,7 +83242,7 @@
                 "to": "Parque Independencia"
             },
             {
-                "from": "Terminal Barrio Camilo Chamorro",    |
+                "from": "Terminal Barrio Camilo Chamorro",
                 "services": [
                     "Sa"
                 ],
@@ -83527,7 +83527,7 @@
                 "to": "Parque Independencia"
             },
             {
-                "from": "Terminal Barrio Camilo Chamorro",    |
+                "from": "Terminal Barrio Camilo Chamorro",
                 "services": [
                     "Su"
                 ],
