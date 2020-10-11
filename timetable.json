@@ -9821,12 +9821,12 @@
         ],
         "106": [
             {
-                "from": "Barrio Berta Díaz",
+                "from": "Terminal Berta Díaz",
                 "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
-                    "Barrio Berta Díaz",
+                    "Terminal Berta Díaz",
                     "El Seminario"
                 ],
                 "times": [
@@ -10186,12 +10186,12 @@
                 "to": "El Seminario"
             },
             {
-                "from": "Barrio Berta Díaz",
+                "from": "Terminal Berta Díaz",
                 "services": [
                     "Sa"
                 ],
                 "stations": [
-                    "Barrio Berta Díaz",
+                    "Terminal Berta Díaz",
                     "El Seminario"
                 ],
                 "times": [
@@ -10423,12 +10423,12 @@
                 "to": "El Seminario"
             },
             {
-                "from": "Barrio Berta Díaz",
+                "from": "Terminal Berta Díaz",
                 "services": [
                     "Su"
                 ],
                 "stations": [
-                    "Barrio Berta Díaz",
+                    "Terminal Berta Díaz",
                     "El Seminario"
                 ],
                 "times": [
@@ -10610,7 +10610,7 @@
                 ],
                 "stations": [
                     "El Seminario",
-                    "Barrio Berta Díaz"
+                    "Terminal Berta Díaz"
                 ],
                 "times": [
                     [
@@ -10966,7 +10966,7 @@
                         "22:15"
                     ]
                 ],
-                "to": "Barrio Berta Díaz"
+                "to": "Terminal Berta Díaz"
             },
             {
                 "from": "El Seminario",
@@ -10975,7 +10975,7 @@
                 ],
                 "stations": [
                     "El Seminario",
-                    "Barrio Berta Díaz"
+                    "Terminal Berta Díaz"
                 ],
                 "times": [
                     [
@@ -11203,7 +11203,7 @@
                         "21:15"
                     ]
                 ],
-                "to": "Barrio Berta Díaz"
+                "to": "Terminal Berta Díaz"
             },
             {
                 "from": "El Seminario",
@@ -11212,7 +11212,7 @@
                 ],
                 "stations": [
                     "El Seminario",
-                    "Barrio Berta Díaz"
+                    "Terminal Berta Díaz"
                 ],
                 "times": [
                     [
@@ -11384,7 +11384,7 @@
                         "21:10"
                     ]
                 ],
-                "to": "Barrio Berta Díaz"
+                "to": "Terminal Berta Díaz"
             }
         ],
         "107": [
