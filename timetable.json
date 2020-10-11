@@ -11389,13 +11389,13 @@
         ],
         "107": [
             {
-                "from": "Camilo Ortega",
+                "from": "Terminal Camilo Ortega",
                 "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
-                    "Camilo Ortega",
-                    "Mercado Oriental"
+                    "Terminal Camilo Ortega",
+                    "El Panal"
                 ],
                 "times": [
                     [
@@ -11871,16 +11871,16 @@
                         "21:48"
                     ]
                 ],
-                "to": "Mercado Oriental"
+                "to": "El Panal"
             },
             {
-                "from": "Camilo Ortega",
+                "from": "Terminal Camilo Ortega",
                 "services": [
                     "Sa"
                 ],
                 "stations": [
-                    "Camilo Ortega",
-                    "Mercado Oriental"
+                    "Terminal Camilo Ortega",
+                    "El Panal"
                 ],
                 "times": [
                     [
@@ -12356,16 +12356,16 @@
                         "21:48"
                     ]
                 ],
-                "to": "Mercado Oriental"
+                "to": "El Panal"
             },
             {
-                "from": "Camilo Ortega",
+                "from": "Terminal Camilo Ortega",
                 "services": [
                     "Su"
                 ],
                 "stations": [
-                    "Camilo Ortega",
-                    "Mercado Oriental"
+                    "Terminal Camilo Ortega",
+                    "El Panal"
                 ],
                 "times": [
                     [
@@ -12841,16 +12841,16 @@
                         "21:48"
                     ]
                 ],
-                "to": "Mercado Oriental"
+                "to": "El Panal"
             },
             {
-                "from": "Mercado Oriental",
+                "from": "El Panal",
                 "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
-                    "Mercado Oriental",
-                    "Camilo Ortega"
+                    "El Panal",
+                    "Terminal Camilo Ortega"
                 ],
                 "times": [
                     [
@@ -13326,16 +13326,16 @@
                         "21:48"
                     ]
                 ],
-                "to": "Camilo Ortega"
+                "to": "Terminal Camilo Ortega"
             },
             {
-                "from": "Mercado Oriental",
+                "from": "El Panal",
                 "services": [
                     "Sa"
                 ],
                 "stations": [
-                    "Mercado Oriental",
-                    "Camilo Ortega"
+                    "El Panal",
+                    "Terminal Camilo Ortega"
                 ],
                 "times": [
                     [
@@ -13811,16 +13811,16 @@
                         "21:48"
                     ]
                 ],
-                "to": "Camilo Ortega"
+                "to": "Terminal Camilo Ortega"
             },
             {
-                "from": "Mercado Oriental",
+                "from": "El Panal",
                 "services": [
                     "Su"
                 ],
                 "stations": [
-                    "Mercado Oriental",
-                    "Camilo Ortega"
+                    "El Panal",
+                    "Terminal Camilo Ortega"
                 ],
                 "times": [
                     [
@@ -14296,18 +14296,18 @@
                         "21:48"
                     ]
                 ],
-                "to": "Camilo Ortega"
+                "to": "Terminal Camilo Ortega"
             }
         ],
         "108": [
             {
-                "from": "Reparto Schick",
+                "from": "Terminal Reparto Schick",
                 "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
-                    "Reparto Schick",
-                    "Barrio Jose Dolores Estrada"
+                    "Terminal Reparto Schick",
+                    "Terminal 108"
                 ],
                 "times": [
                     [
@@ -14519,16 +14519,16 @@
                         "20:30"
                     ]
                 ],
-                "to": "Barrio Jose Dolores Estrada"
+                "to": "Terminal 108"
             },
             {
-                "from": "Reparto Schick",
+                "from": "Terminal Reparto Schick",
                 "services": [
                     "Sa"
                 ],
                 "stations": [
-                    "Reparto Schick",
-                    "Barrio Jose Dolores Estrada"
+                    "Terminal Reparto Schick",
+                    "Terminal 108"
                 ],
                 "times": [
                     [
@@ -14740,16 +14740,16 @@
                         "20:30"
                     ]
                 ],
-                "to": "Barrio Jose Dolores Estrada"
+                "to": "Terminal 108"
             },
             {
-                "from": "Reparto Schick",
+                "from": "Terminal Reparto Schick",
                 "services": [
                     "Su"
                 ],
                 "stations": [
-                    "Reparto Schick",
-                    "Barrio Jose Dolores Estrada"
+                    "Terminal Reparto Schick",
+                    "Terminal 108"
                 ],
                 "times": [
                     [
@@ -14913,16 +14913,16 @@
                         "20:00"
                     ]
                 ],
-                "to": "Barrio Jose Dolores Estrada"
+                "to": "Terminal 108"
             },
             {
-                "from": "Barrio Jose Dolores Estrada",
+                "from": "Terminal 108",
                 "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
-                    "Barrio Jose Dolores Estrada",
-                    "Reparto Schick"
+                    "Terminal 108",
+                    "Terminal Reparto Schick"
                 ],
                 "times": [
                     [
@@ -15134,16 +15134,16 @@
                         "20:30"
                     ]
                 ],
-                "to": "Reparto Schick"
+                "to": "Terminal Reparto Schick"
             },
             {
-                "from": "Barrio Jose Dolores Estrada",
+                "from": "Terminal 108",
                 "services": [
                     "Sa"
                 ],
                 "stations": [
-                    "Barrio Jose Dolores Estrada",
-                    "Reparto Schick"
+                    "Terminal 108",
+                    "Terminal Reparto Schick"
                 ],
                 "times": [
                     [
@@ -15355,16 +15355,16 @@
                         "20:30"
                     ]
                 ],
-                "to": "Reparto Schick"
+                "to": "Terminal Reparto Schick"
             },
             {
-                "from": "Barrio Jose Dolores Estrada",
+                "from": "Terminal 108",
                 "services": [
                     "Su"
                 ],
                 "stations": [
-                    "Barrio Jose Dolores Estrada",
-                    "Reparto Schick"
+                    "Terminal 108",
+                    "Terminal Reparto Schick"
                 ],
                 "times": [
                     [
@@ -15528,7 +15528,7 @@
                         "20:00"
                     ]
                 ],
-                "to": "Reparto Schick"
+                "to": "Terminal Reparto Schick"
             }
         ],
         "109": [
