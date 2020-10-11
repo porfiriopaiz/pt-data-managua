@@ -8197,13 +8197,13 @@
         ],
         "105": [
             {
-                "from": "Unidad de Propósito",
+                "from": "Terminal 105",
                 "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
-                    "Unidad de Propósito",
-                    "Camilo Ortega"
+                    "Terminal 105",
+                    "Plazoleta Camilo Ortega"
                 ],
                 "times": [
                     [
@@ -8515,16 +8515,16 @@
                         "22:00"
                     ]
                 ],
-                "to": "Camilo Ortega"
+                "to": "Plazoleta Camilo Ortega"
             },
             {
-                "from": "Unidad de Propósito",
+                "from": "Terminal 105",
                 "services": [
                     "Sa"
                 ],
                 "stations": [
-                    "Unidad de Propósito",
-                    "Camilo Ortega"
+                    "Terminal 105",
+                    "Plazoleta Camilo Ortega"
                 ],
                 "times": [
                     [
@@ -8752,16 +8752,16 @@
                         "21:00"
                     ]
                 ],
-                "to": "Camilo Ortega"
+                "to": "Plazoleta Camilo Ortega"
             },
             {
-                "from": "Unidad de Propósito",
+                "from": "Terminal 105",
                 "services": [
                     "Su"
                 ],
                 "stations": [
-                    "Unidad de Propósito",
-                    "Camilo Ortega"
+                    "Terminal 105",
+                    "Plazoleta Camilo Ortega"
                 ],
                 "times": [
                     [
@@ -9005,16 +9005,16 @@
                         "21:00"
                     ]
                 ],
-                "to": "Camilo Ortega"
+                "to": "Plazoleta Camilo Ortega"
             },
             {
-                "from": "Camilo Ortega",
+                "from": "Plazoleta Camilo Ortega",
                 "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
-                    "Camilo Ortega",
-                    "Unidad de Propósito"
+                    "Plazoleta Camilo Ortega",
+                    "Terminal 105"
                 ],
                 "times": [
                     [
@@ -9326,16 +9326,16 @@
                         "22:00"
                     ]
                 ],
-                "to": "Unidad de Propósito"
+                "to": "Terminal 105"
             },
             {
-                "from": "Camilo Ortega",
+                "from": "Plazoleta Camilo Ortega",
                 "services": [
                     "Sa"
                 ],
                 "stations": [
-                    "Camilo Ortega",
-                    "Unidad de Propósito"
+                    "Plazoleta Camilo Ortega",
+                    "Terminal 105"
                 ],
                 "times": [
                     [
@@ -9563,16 +9563,16 @@
                         "21:00"
                     ]
                 ],
-                "to": "Unidad de Propósito"
+                "to": "Terminal 105"
             },
             {
-                "from": "Camilo Ortega",
+                "from": "Plazoleta Camilo Ortega",
                 "services": [
                     "Su"
                 ],
                 "stations": [
-                    "Camilo Ortega",
-                    "Unidad de Propósito"
+                    "Plazoleta Camilo Ortega",
+                    "Terminal 105"
                 ],
                 "times": [
                     [
@@ -9816,7 +9816,7 @@
                         "21:00"
                     ]
                 ],
-                "to": "Unidad de Propósito"
+                "to": "Terminal 105"
             }
         ],
         "106": [
