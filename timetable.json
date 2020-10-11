@@ -11,7 +11,7 @@
                 ],
                 "stations": [
                     "Mercado Mayoreo",
-                    "Las Brisas"
+                    "San Miguel Arcángel"
                 ],
                 "times": [
                     [
@@ -319,7 +319,7 @@
                         "22:15"
                     ]
                 ],
-                "to": "Las Brisas"
+                "to": "San Miguel Arcángel"
             },
             {
                 "from": "Mercado Mayoreo",
@@ -328,7 +328,7 @@
                 ],
                 "stations": [
                     "Mercado Mayoreo",
-                    "Las Brisas"
+                    "San Miguel Arcángel"
                 ],
                 "times": [
                     [
@@ -636,7 +636,7 @@
                         "22:15"
                     ]
                 ],
-                "to": "Las Brisas"
+                "to": "San Miguel Arcángel"
             },
             {
                 "from": "Mercado Mayoreo",
@@ -645,7 +645,7 @@
                 ],
                 "stations": [
                     "Mercado Mayoreo",
-                    "Las Brisas"
+                    "San Miguel Arcángel"
                 ],
                 "times": [
                     [
@@ -953,15 +953,15 @@
                         "22:15"
                     ]
                 ],
-                "to": "Las Brisas"
+                "to": "San Miguel Arcángel"
             },
             {
-                "from": "Las Brisas",
+                "from": "San Miguel Arcángel",
                 "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
-                    "Las Brisas",
+                    "San Miguel Arcángel",
                     "Mercado Mayoreo"
                 ],
                 "times": [
@@ -1273,12 +1273,12 @@
                 "to": "Mercado Mayoreo"
             },
             {
-                "from": "Las Brisas",
+                "from": "San Miguel Arcángel",
                 "services": [
                     "Sa"
                 ],
                 "stations": [
-                    "Las Brisas",
+                    "San Miguel Arcángel",
                     "Mercado Mayoreo"
                 ],
                 "times": [
@@ -1590,12 +1590,12 @@
                 "to": "Mercado Mayoreo"
             },
             {
-                "from": "Las Brisas",
+                "from": "San Miguel Arcángel",
                 "services": [
                     "Su"
                 ],
                 "stations": [
-                    "Las Brisas",
+                    "San Miguel Arcángel",
                     "Mercado Mayoreo"
                 ],
                 "times": [
@@ -1915,7 +1915,7 @@
                 ],
                 "stations": [
                     "Mercado Mayoreo",
-                    "Acahualinca"
+                    "Pulpería Karla"
                 ],
                 "times": [
                     [
@@ -2331,7 +2331,7 @@
                         "22:00"
                     ]
                 ],
-                "to": "Acahualinca"
+                "to": "Pulpería Karla"
             },
             {
                 "from": "Mercado Mayoreo",
@@ -2340,7 +2340,7 @@
                 ],
                 "stations": [
                     "Mercado Mayoreo",
-                    "Acahualinca"
+                    "Pulpería Karla"
                 ],
                 "times": [
                     [
@@ -2732,7 +2732,7 @@
                         "21:30"
                     ]
                 ],
-                "to": "Acahualinca"
+                "to": "Pulpería Karla"
             },
             {
                 "from": "Mercado Mayoreo",
@@ -2741,7 +2741,7 @@
                 ],
                 "stations": [
                     "Mercado Mayoreo",
-                    "Acahualinca"
+                    "Pulpería Karla"
                 ],
                 "times": [
                     [
@@ -3065,15 +3065,15 @@
                         "21:03"
                     ]
                 ],
-                "to": "Acahualinca"
+                "to": "Pulpería Karla"
             },
             {
-                "from": "Acahualinca",
+                "from": "Pulpería Karla",
                 "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
-                    "Acahualinca",
+                    "Pulpería Karla",
                     "Mercado Mayoreo"
                 ],
                 "times": [
@@ -3493,12 +3493,12 @@
                 "to": "Mercado Mayoreo"
             },
             {
-                "from": "Acahualinca",
+                "from": "Pulpería Karla",
                 "services": [
                     "Sa"
                 ],
                 "stations": [
-                    "Acahualinca",
+                    "Pulpería Karla",
                     "Mercado Mayoreo"
                 ],
                 "times": [
@@ -3894,12 +3894,12 @@
                 "to": "Mercado Mayoreo"
             },
             {
-                "from": "Acahualinca",
+                "from": "Pulpería Karla",
                 "services": [
                     "Su"
                 ],
                 "stations": [
-                    "Acahualinca",
+                    "Pulpería Karla",
                     "Mercado Mayoreo"
                 ],
                 "times": [
