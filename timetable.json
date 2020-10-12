@@ -54875,7 +54875,7 @@
                 ],
                 "stations": [
                     "Terminal 163",
-                    "La Católica"
+                    "El Panal"
                 ],
                 "times": [
                     [
@@ -55155,7 +55155,7 @@
                         "21:10"
                     ]
                 ],
-                "to": "La Católica"
+                "to": "El Panal"
             },
             {
                 "from": "Terminal 163",
@@ -55164,7 +55164,7 @@
                 ],
                 "stations": [
                     "Terminal 163",
-                    "La Católica"
+                    "El Panal"
                 ],
                 "times": [
                     [
@@ -55444,7 +55444,7 @@
                         "21:10"
                     ]
                 ],
-                "to": "La Católica"
+                "to": "El Panal"
             },
             {
                 "from": "Terminal 163",
@@ -55453,7 +55453,7 @@
                 ],
                 "stations": [
                     "Terminal 163",
-                    "La Católica"
+                    "El Panal"
                 ],
                 "times": [
                     [
@@ -55721,15 +55721,15 @@
                         "20:10"
                     ]
                 ],
-                "to": "La Católica"
+                "to": "El Panal"
             },
             {
-                "from": "La Católica",
+                "from": "El Panal",
                 "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
-                    "La Católica",
+                    "El Panal",
                     "Terminal 163"
                 ],
                 "times": [
@@ -56013,12 +56013,12 @@
                 "to": "Terminal 163"
             },
             {
-                "from": "La Católica",
+                "from": "El Panal",
                 "services": [
                     "Sa"
                 ],
                 "stations": [
-                    "La Católica",
+                    "El Panal",
                     "Terminal 163"
                 ],
                 "times": [
@@ -56302,12 +56302,12 @@
                 "to": "Terminal 163"
             },
             {
-                "from": "La Católica",
+                "from": "El Panal",
                 "services": [
                     "Su"
                 ],
                 "stations": [
-                    "La Católica",
+                    "El Panal",
                     "Terminal 163"
                 ],
                 "times": [
@@ -71613,12 +71613,12 @@
         ],
         "172CS": [
             {
-                "from": "Entrada Ciudad Sandino",
+                "from": "Entrada a Ciudad Sandino",
                 "services": [
                     "Mo-Fr"
                 ],
                 "stations": [
-                    "Entrada Ciudad Sandino",
+                    "Entrada a Ciudad Sandino",
                     "Terminal Villa Sandino"
                 ],
                 "times": [
@@ -71746,12 +71746,12 @@
                 "to": "Terminal Villa Sandino"
             },
             {
-                "from": "Entrada Ciudad Sandino",
+                "from": "Entrada a Ciudad Sandino",
                 "services": [
                     "Sa"
                 ],
                 "stations": [
-                    "Entrada Ciudad Sandino",
+                    "Entrada a Ciudad Sandino",
                     "Terminal Villa Sandino"
                 ],
                 "times": [
@@ -71879,12 +71879,12 @@
                 "to": "Terminal Villa Sandino"
             },
             {
-                "from": "Entrada Ciudad Sandino",
+                "from": "Entrada a Ciudad Sandino",
                 "services": [
                     "Su"
                 ],
                 "stations": [
-                    "Entrada Ciudad Sandino",
+                    "Entrada a Ciudad Sandino",
                     "Terminal Villa Sandino"
                 ],
                 "times": [
@@ -71998,7 +71998,7 @@
                 ],
                 "stations": [
                     "Terminal Villa Sandino",
-                    "Entrada Ciudad Sandino"
+                    "Entrada a Ciudad Sandino"
                 ],
                 "times": [
                     [
@@ -72122,7 +72122,7 @@
                         "21:00"
                     ]
                 ],
-                "to": "Entrada Ciudad Sandino"
+                "to": "Entrada a Ciudad Sandino"
             },
             {
                 "from": "Terminal Villa Sandino",
@@ -72131,7 +72131,7 @@
                 ],
                 "stations": [
                     "Terminal Villa Sandino",
-                    "Entrada Ciudad Sandino"
+                    "Entrada a Ciudad Sandino"
                 ],
                 "times": [
                     [
@@ -72255,7 +72255,7 @@
                         "21:00"
                     ]
                 ],
-                "to": "Entrada Ciudad Sandino"
+                "to": "Entrada a Ciudad Sandino"
             },
             {
                 "from": "Terminal Villa Sandino",
@@ -72264,7 +72264,7 @@
                 ],
                 "stations": [
                     "Terminal Villa Sandino",
-                    "Entrada Ciudad Sandino"
+                    "Entrada a Ciudad Sandino"
                 ],
                 "times": [
                     [
@@ -72368,7 +72368,7 @@
                         "18:30"
                     ]
                 ],
-                "to": "Entrada Ciudad Sandino"
+                "to": "Entrada a Ciudad Sandino"
             }
         ],
         "175": [
